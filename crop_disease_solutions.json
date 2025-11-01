@@ -1,0 +1,50 @@
+[
+  {
+    "class_name": "Tomato___Late_blight",
+    "solution_en": "Spray neem oil and remove infected leaves.",
+    "solution_hi": "नीम का तेल छिड़कें और संक्रमित पत्तियां हटा दें।",
+    "solution_pa": "ਨੀਮ ਦਾ ਤੇਲ ਛਿੜਕੋ ਅਤੇ ਸੰਕ੍ਰਮਿਤ ਪੱਤਿਆਂ ਨੂੰ ਹਟਾਓ।"
+  },
+  {
+    "class_name": "Tomato___Early_blight",
+    "solution_en": "Remove affected leaves and use fungicide spray.",
+    "solution_hi": "संक्रमित पत्तियां हटा दें और फफूंदनाशी का छिड़काव करें।",
+    "solution_pa": "ਸੰਕ੍ਰਮਿਤ ਪੱਤਿਆਂ ਨੂੰ ਹਟਾਓ ਅਤੇ ਫੰਗਿਸਾਈਡ ਛਿੜਕੋ।"
+  },
+  {
+    "class_name": "Tomato___Healthy",
+    "solution_en": "Your plant is healthy. Maintain regular care and watering.",
+    "solution_hi": "आपका पौधा स्वस्थ है। नियमित देखभाल और पानी देना जारी रखें।",
+    "solution_pa": "ਤੁਹਾਡਾ ਪੌਦਾ ਸਿਹਤਮੰਦ ਹੈ। ਨਿਯਮਤ ਸੰਭਾਲ ਅਤੇ ਪਾਣੀ ਦਿੰਦੇ ਰਹੋ।"
+  },
+  {
+    "class_name": "Potato___Early_blight",
+    "solution_en": "Use disease-resistant seeds and apply fungicides.",
+    "solution_hi": "रोग-प्रतिरोधी बीजों का प्रयोग करें और फफूंदनाशी का छिड़काव करें।",
+    "solution_pa": "ਰੋਗ-ਰੋਧੀ ਬੀਜ ਵਰਤੋਂ ਅਤੇ ਫੰਗਿਸਾਈਡ ਛਿੜਕੋ।"
+  },
+  {
+    "class_name": "Potato___Late_blight",
+    "solution_en": "Remove infected plants and improve drainage.",
+    "solution_hi": "संक्रमित पौधों को हटा दें और जल निकासी सुधारे।",
+    "solution_pa": "ਸੰਕ੍ਰਮਿਤ ਪੌਦਿਆਂ ਨੂੰ ਹਟਾਓ ਅਤੇ ਡ੍ਰੇਨੇਜ ਸੁਧਾਰੋ।"
+  },
+  {
+    "class_name": "Potato___Healthy",
+    "solution_en": "Plant is healthy. Maintain proper irrigation and fertilization.",
+    "solution_hi": "पौधा स्वस्थ है। उचित सिंचाई और उर्वरक प्रयोग करें।",
+    "solution_pa": "ਪੌਦਾ ਸਿਹਤਮੰਦ ਹੈ। ਠੀਕ ਸਿੰਚਾਈ ਅਤੇ ਖਾਦ ਦਿਓ।"
+  },
+  {
+    "class_name": "Apple___Apple_scab",
+    "solution_en": "Remove infected leaves and apply fungicide spray.",
+    "solution_hi": "संक्रमित पत्तियां हटा दें और फफूंदनाशी का छिड़काव करें।",
+    "solution_pa": "ਸੰਕ੍ਰਮਿਤ ਪੱਤਿਆਂ ਨੂੰ ਹਟਾਓ ਅਤੇ ਫੰਗਿਸਾਈਡ ਛਿੜਕੋ।"
+  },
+  {
+    "class_name": "Apple___Healthy",
+    "solution_en": "Your apple tree is healthy. Continue proper care.",
+    "solution_hi": "आपका सेब का पेड़ स्वस्थ है। उचित देखभाल जारी रखें।",
+    "solution_pa": "ਤੁਹਾਡਾ ਸੇਬ ਦਾ ਰੁੱਖ ਸਿਹਤਮੰਦ ਹੈ। ਠੀਕ ਸੰਭਾਲ ਜਾਰੀ ਰੱਖੋ।"
+  }
+]

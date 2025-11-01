@@ -1,0 +1,1700 @@
+[
+  {
+    "question": "How to hire a driver or operator?",
+    "answer_en": "You can hire trained drivers or operators nearby using the Kisaan AI app for booking and digital slip.",
+    "answer_hi": "आप नज़दीकी प्रशिक्षित ड्राइवर या ऑपरेटर को किसान एआई ऐप से बुकिंग और डिजिटल स्लिप सुविधा के जरिए किराए पर ले सकते हैं।",
+    "answer_pa": "ਤੁਸੀਂ ਨਜ਼ਦੀਕੀ ਤਜਰਬੇਕਾਰ ਡ੍ਰਾਇਵਰ ਜਾਂ ਓਪਰੇਟਰ ਨੂੰ Kisaan AI ਐਪ ਰਾਹੀਂ ਬੁਕਿੰਗ ਅਤੇ ਡਿਜ਼ਿਟਲ ਸਲਿਪ ਦੀ ਸਹੂਲਤ ਨਾਲ ਕਿਰਾਏ 'ਤੇ ਲੈ ਸਕਦੇ ਹੋ।"
+  },
+  {
+    "question": "Which equipment should I use?",
+    "answer_en": "You will get recommended equipment based on soil and crop type. Multipurpose machines can save costs.",
+    "answer_hi": "मिट्टी और फसल के प्रकार के हिसाब से आपको अनुशंसित उपकरण का सुझाव दिया जाएगा। बहुउद्देश्यीय मशीनों का उपयोग करके लागत बचत करें।",
+    "answer_pa": "ਮਿੱਟੀ ਅਤੇ ਫਸਲ ਦੇ ਕਿਸਮ ਅਨੁਸਾਰ ਤੁਹਾਨੂੰ ਸਿਫਾਰਸ਼ ਕੀਤੀ ਗਈ ਸੰਦ ਮਿਲੇਗੀ। ਖਰਚ ਬਚਾਉਣ ਲਈ ਬਹੁ-ਉਦੇਸ਼ੀ ਮਸ਼ੀਨਾਂ ਵਰਤੋ।"
+  },
+  {
+    "question": "How to manage water?",
+    "answer_en": "Use irrigation support for water management. Use drainage for excess rain and drip irrigation for drought.",
+    "answer_hi": "सिंचाई सहायता से आप जल प्रबंधन कर सकते हैं। अधिक वर्षा में जल निकासी करें और सूखे में ड्रिप इरीगेशन का उपयोग करें।",
+    "answer_pa": "ਪਾਣੀ ਦੇ ਪ੍ਰਬੰਧ ਲਈ ਸਿੰਚਾਈ ਸਹਾਇਤਾ ਵਰਤੋ। ਵੱਧ ਬਾਰਿਸ਼ ਲਈ ਨਿਕਾਸ ਅਤੇ ਸੁੱਕੇ ਲਈ ਡ੍ਰਿਪ ਸਿੰਚਾਈ ਵਰਤੋਂ।"
+  },
+  {
+    "question": "Which government schemes are available?",
+    "answer_en": "Get updates on government schemes and subsidies via Kisaan AI app. Apply online for KCC loans and other schemes.",
+    "answer_hi": "सरकारी योजनाओं और सब्सिडी की जानकारी Kisaan AI ऐप में प्राप्त करें। KCC लोन और अन्य योजनाओं के लिए ऑनलाइन आवेदन करें।",
+    "answer_pa": "ਸਰਕਾਰੀ ਯੋਜਨਾਵਾਂ ਅਤੇ ਸਬਸਿਡੀ ਦੀ ਜਾਣਕਾਰੀ Kisaan AI ਐਪ ਵਿੱਚ ਪ੍ਰਾਪਤ ਕਰੋ। KCC ਲੋਨ ਅਤੇ ਹੋਰ ਯੋਜਨਾਵਾਂ ਲਈ ਆਨਲਾਈਨ ਅਰਜ਼ੀ ਦੇ ਸਕਦੇ ਹੋ।"
+  },
+  {
+    "question": "How to detect crop disease?",
+    "answer_en": "Use the crop disease detection feature in Kisaan AI. Get expert advice and recommended treatment.",
+    "answer_hi": "किसान एआई में फसल रोग पहचान सुविधा का उपयोग करें। विशेषज्ञ की सलाह और अनुशंसित उपचार प्राप्त करें।",
+    "answer_pa": "Kisaan AI ਵਿੱਚ ਫਸਲ ਦੀ ਬਿਮਾਰੀ ਪਛਾਣ ਵਿਸ਼ੇਸ਼ਤਾ ਵਰਤੋਂ। ਵਿਸ਼ੇਸ਼ਗਿਆ ਸਲਾਹ ਅਤੇ ਸੁਝਾਏ ਇਲਾਜ ਪ੍ਰਾਪਤ ਕਰੋ।"
+  },
+  {
+    "question": "How to prevent wheat rust?",
+    "answer_en": "Use resistant varieties and spray Mancozeb.",
+    "answer_hi": "प्रतिरोधी किस्में लगाएँ और मैनकोज़ेब छिड़काव करें।",
+    "answer_pa": "ਪ੍ਰਤੀਰੋਧਕ ਕਿਸਮਾਂ ਵਰਤੋਂ ਅਤੇ ਮੈਨਕੋਜ਼ੈਬ ਛਿੜਕੋ।"
+  },
+  {
+    "question": "How to prevent rice blast?",
+    "answer_en": "Avoid excess nitrogen, maintain proper spacing, and spray Tricyclazole.",
+    "answer_hi": "अत्यधिक नाइट्रोजन से बचें, पौधों के बीच उचित दूरी रखें और Tricyclazole छिड़काव करें।",
+    "answer_pa": "ਵਾਧੂ ਨਾਈਟਰੋਜਨ ਤੋਂ ਬਚੋ, ਪੌਦਿਆਂ ਵਿੱਚ ਠੀਕ ਦੂਰੀ ਰੱਖੋ ਅਤੇ ਟ੍ਰਾਈਸਾਇਕਲਾਜ਼ੋਲ ਛਿੜਕੋ।"
+  },
+  {
+    "question": "How to prevent cotton wilt?",
+    "answer_en": "Use crop rotation, treat seeds before sowing, and spray Carbendazim.",
+    "answer_hi": "फसल चक्रीकरण करें, बीज बोने से पहले उपचार करें और कार्बेन्डाज़िम छिड़काव करें।",
+    "answer_pa": "ਫਸਲ ਚਕਰੀਕਰਨ ਕਰੋ, ਬੀਜ ਬੋਣ ਤੋਂ ਪਹਿਲਾਂ ਇਲਾਜ ਕਰੋ ਅਤੇ ਕਾਰਬੈਂਡਾਜ਼ਿਮ ਛਿੜਕੋ।"
+  },
+  {
+    "question": "How to prevent tomato late blight?",
+    "answer_en": "Spray Metalaxyl or Copper Oxychloride and remove infected plants immediately.",
+    "answer_hi": "Metalaxyl या Copper Oxychloride छिड़काव करें और संक्रमित पौधों को तुरंत हटाएँ।",
+    "answer_pa": "ਮੈਟਾਲੈਕਸਾਈਲ ਜਾਂ ਕਾਪਰ ਆਕਸੀਕਲੋਰਾਈਡ ਛਿੜਕੋ ਅਤੇ ਸੰਕ੍ਰਮਿਤ ਪੌਦਿਆਂ ਨੂੰ ਤੁਰੰਤ ਹਟਾਓ।"
+  },
+  {
+    "question": "How to prevent potato early blight?",
+    "answer_en": "Apply Mancozeb every 10 days and ensure proper drainage.",
+    "answer_hi": "हर 10 दिन में Mancozeb छिड़काव करें और उचित जल निकासी सुनिश्चित करें।",
+    "answer_pa": "ਹਰ 10 ਦਿਨ ਬਾਅਦ ਮੈਨਕੋਜ਼ੈਬ ਛਿੜਕੋ ਅਤੇ ਢੰਗ ਨਾਲ ਨਿਕਾਸ ਯਕੀਨੀ ਬਣਾਓ।"
+  },
+  {
+    "question": "How to use drip irrigation?",
+    "answer_en": "Install drip lines and water plants directly at the root.",
+    "answer_hi": "ड्रिप इरीगेशन लाइन लगाएँ और सीधे जड़ पर पानी दें।",
+    "answer_pa": "ਡ੍ਰਿਪ ਲਾਈਨਾਂ ਲਗਾਓ ਅਤੇ ਬੂਟਿਆਂ ਦੀ ਜੜ੍ਹ ਨੂੰ ਸਿੱਧਾ ਪਾਣੀ ਦਿਓ।"
+  },
+  {
+    "question": "Declining Groundwater Levels",
+    "answer_en": "Groundwater depletion is affecting irrigation in Haryana. Measures are needed to conserve water and promote efficient irrigation.",
+    "answer_hi": "हरियाणा में भूजल स्तर घट रहा है, जिससे सिंचाई प्रभावित हो रही है। पानी बचाने और प्रभावी सिंचाई को बढ़ावा देने की आवश्यकता है।",
+    "answer_pa": "ਹਰਿਆਣਾ ਵਿੱਚ ਭੂਜਲ ਪੱਧਰ ਘਟ ਰਿਹਾ ਹੈ, ਜਿਸ ਨਾਲ ਸਿੰਚਾਈ ਪ੍ਰਭਾਵਿਤ ਹੋ ਰਹੀ ਹੈ। ਪਾਣੀ ਬਚਾਉਣ ਅਤੇ ਪ੍ਰਭਾਵਸ਼ਾਲੀ ਸਿੰਚਾਈ ਨੂੰ فروغ ਦੇਣ ਦੀ ਲੋੜ ਹੈ।"
+  },
+  {
+    "question": "Overuse of Subsidized Tubewell Irrigation",
+    "answer_en": "Excessive tubewell use in Haryana is depleting groundwater resources. Sustainable usage practices are recommended.",
+    "answer_hi": "हरियाणा में अधिक ट्यूबवेल उपयोग से भूजल संसाधन समाप्त हो रहे हैं। सतत उपयोग की प्रथाएँ अपनाएँ।",
+    "answer_pa": "ਹਰਿਆਣਾ ਵਿੱਚ ਟਿਊਬਵੈੱਲ ਦੇ ਵੱਧ ਵਰਤੋਂ ਨਾਲ ਭੂਜਲ ਸਰੋਤ ਖ਼ਤਮ ਹੋ ਰਹੇ ਹਨ। ਸਤਤ ਵਰਤੋਂ ਦੀਆਂ ਪ੍ਰਥਾਵਾਂ ਦੀ ਸਿਫਾਰਸ਼ ਕੀਤੀ ਜਾਂਦੀ ਹੈ।"
+  },
+  {
+    "question": "Flooding Due to Canal Blockages",
+    "answer_en": "Canal blockages in Haryana cause waterlogging and crop damage. Regular maintenance of canals is necessary.",
+    "answer_hi": "हरियाणा में नहरों के अवरुद्ध होने से जलभराव और फसल नुकसान होता है। नहरों का नियमित रखरखाव आवश्यक है।",
+    "answer_pa": "ਹਰਿਆਣਾ ਵਿੱਚ ਨਾਹਰਾਂ ਦੇ ਰੁਕਾਅ ਨਾਲ ਪਾਣੀ ਖੜ੍ਹਾ ਹੋ ਜਾਂਦਾ ਹੈ ਅਤੇ ਫਸਲ ਨੁਕਸਾਨ ਹੁੰਦਾ ਹੈ। ਨਾਹਰਾਂ ਦੀ ਨਿਯਮਿਤ ਦੇਖਭਾਲ ਜ਼ਰੂਰੀ ਹੈ।"
+  },
+  {
+    "question": "Health Impacts on Farmers",
+    "answer_en": "Excessive pesticide use is causing health issues among farmers in Haryana. Proper safety measures should be followed.",
+    "answer_hi": "हरियाणा में अत्यधिक कीटनाशक उपयोग से किसानों में स्वास्थ्य समस्याएँ हो रही हैं। उचित सुरक्षा उपाय अपनाएँ।",
+    "answer_pa": "ਹਰਿਆਣਾ ਵਿੱਚ ਵੱਧ ਪੈਸਟਿਸਾਈਡ ਵਰਤੋਂ ਨਾਲ ਕਿਸਾਨਾਂ ਵਿੱਚ ਸਿਹਤ ਸਮੱਸਿਆਵਾਂ ਹੋ ਰਹੀਆਂ ਹਨ। ਠੀਕ ਸੁਰੱਖਿਆ ਉਪਾਅਨਾਂ ਦੀ ਪਾਲਣਾ ਕਰੋ।"
+  },
+  {
+    "question": "Environmental Contamination",
+    "answer_en": "Excessive pesticides are contaminating soil and water in Haryana. Eco-friendly alternatives should be used.",
+    "answer_hi": "अत्यधिक कीटनाशक हरियाणा में मिट्टी और पानी को प्रदूषित कर रहे हैं। पर्यावरण-हितैषी विकल्प अपनाएँ।",
+    "answer_pa": "ਵੱਧ ਪੈਸਟਿਸਾਈਡ ਹਰਿਆਣਾ ਵਿੱਚ ਮਿੱਟੀ ਅਤੇ ਪਾਣੀ ਨੂੰ ਪ੍ਰਦੂਸ਼ਿਤ ਕਰ ਰਹੇ ਹਨ। ਪਰਿਆਵਰਨ-ਹਿਤੈਸ਼ੀ ਵਿਕਲਪ ਵਰਤੋ।"
+  },
+  {
+    "question": "Regulatory Measures",
+    "answer_en": "Enforcing pesticide regulations in Haryana is challenging. Awareness and compliance need improvement.",
+    "answer_hi": "हरियाणा में कीटनाशक नियमों का पालन करना चुनौतीपूर्ण है। जागरूकता और अनुपालन में सुधार की आवश्यकता है।",
+    "answer_pa": "ਹਰਿਆਣਾ ਵਿੱਚ ਪੈਸਟਿਸਾਈਡ ਨਿਯਮ ਲਾਗੂ ਕਰਨਾ ਚੁਣੌਤੀਪੂਰਨ ਹੈ। ਜਾਗਰੂਕਤਾ ਅਤੇ ਪਾਲਣਾ ਵਿੱਚ ਸੁਧਾਰ ਦੀ ਲੋੜ ਹੈ।"
+  },
+  {
+    "question": "Soil Quality Deterioration",
+    "answer_en": "Soil fertility is declining in Haryana. Measures like crop rotation and organic inputs are recommended.",
+    "answer_hi": "हरियाणा में मिट्टी की उर्वरता घट रही है। फसल चक्रीकरण और जैविक खाद जैसे उपाय अपनाएँ।",
+    "answer_pa": "ਹਰਿਆਣਾ ਵਿੱਚ ਮਿੱਟੀ ਦੀ ਉਰਵਰਤਾ ਘਟ ਰਹੀ ਹੈ। ਫਸਲ ਚਕਰੀਕਰਨ ਅਤੇ ਜੈਵਿਕ ਇਨਪੁੱਟ ਵਰਗੇ ਉਪਾਅ ਲਾਗੂ ਕਰੋ।"
+  },
+  {
+    "question": "Awareness and Training Deficits",
+    "answer_en": "Farmers in Haryana lack knowledge on sustainable practices. Training and awareness programs are needed.",
+    "answer_hi": "हरियाणा के किसानों को सतत कृषि प्रथाओं का ज्ञान नहीं है। प्रशिक्षण और जागरूकता कार्यक्रम जरूरी हैं।",
+    "answer_pa": "ਹਰਿਆਣਾ ਦੇ ਕਿਸਾਨਾਂ ਕੋਲ ਸਤਤ ਪ੍ਰਥਾਵਾਂ ਬਾਰੇ ਜਾਣਕਾਰੀ ਨਹੀਂ ਹੈ। ਤਾਲੀਮ ਅਤੇ ਜਾਗਰੂਕਤਾ ਕਾਰਜਕ੍ਰਮ ਲੋੜੀਂਦੇ ਹਨ।"
+  },
+  {
+    "question": "Inadequate Infrastructure",
+    "answer_en": "Poor rural infrastructure in Haryana affects farming activities. Investment in roads, storage, and irrigation needed.",
+    "answer_hi": "हरियाणा में ग्रामीण अवसंरचना कमजोर होने से कृषि प्रभावित होती है। सड़क, भंडारण और सिंचाई में निवेश करें।",
+    "answer_pa": "ਹਰਿਆਣਾ ਵਿੱਚ ਪੇਂਡੂ ਬੁਨਿਆਦੀ ਢਾਂਚਾ ਖਰਾਬ ਹੋਣ ਨਾਲ ਖੇਤੀ ਪ੍ਰਭਾਵਿਤ ਹੁੰਦੀ ਹੈ। ਸੜਕਾਂ, ਸਟੋਰੇਜ ਅਤੇ ਸਿੰਚਾਈ ਵਿੱਚ ਨਿਵੇਸ਼ ਕਰੋ।"
+  },
+  {
+    "question": "Crop Diversification",
+    "answer_en": "Limited crop choices in Haryana affect farmers’ income. Promoting crop diversification is essential.",
+    "answer_hi": "हरियाणा में फसल विकल्प सीमित हैं, जिससे आय प्रभावित होती है। फसल विविधीकरण को बढ़ावा दें।",
+    "answer_pa": "ਹਰਿਆਣਾ ਵਿੱਚ ਫਸਲ ਵਿਕਲਪ ਸੀਮਿਤ ਹਨ, ਜਿਸ ਨਾਲ ਆਮਦਨੀ ਪ੍ਰਭਾਵਿਤ ਹੁੰਦੀ ਹੈ। ਫਸਲ ਵਿਵਿਧਤਾ ਨੂੰ فروغ ਦਿਓ।"
+  },
+  {
+    "question": "Economic Pressures",
+    "answer_en": "Crop failures and market volatility are causing financial instability in Haryana. Support programs are needed.",
+    "answer_hi": "फसल असफलता और बाजार अस्थिरता हरियाणा में वित्तीय अस्थिरता पैदा कर रही हैं। समर्थन कार्यक्रम जरूरी हैं।",
+    "answer_pa": "ਫਸਲ ਫੇਲ੍ਹ ਅਤੇ ਬਾਜ਼ਾਰ ਅਸਥਿਰਤਾ ਹਰਿਆਣਾ ਵਿੱਚ ਵਿੱਤੀ ਅਸਥਿਰਤਾ ਪੈਦਾ ਕਰ ਰਹੀਆਂ ਹਨ। ਸਹਾਇਤਾ ਕਾਰਜਕ੍ਰਮ ਲੋੜੀਂਦੇ ਹਨ।"
+  },
+  {
+    "question": "Wildlife Encroachment",
+    "answer_en": "Wild animals are entering farmlands in Haryana, causing crop damage. Fencing and awareness needed.",
+    "answer_hi": "हरियाणा में जंगली जानवर खेतों में प्रवेश कर रहे हैं, जिससे फसल नुकसान हो रहा है। बाड़ और जागरूकता जरूरी है।",
+    "answer_pa": "ਹਰਿਆਣਾ ਵਿੱਚ ਜੰਗਲੀ ਜੀਵ ਫ਼ਸਲ ਖੇਤਾਂ ਵਿੱਚ ਦਾਖਲ ਹੋ ਰਹੇ ਹਨ, ਜਿਸ ਨਾਲ ਨੁਕਸਾਨ ਹੋ ਰਿਹਾ ਹੈ। ਬਾਰਡਿੰਗ ਅਤੇ ਜਾਗਰੂਕਤਾ ਲੋੜੀਂਦੀ ਹੈ।"
+  },
+  {
+    "question": "Implementation Gaps",
+    "answer_en": "Weak enforcement of agricultural policies in Haryana affects farming. Monitoring and accountability needed.",
+    "answer_hi": "हरियाणा में कृषि नीतियों का कमजोर क्रियान्वयन खेती को प्रभावित करता है। निगरानी और जवाबदेही जरूरी है।",
+    "answer_pa": "ਹਰਿਆਣਾ ਵਿੱਚ ਖੇਤੀ ਨੀਤੀਆਂ ਦੀ ਕਮਜ਼ੋਰ ਲਾਗੂਆਈ ਖੇਤੀ ਨੂੰ ਪ੍ਰਭਾਵਿਤ ਕਰਦੀ ਹੈ। ਨਿਗਰਾਨੀ ਅਤੇ ਜਵਾਬਦੇਹੀ ਲੋੜੀਂਦੀ ਹੈ।"
+  },
+  {
+    "question": "Policy Coherence",
+    "answer_en": "Lack of coordination between departments in Haryana affects policy effectiveness. Integrated planning needed.",
+    "answer_hi": "हरियाणा में विभागों के बीच समन्वय की कमी नीतियों को प्रभावित करती है। एकीकृत योजना जरूरी है।",
+    "answer_pa": "ਹਰਿਆਣਾ ਵਿੱਚ ਵਿਭਾਗਾਂ ਵਿਚਕਾਰ ਸਹਿਯੋਗ ਦੀ ਕਮੀ ਨੀਤੀਆਂ ਨੂੰ ਪ੍ਰਭਾਵਿਤ ਕਰਦੀ ਹੈ। ਇਕੀਕ੍ਰਿਤ ਯੋਜਨਾ ਲੋੜੀਂਦੀ ਹੈ।"
+  },
+  {
+    "question": "Pest attack on paddy (Brown Plant Hopper, leaf folder)",
+    "answer_en": "Adopt Integrated Pest Management (IPM) using resistant varieties, timely spraying, and biopesticides in Andhra Pradesh.",
+    "answer_hi": "आंध्र प्रदेश में धान पर कीट हमले (ब्राउन प्लांट हॉपर, लीफ फोल्डर) के लिए IPM अपनाएँ: प्रतिरोधी किस्में, समय पर छिड़काव और जैव कीटनाशक।",
+    "answer_pa": "ਆਂਧਰਾ ਪ੍ਰਦੇਸ਼ ਵਿੱਚ ਧਾਨ 'ਤੇ ਕੀੜੇ (ਬ੍ਰਾਊਨ ਪਲਾਂਟ ਹੌਪਰ, ਪੱਤਾ ਫੋਲਡਰ) ਲਈ IPM ਵਰਤੋਂ: ਪ੍ਰਤੀਰੋਧਕ ਕਿਸਮਾਂ, ਸਮੇਂ 'ਤੇ ਛਿੜਕਾਅ ਅਤੇ ਜੈਵਿਕ ਕੀਟਨਾਸ਼ਕ।"
+  },
+  {
+    "question": "Thrips infestation in chilli crops (Guntur region)",
+    "answer_en": "Use sticky traps, practice crop rotation, apply recommended sprays, and avoid excess nitrogen in chilli crops.",
+    "answer_hi": "गुंटूर क्षेत्र में मिर्च की फसल में थ्रिप्स संक्रमण के लिए चिपचिपे ट्रैप, फसल चक्रीकरण, सुझाए गए छिड़काव और अधिक नाइट्रोजन से बचें।",
+    "answer_pa": "ਗੁੰਟੂਰ ਖੇਤਰ ਵਿੱਚ ਮਿਰਚ ਦੀ ਫਸਲ 'ਚ ਥ੍ਰਿਪਸ ਲਈ ਚਿਪਚਿਪੇ ਟਰੈਪ, ਫਸਲ ਚਕਰੀਕਰਨ, ਸਿਫਾਰਸ਼ ਕੀਤੇ ਛਿੜਕਾਅ ਅਤੇ ਵੱਧ ਨਾਈਟ੍ਰੋਜਨ ਤੋਂ ਬਚੋ।"
+  },
+  {
+    "question": "Low rainfall and drought in Rayalaseema (Anantapur, Kadapa)",
+    "answer_en": "Grow drought-tolerant crops like millets and groundnut and adopt drip irrigation in Rayalaseema region.",
+    "answer_hi": "रायलसीमा (अनंतपुर, कादपा) में कम वर्षा और सूखे के लिए सूखा सहिष्णु फसलें (बाजरा, मूंगफली) लगाएँ और ड्रिप सिंचाई अपनाएँ।",
+    "answer_pa": "ਰੇਅਲਾਸੀਮਾ (ਅਨੰਤਪੁਰ, ਕਦਾਪਾ) ਵਿੱਚ ਘੱਟ ਬਰਸਾਤ ਅਤੇ ਸੁੱਕੇ ਲਈ ਸੁੱਕਾ ਸਹਿਣਸ਼ੀਲ ਫਸਲਾਂ (ਬਾਜਰਾ, ਮੂੰਗਫਲੀ) ਲਗਾਓ ਅਤੇ ਡ੍ਰਿਪ ਸਿੰਚਾਈ ਵਰਤੋਂ।"
+  },
+  {
+    "question": "Cyclone damage to banana and coastal crops",
+    "answer_en": "Enroll in crop insurance, plant windbreaks, and use staking for banana plants to reduce cyclone damage.",
+    "answer_hi": "केला और तटीय फसलों को चक्रवात से बचाने के लिए फसल बीमा में नामांकन करें, वायु अवरोधक लगाएँ और केले के पौधों को स्टेकिंग करें।",
+    "answer_pa": "ਕੇਲਾ ਅਤੇ ਤਟੀਅ ਫਸਲਾਂ ਨੂੰ ਸਾਇਕਲੋਨ ਤੋਂ ਬਚਾਉਣ ਲਈ ਫਸਲ ਬੀਮਾ ਵਿੱਚ ਨਾਮांकन ਕਰੋ, ਵਾਇੰਡਬ੍ਰੇਕ ਲਗਾਓ ਅਤੇ ਕੇਲੇ ਦੇ ਪੌਦਿਆਂ ਨੂੰ ਸਟੇਕਿੰਗ ਕਰੋ।"
+  },
+  {
+    "question": "Tomato & chilli price crash after bumper harvest",
+    "answer_en": "Sell tomatoes and chillies via Rythu Bazaars, e-NAM, FPOs, and promote food processing and storage facilities.",
+    "answer_hi": " bumper harvest के बाद टमाटर और मिर्च की कीमत गिरने पर रिधु बाज़ार, e-NAM, FPOs के माध्यम से बिक्री करें और प्रसंस्करण/भंडारण सुविधाओं को बढ़ावा दें।",
+    "answer_pa": " bumper harvest ਤੋਂ ਬਾਅਦ ਟਮਾਟਰ ਅਤੇ ਮਿਰਚ ਦੀ ਕੀਮਤ ਡਿੱਗਣ 'ਤੇ Rythu Bazaars, e-NAM, FPOs ਰਾਹੀਂ ਵਿਕਰੀ ਕਰੋ ਅਤੇ ਖਾਣ-ਪੀਣ ਦੀ ਪ੍ਰਕਿਰਿਆ/ਸਟੋਰੇਜ ਨੂੰ فروغ ਦਿਓ।"
+  },
+  {
+    "question": "High input costs (seeds, fertilizers, pesticides)",
+    "answer_en": "Buy seeds, fertilizers, and pesticides from Rythu Bharosa Kendras (RBKs) for subsidies and consider organic inputs.",
+    "answer_hi": "बीज, उर्वरक और कीटनाशक Rythu Bharosa Kendras (RBKs) से सब्सिडी के लिए खरीदें और जैविक इनपुट अपनाएँ।",
+    "answer_pa": "ਬੀਜ, ਖਾਦ ਅਤੇ ਕੀਟਨਾਸ਼ਕ RBKs ਤੋਂ سبਸੀਡੀ ਲਈ ਖਰੀਦੋ ਅਤੇ ਜੈਵਿਕ ਇਨਪੁੱਟ ਦੀ ਸੋਚੋ।"
+  },
+  {
+    "question": "Delays in Rythu Bharosa payments",
+    "answer_en": "Track the status at Village Secretariat and ensure e-KYC for timely Rythu Bharosa payments.",
+    "answer_hi": "गाँव सचिवालय में स्थिति ट्रैक करें और समय पर Rythu Bharosa भुगतान के लिए e-KYC सुनिश्चित करें।",
+    "answer_pa": "ਗਾਂਵ ਸਕੱਤਰਾਲੇ ਵਿੱਚ ਸਥਿਤੀ ਟ੍ਰੈਕ ਕਰੋ ਅਤੇ ਸਮੇਂ 'ਤੇ Rythu Bharosa ਭੁਗਤਾਨ ਲਈ e-KYC ਯਕੀਨੀ ਬਣਾਓ।"
+  },
+  {
+    "question": "Shortage of farm labour due to migration",
+    "answer_en": "Adopt farm mechanization like tractors and harvesters with government subsidies to overcome labour shortage.",
+    "answer_hi": "मजदूरों की कमी को दूर करने के लिए ट्रैक्टर और हार्वेस्टर जैसी मशीनरी और सरकारी सब्सिडी अपनाएँ।",
+    "answer_pa": "ਮਜ਼ਦੂਰਾਂ ਦੀ ਘਾਟ ਦੂਰ ਕਰਨ ਲਈ ਟ੍ਰੈਕਟਰ ਅਤੇ ਹਾਰਵੇਸਟਰ ਵਰਗੇ ਫਾਰਮ ਮਸ਼ੀਨੀਕਰਨ ਅਤੇ ਸਰਕਾਰੀ سبਸੀਡੀ ਵਰਤੋਂ।"
+  },
+  {
+    "question": "Sea water intrusion in Godavari delta fields",
+    "answer_en": "Build drainage canals and use salt-tolerant paddy varieties to manage seawater intrusion.",
+    "answer_hi": "गोदावरी डेल्टा क्षेत्रों में समुद्री जल प्रवेश को नियंत्रित करने के लिए नाली बनाएँ और लवण-सहिष्णु धान की किस्में लगाएँ।",
+    "answer_pa": "ਗੋਦਾਵਰੀ ਡੈਲਟਾ ਖੇਤਾਂ ਵਿੱਚ ਸਮੁੰਦਰੀ ਪਾਣੀ ਦੇ ਦਾਖਲ ਹੋਣ ਨੂੰ ਕੰਟਰੋਲ ਕਰਨ ਲਈ ਡਰੇਨਜ ਨਾਲੀਆਂ ਬਣਾਓ ਅਤੇ ਲਵਣ-ਸਹਿਣਸ਼ੀਲ ਧਾਨ ਦੀਆਂ ਕਿਸਮਾਂ ਵਰਤੋਂ।"
+  },
+  {
+    "question": "Inter-state Krishna water dispute affecting irrigation",
+    "answer_en": "Shift to micro-irrigation and grow less water-intensive crops to manage Krishna water disputes.",
+    "answer_hi": "अंतरराज्यीय कृष्णा जल विवाद को ध्यान में रखते हुए माइक्रो-इरिगेशन अपनाएँ और कम जल-सहनशील फसलें लगाएँ।",
+    "answer_pa": "ਅੰਤਰ-ਰਾਜ ਕ੍ਰਿਸ਼ਨਾ ਪਾਣੀ ਵਿਵਾਦ ਦੇ ਦੌਰਾਨ ਮਾਈਕ੍ਰੋ-ਇਰੀਗੇਸ਼ਨ ਵਰਤੋਂ ਅਤੇ ਘੱਟ ਪਾਣੀ-ਖਪਤ ਵਾਲੀਆਂ ਫਸਲਾਂ ਲਗਾਓ।"
+  },
+  {
+    "question": "Low yield from shifting (jhum) cultivation",
+    "answer_en": "Shift to terrace farming, settled cultivation, and use improved crop varieties in Arunachal Pradesh.",
+    "answer_hi": "अरुणाचल प्रदेश में झूम खेती से कम उत्पादन के लिए टैरेस खेती अपनाएँ, स्थायी खेती करें और बेहतर फसल किस्में लगाएँ।",
+    "answer_pa": "ਅਰੁਣਾਚਲ ਪ੍ਰਦੇਸ਼ ਵਿੱਚ ਜ਼ਮੀਨੀ (ਜੁੰਮ) ਖੇਤੀ ਤੋਂ ਘੱਟ ਉਤਪਾਦਨ ਲਈ ਟੇਰੇਸ ਖੇਤੀ, ਸਥਿਰ ਖੇਤੀ ਅਤੇ ਬਿਹਤਰ ਫਸਲ ਕਿਸਮਾਂ ਵਰਤੋਂ।"
+  },
+  {
+    "question": "Crop losses due to floods and landslides",
+    "answer_en": "Adopt soil conservation, flood control measures, and diversify crops to reduce risk.",
+    "answer_hi": "बाढ़ और भूस्खलन से फसल हानि को कम करने के लिए मिट्टी संरक्षण, बाढ़ नियंत्रण और फसल विविधता अपनाएँ।",
+    "answer_pa": "ਬਾਰਿਸ਼ਾਂ ਅਤੇ ਭੂਸਲਾਈਡ ਤੋਂ ਫਸਲ ਨੁਕਸਾਨ ਘਟਾਉਣ ਲਈ ਮਿੱਟੀ ਸੰਰਕਸ਼ਣ, ਬਾਰਿਸ਼ ਨਿਯੰਤਰਣ ਅਤੇ ਫਸਲਾਂ ਦੀ ਵਿਭਿੰਨਤਾ ਵਰਤੋਂ।"
+  },
+  {
+    "question": "Low rice productivity compared to other states",
+    "answer_en": "Use high-yielding variety (HYV) rice seeds, SRI method, and improve irrigation practices.",
+    "answer_hi": "अन्य राज्यों की तुलना में कम चावल उत्पादन के लिए HYV बीज, SRI पद्धति और बेहतर सिंचाई प्रथाएँ अपनाएँ।",
+    "answer_pa": "ਹੋਰ ਰਾਜਾਂ ਨਾਲੋਂ ਘੱਟ ਚਾਵਲ ਉਤਪਾਦਨ ਲਈ HYV ਬੀਜ, SRI ਵਿਧੀ ਅਤੇ ਸਿੰਚਾਈ ਪ੍ਰਥਾਵਾਂ ਨੂੰ ਸੁਧਾਰੋ।"
+  },
+  {
+    "question": "Poor access to markets for vegetables and fruits",
+    "answer_en": "Develop rural roads, FPOs, cold storage, and link to Assam market.",
+    "answer_hi": "सब्जियों और फलों के लिए बाजार तक पहुँच बढ़ाने के लिए ग्रामीण सड़कें, FPOs, कोल्ड स्टोरेज बनाएँ और असम के बाजार से जोड़ें।",
+    "answer_pa": "ਸਬਜ਼ੀਆਂ ਅਤੇ ਫਲਾਂ ਲਈ ਬਾਜ਼ਾਰ ਤੱਕ ਪਹੁੰਚ ਵਧਾਉਣ ਲਈ ਪਿੰਡ ਸੜਕਾਂ, FPOs, ਕੋਲਡ ਸਟੋਰੇਜ ਅਤੇ ਅਸਾਮ ਬਾਜ਼ਾਰ ਨਾਲ ਜੋੜੋ।"
+  },
+  {
+    "question": "Shortage of quality seeds and fertilizers",
+    "answer_en": "Use Rythu-type agricultural service centers, adopt bio-fertilizers, and set up community seed banks.",
+    "answer_hi": "गुणवत्तापूर्ण बीज और उर्वरक की कमी के लिए Rythu-टाइप कृषि सेवा केंद्र, जैव-उर्वरक अपनाएँ और सामुदायिक बीज बैंक बनाएँ।",
+    "answer_pa": "ਗੁਣਵੱਤਾ ਵਾਲੇ ਬੀਜ ਅਤੇ ਖਾਦ ਦੀ ਘਾਟ ਲਈ Rythu-ਕਿਸਮ ਦੇ ਖੇਤੀ ਸੇਵਾ ਕੇਂਦਰ, ਜੈਵਿਕ ਖਾਦ ਵਰਤੋਂ ਅਤੇ ਕਮਿਊਨਿਟੀ ਸੀਡ ਬੈਂਕ ਸਥਾਪਿਤ ਕਰੋ।"
+  },
+  {
+    "question": "Lack of proper irrigation facilities",
+    "answer_en": "Promote rainwater harvesting, build check dams, and adopt micro-irrigation systems.",
+    "answer_hi": "सिंचाई सुविधाओं की कमी को दूर करने के लिए वर्षा जल संचयन, चेक डैम और माइक्रो-इरीगेशन अपनाएँ।",
+    "answer_pa": "ਸਿੰਚਾਈ ਸਹੂਲਤਾਂ ਦੀ ਘਾਟ ਦੂਰ ਕਰਨ ਲਈ ਵਰਖਾ ਪਾਣੀ ਸੰਗ੍ਰਹਿ, ਚੈਕ ਡੈਮ ਅਤੇ ਮਾਈਕ੍ਰੋ-ਇਰੀਗੇਸ਼ਨ ਵਰਤੋਂ।"
+  },
+  {
+    "question": "High livestock disease incidence (pigs, poultry)",
+    "answer_en": "Ensure regular vaccination, provide veterinary support, and adopt scientific rearing methods.",
+    "answer_hi": "सुअर और पोल्ट्री में उच्च पशु रोग incidence के लिए नियमित टीकाकरण, पशु चिकित्सा सहायता और वैज्ञानिक पालन विधियाँ अपनाएँ।",
+    "answer_pa": "ਸੂਰ ਅਤੇ ਪੋਲਟਰੀ ਵਿੱਚ ਬਿਮਾਰੀਆਂ ਵਧਣ ਤੋਂ ਬਚਾਉਣ ਲਈ ਨਿਯਮਤ ਟੀਕਾਕਰਨ, ਪਸ਼ੁ-ਚਿਕਿਤਸਾ ਸਹਾਇਤਾ ਅਤੇ ਵਿਗਿਆਨਕ ਪਾਲਣ ਵਿਧੀਆਂ ਵਰਤੋਂ।"
+  },
+  {
+    "question": "Youth migration away from farming",
+    "answer_en": "Promote farm mechanization, farmer cooperatives, and value-added industries to retain youth in agriculture.",
+    "answer_hi": "कृषि से युवाओं के पलायन को रोकने के लिए फार्म मशीनरी, किसान सहकारी समितियाँ और मूल्य संवर्धित उद्योग बढ़ाएँ।",
+    "answer_pa": "ਕਿਸਾਨੀ ਤੋਂ ਨੌਜਵਾਨਾਂ ਦੇ ਪ੍ਰਵਾਸ ਨੂੰ ਰੋਕਣ ਲਈ ਫਾਰਮ ਮਸ਼ੀਨੀਕਰਨ, ਕਿਸਾਨ ਸਹਿਕਾਰੀ ਅਤੇ ਵੈਲਯੂ ਐਡਡ ਉਦਯੋਗ ਨੂੰ فروغ ਦਿਓ।"
+  },
+  {
+    "question": "Decline in orange orchards (disease, ageing trees)",
+    "answer_en": "Use orchard rejuvenation techniques, grafting, and disease control measures.",
+    "answer_hi": "संतरे के बागानों में गिरावट (रोग, बूढ़े पेड़) के लिए बागान नवीनीकरण, ग्राफ्टिंग और रोग नियंत्रण अपनाएँ।",
+    "answer_pa": "ਸੰਤਰੇ ਦੇ ਬਾਗਾਂ ਵਿੱਚ ਘਟਾਓ (ਬਿਮਾਰੀ, ਬੁੱਢੇ ਦਰਖ਼ਤ) ਲਈ ਬਾਗਾਨ ਨਵੀਨੀਕਰਨ, ਗ੍ਰਾਫਟਿੰਗ ਅਤੇ ਬਿਮਾਰੀ ਨਿਯੰਤਰਣ ਵਰਤੋਂ।"
+  },
+  {
+    "question": "Exploitation by middlemen in markets",
+    "answer_en": "Form Farmer Producer Organizations (FPOs) and promote direct marketing.",
+    "answer_hi": "बाजार में दलालों द्वारा शोषण रोकने के लिए किसान उत्पादक संगठन (FPOs) बनाएँ और सीधे विपणन को बढ़ावा दें।",
+    "answer_pa": "ਬਾਜ਼ਾਰ ਵਿੱਚ ਮੱਧਸਥਾਂ ਵੱਲੋਂ ਸ਼ੋਸ਼ਣ ਰੋਕਣ ਲਈ ਕਿਸਾਨ ਉਤਪਾਦਕ ਸੰਗਠਨ (FPOs) ਬਣਾਓ ਅਤੇ ਸਿੱਧੇ ਮਾਰਕੀਟਿੰਗ ਨੂੰ فروغ ਦਿਓ।"
+  },
+  {
+    "question": "Paddy crop damaged every year by floods",
+    "answer_en": "Use flood-tolerant rice seeds and take crop insurance to reduce loss in Assam.",
+    "answer_hi": "असम में हर साल बाढ़ से धान की फसल को नुकसान से बचाने के लिए बाढ़-प्रतिरोधी बीज लगाएँ और फसल बीमा कराएँ।",
+    "answer_pa": "ਅਸਾਮ ਵਿੱਚ ਹਰ ਸਾਲ ਬਾਰਿਸ਼ ਨਾਲ ਧਾਨ ਦੀ ਫਸਲ ਨੁਕਸਾਨ ਤੋਂ ਬਚਾਉਣ ਲਈ ਬਾਰਿਸ਼-ਸਹਿਣਸ਼ੀਲ ਬੀਜ ਵਰਤੋਂ ਅਤੇ ਫਸਲ ਬੀਮਾ ਕਰਵਾਓ।"
+  },
+  {
+    "question": "Rice yield is low even with enough rain",
+    "answer_en": "Use good quality seeds, proper fertilizer, and perform soil testing for better yield.",
+    "answer_hi": "पर्याप्त बारिश होने पर भी चावल का उत्पादन कम होने पर उच्च गुणवत्ता वाले बीज, उचित उर्वरक और मिट्टी परीक्षण का उपयोग करें।",
+    "answer_pa": "ਕਾਫੀ ਬਾਰਿਸ਼ ਦੇ ਬਾਵਜੂਦ ਚਾਵਲ ਦਾ ਉਤਪਾਦਨ ਘੱਟ ਹੋਣ 'ਤੇ ਚੰਗੇ ਬੀਜ, ਢੰਗ ਨਾਲ ਖਾਦ ਅਤੇ ਮਿੱਟੀ ਟੈਸਟਿੰਗ ਵਰਤੋਂ।"
+  },
+  {
+    "question": "Tea plants attacked by pests and diseases",
+    "answer_en": "Spray safe pesticides on time and follow recommended pest control methods.",
+    "answer_hi": "चाय के पौधों पर कीट और रोगों के हमले के लिए समय पर सुरक्षित कीटनाशक छिड़कें और अनुशंसित नियंत्रण विधियों का पालन करें।",
+    "answer_pa": "ਚਾਹ ਦੇ ਪੌਦਿਆਂ 'ਤੇ ਕੀਟ ਅਤੇ ਬਿਮਾਰੀਆਂ ਤੋਂ ਬਚਾਉਣ ਲਈ ਸਮੇਂ 'ਤੇ ਸੁਰੱਖਿਅਤ ਕੀਟਨਾਸ਼ਕ ਛਿੜਕੋ ਅਤੇ ਸਿਫਾਰਸ਼ੀਤ ਤਰੀਕੇ ਵਰਤੋਂ।"
+  },
+  {
+    "question": "Mustard crop gets damaged by aphids",
+    "answer_en": "Use bio-pesticides and grow resistant mustard varieties.",
+    "answer_hi": "सरसों की फसल को एफिड्स से बचाने के लिए जैव-कीटनाशक का उपयोग करें और प्रतिरोधी किस्में लगाएँ।",
+    "answer_pa": "ਸਰੋਂ ਦੀ ਫਸਲ ਨੂੰ ਐਫਿਡ ਤੋਂ ਬਚਾਉਣ ਲਈ ਬਾਇਓ-ਕੀਟਨਾਸ਼ਕ ਵਰਤੋਂ ਅਤੇ ਪ੍ਰਤੀਰੋਧਕ ਕਿਸਮਾਂ ਲਗਾਓ।"
+  },
+  {
+    "question": "Soil washed away on sloping land",
+    "answer_en": "Do contour farming, plant trees, and build small check dams.",
+    "answer_hi": "ढलान वाली जमीन पर मिट्टी बहने से बचाने के लिए कंटूर खेती करें, पेड़ लगाएँ और छोटे चेक डैम बनाएँ।",
+    "answer_pa": "ਢਲਾਨ ਵਾਲੀ ਜ਼ਮੀਨ 'ਤੇ ਮਿੱਟੀ ਖੁਦਣ ਤੋਂ ਬਚਾਉਣ ਲਈ ਕੰਟੂਰ ਖੇਤੀ ਕਰੋ, ਦਰੱਖਤ ਲਗਾਓ ਅਤੇ ਛੋਟੇ ਚੈਕ ਡੈਮ ਬਣਾਓ।"
+  },
+  {
+    "question": "Fish farming gives low income",
+    "answer_en": "Use good quality fish seed, better feed, and connect to big markets.",
+    "answer_hi": "मछली पालन से कम आय होने पर अच्छी गुणवत्ता के बीज, बेहतर चारा और बड़े बाजार से जोड़ें।",
+    "answer_pa": "ਮੱਛੀ ਪਾਲਣ ਤੋਂ ਘੱਟ ਆਮਦਨੀ ਹੋਣ 'ਤੇ ਚੰਗੇ ਬੀਜ, ਬਿਹਤਰ ਚਾਰਾ ਅਤੇ ਵੱਡੇ ਬਾਜ਼ਾਰ ਨਾਲ ਜੋੜੋ।"
+  },
+  {
+    "question": "Vegetables spoil before reaching market",
+    "answer_en": "Use cold storage, small collection centers, and transport support to reduce losses.",
+    "answer_hi": "सब्जियाँ बाजार पहुँचने से पहले खराब होने से बचाने के लिए कोल्ड स्टोरेज, छोटे संग्रह केंद्र और परिवहन सहायता का उपयोग करें।",
+    "answer_pa": "ਸਬਜ਼ੀਆਂ ਬਾਜ਼ਾਰ ਪਹੁੰਚਣ ਤੋਂ ਪਹਿਲਾਂ ਖ਼ਰਾਬ ਹੋਣ ਤੋਂ ਬਚਾਉਣ ਲਈ ਕੋਲਡ ਸਟੋਰੇਜ, ਛੋਟੇ ਕਲੈਕਸ਼ਨ ਸੈਂਟਰ ਅਤੇ ਟਰਾਂਸਪੋਰਟ ਸਹਾਇਤਾ ਵਰਤੋਂ।"
+  },
+  {
+    "question": "Irrigation cost is high due to electricity",
+    "answer_en": "Use solar pumps or take government subsidy for electricity to reduce irrigation costs.",
+    "answer_hi": "सिंचाई लागत अधिक होने पर सोलर पंप का उपयोग करें या बिजली के लिए सरकारी सब्सिडी लें।",
+    "answer_pa": "ਸਿੰਚਾਈ ਖਰਚ ਵੱਧ ਹੋਣ 'ਤੇ ਸੂਰਜੀ ਪੰਪ ਵਰਤੋਂ ਜਾਂ ਬਿਜਲੀ ਲਈ ਸਰਕਾਰੀ ਸਬਸਿਡੀ ਲਵੋ।"
+  },
+  {
+    "question": "Jute sells at very low price",
+    "answer_en": "Sell through MSP centers and farmer-to-buyer markets for better prices.",
+    "answer_hi": "जूट कम दाम में बिकने पर MSP केंद्रों और किसान-से-खरीदार बाजार के माध्यम से बेचें।",
+    "answer_pa": "ਜੂਟ ਘੱਟ ਕੀਮਤ 'ਤੇ ਵਿਕਣ 'ਤੇ MSP ਸੈਂਟਰ ਅਤੇ ਕਿਸਾਨ-ਟੂ-ਖਰੀਦਦਾਰ ਬਾਜ਼ਾਰ ਰਾਹੀਂ ਵੇਚੋ।"
+  },
+  {
+    "question": "Young people leave farming for cities",
+    "answer_en": "Support youth with training, farmer groups, and agri-business jobs to retain them in agriculture.",
+    "answer_hi": "युवा शहरों में जाने से रोकने के लिए प्रशिक्षण, किसान समूह और कृषि व्यवसाय में रोजगार प्रदान करें।",
+    "answer_pa": "ਨੌਜਵਾਨਾਂ ਨੂੰ ਖੇਤੀ ਵਿੱਚ ਰੱਖਣ ਲਈ ਟ੍ਰੇਨਿੰਗ, ਕਿਸਾਨ ਸਮੂਹ ਅਤੇ ਐਗਰੀ-ਬਿਜ਼ਨਸ ਨੌਕਰੀਆਂ ਮੁਹੱਈਆ ਕਰੋ।"
+  },
+  {
+    "question": "Repeated floods in North Bihar (Kosi, Gandak rivers) destroy crops",
+    "answer_en": "Grow flood-tolerant paddy varieties and use crop insurance to reduce losses in Bihar.",
+    "answer_hi": "बिहार में बार-बार उत्तर बिहार (कोसी, गंडक) में बाढ़ से फसल को बचाने के लिए बाढ़-प्रतिरोधी धान की किस्में लगाएँ और फसल बीमा करें।",
+    "answer_pa": "ਬਿਹਾਰ ਵਿੱਚ ਉੱਤਰ ਬਿਹਾਰ (ਕੋਸੀ, ਗੰਡਕ ਦਰਿਆ) ਵਿੱਚ ਬਾਰ-ਬਾਰ ਆਏ ਬਾੜ੍ਹ ਨਾਲ ਫਸਲ ਨੁਕਸਾਨ ਤੋਂ ਬਚਾਉਣ ਲਈ ਬਾੜ੍ਹ-ਸਹਿਣਸ਼ੀਲ ਧਾਨ ਦੀਆਂ ਕਿਸਮਾਂ ਲਗਾਓ ਅਤੇ ਫਸਲ ਬੀਮਾ ਕਰੋ।"
+  },
+  {
+    "question": "Drought in South Bihar reduces paddy and wheat yield",
+    "answer_en": "Promote borewells, check dams, and use drought-resistant seeds in South Bihar.",
+    "answer_hi": "दक्षिण बिहार में सूखे से धान और गेहूँ की पैदावार कम होने पर बोरवेल, चेक डैम और सूखा-प्रतिरोधी बीजों का उपयोग करें।",
+    "answer_pa": "ਦੱਖਣ ਬਿਹਾਰ ਵਿੱਚ ਸੁੱਕੇ ਨਾਲ ਧਾਨ ਅਤੇ ਗਹੂੰ ਦੀ ਉਤਪਾਦਨ ਘੱਟ ਹੋਣ 'ਤੇ ਬੋਰਵੇਲ, ਚੈਕ ਡੈਮ ਅਤੇ ਸੁੱਕਾ-ਸਹਿਣਸ਼ੀਲ ਬੀਜ ਵਰਤੋਂ।"
+  },
+  {
+    "question": "Sand casting on fields after floods makes land unusable",
+    "answer_en": "Use government schemes to remove sand and add organic matter to restore soil.",
+    "answer_hi": "बाढ़ के बाद खेतों में बालू जम जाने से जमीन अनुपयोगी होने पर सरकारी योजनाओं के तहत बालू हटाएँ और मिट्टी में कार्बनिक पदार्थ डालें।",
+    "answer_pa": "ਬਾੜ੍ਹ ਦੇ ਬਾਅਦ ਖੇਤਾਂ 'ਤੇ ਰੇਤ ਦੇ ਜਮਾਉ ਨਾਲ ਜ਼ਮੀਨ ਅਣਉਪਯੋਗ ਹੋਣ 'ਤੇ ਸਰਕਾਰੀ ਯੋਜਨਾਵਾਂ ਤਹਿਤ ਰੇਤ ਹਟਾਓ ਅਤੇ ਮਿੱਟੀ ਵਿੱਚ ਜੈਵਿਕ ਪਦਾਰਥ ਸ਼ਾਮਲ ਕਰੋ।"
+  },
+  {
+    "question": "Poor electricity supply affects irrigation pumps",
+    "answer_en": "Use solar pumps and diesel subsidy schemes for irrigation.",
+    "answer_hi": "खराब बिजली आपूर्ति से सिंचाई पंप प्रभावित होने पर सोलर पंप और डीज़ल सब्सिडी योजना का उपयोग करें।",
+    "answer_pa": "ਖਰਾਬ ਬਿਜਲੀ ਸਪਲਾਈ ਨਾਲ ਸਿੰਚਾਈ ਪੰਪ ਪ੍ਰਭਾਵਿਤ ਹੋਣ 'ਤੇ ਸੂਰਜੀ ਪੰਪ ਅਤੇ ਡੀਜ਼ਲ ਸਬਸਿਡੀ ਯੋਜਨਾ ਵਰਤੋਂ।"
+  },
+  {
+    "question": "High migration of farmers to cities reduces farm labour",
+    "answer_en": "Support mechanization (tractors, harvesters) and promote local farm jobs.",
+    "answer_hi": "किसानों के शहरों में जाने से खेत में मजदूर कम होने पर मेकानाइजेशन (ट्रैक्टर, हार्वेस्टर) का समर्थन करें और स्थानीय कृषि रोजगार बढ़ाएँ।",
+    "answer_pa": "ਕਿਸਾਨਾਂ ਦੇ ਸ਼ਹਿਰਾਂ ਵਿੱਚ ਜਾਣ ਨਾਲ ਖੇਤਾਂ ਵਿੱਚ ਮਜ਼ਦੂਰ ਘੱਟ ਹੋਣ 'ਤੇ ਮੈਕਨੀਕਾਈਜ਼ੇਸ਼ਨ (ਟ੍ਰੈਕਟਰ, ਹਾਰਵੇਸਟਰ) ਨੂੰ ਸਹਾਇਤਾ ਦਿਓ ਅਤੇ ਸਥਾਨਕ ਖੇਤੀ ਦੇ ਨੌਕਰੀਆਂ ਵਧਾਓ।"
+  },
+  {
+    "question": "Low productivity of maize and pulses compared to other states",
+    "answer_en": "Provide hybrid maize/pulse seeds, better training, and fertilizer support.",
+    "answer_hi": "अन्य राज्यों की तुलना में मक्का और दाल की कम उत्पादकता होने पर संकर मक्का/दाल बीज, बेहतर प्रशिक्षण और उर्वरक सहायता दें।",
+    "answer_pa": "ਹੋਰ ਰਾਜਾਂ ਦੀ ਤੁਲਨਾ ਵਿੱਚ ਮੱਕੀ ਅਤੇ ਦਾਲ ਦੀ ਘੱਟ ਉਤਪਾਦਕਤਾ 'ਤੇ ਹਾਈਬ੍ਰਿਡ ਮੱਕੀ/ਦਾਲ ਬੀਜ, ਚੰਗੀ ਟ੍ਰੇਨਿੰਗ ਅਤੇ ਖਾਦ ਸਹਾਇਤਾ ਦਿਓ।"
+  },
+  {
+    "question": "Arhar (pigeon pea) crop fails due to waterlogging",
+    "answer_en": "Grow waterlogging-tolerant varieties and improve drainage in fields.",
+    "answer_hi": "असरहर (अरहर) की फसल जलभराव के कारण विफल होने पर जलभराव-प्रतिरोधी किस्में लगाएँ और खेतों में जल निकासी सुधारें।",
+    "answer_pa": "ਅਰਹਰ ਫਸਲ ਜਲ-ਭਰਾਅ ਕਾਰਨ ਨੁਕਸਾਨ ਹੋਣ 'ਤੇ ਜਲ-ਸਹਿਣਸ਼ੀਲ ਕਿਸਮਾਂ ਲਗਾਓ ਅਤੇ ਖੇਤਾਂ ਵਿੱਚ ਪਾਣੀ ਨਿਕਾਸ ਨੂੰ ਸੁਧਾਰੋ।"
+  },
+  {
+    "question": "Lack of food processing units for maize, litchi, makhana",
+    "answer_en": "Set up food processing centers and link farmers to processing industries.",
+    "answer_hi": "मक्का, लीची, मखाना के लिए खाद्य प्रसंस्करण इकाइयों की कमी होने पर खाद्य प्रसंस्करण केंद्र स्थापित करें और किसानों को उद्योग से जोड़ें।",
+    "answer_pa": "ਮੱਕੀ, ਲਿਚੀ, ਮਖਾਣਾ ਲਈ ਫੂਡ ਪ੍ਰੋਸੈਸਿੰਗ ਯੂਨਿਟਾਂ ਦੀ ਘਾਟ ਹੋਣ 'ਤੇ ਫੂਡ ਪ੍ਰੋਸੈਸਿੰਗ ਸੈਂਟਰ ਬਣਾਓ ਅਤੇ ਕਿਸਾਨਾਂ ਨੂੰ ਉਦਯੋਗ ਨਾਲ ਜੋੜੋ।"
+  },
+  {
+    "question": "Middlemen dominate local mandis, farmers earn very little",
+    "answer_en": "Create direct farmer markets (Kisan Mandis) and strengthen FPOs.",
+    "answer_hi": "स्थानीय मंडियों में दलाल हावी होने और किसानों की कम आय के लिए सीधे किसान मंडी और एफपीओ को मजबूत करें।",
+    "answer_pa": "ਸਥਾਨਕ ਮੰਡੀ ਵਿੱਚ ਦਰਮਿਆਨੇ ਲੋਕਾਂ ਦਾ ਹਵਾਲਾ ਅਤੇ ਕਿਸਾਨਾਂ ਦੀ ਘੱਟ ਆਮਦਨੀ ਲਈ ਸਿੱਧੀ ਕਿਸਾਨ ਮੰਡੀ ਅਤੇ FPO ਮਜ਼ਬੂਤ ਕਰੋ।"
+  },
+  {
+    "question": "Sugarcane farmers suffer due to delayed payments from mills",
+    "answer_en": "Enforce strict payment timelines and promote ethanol blending program.",
+    "answer_hi": "गन्ना किसानों को मिलों से भुगतान में देरी होने पर कड़ाई से भुगतान समय सीमा लागू करें और इथेनॉल मिश्रण कार्यक्रम को बढ़ावा दें।",
+    "answer_pa": "ਗੰਨੇ ਦੇ ਕਿਸਾਨਾਂ ਨੂੰ ਮਿਲਾਂ ਤੋਂ ਭੁਗਤਾਨ ਵਿੱਚ ਦੇਰੀ ਹੋਣ 'ਤੇ ਸਖਤ ਭੁਗਤਾਨ ਸਮਾਂ-ਸੀਮਾ ਲਾਗੂ ਕਰੋ ਅਤੇ ਈਥਨਾਲ ਮਿਲਾਵਟ ਪ੍ਰੋਗਰਾਮ ਨੂੰ فروغ ਦਿਓ।"
+  },
+  {
+    "question": "Fertilizer shortage and black marketing",
+    "answer_en": "Ensure timely supply via cooperatives, prevent black marketing, promote organic/nano fertilizers in Chhattisgarh.",
+    "answer_hi": "छत्तीसगढ़ में उर्वरक की कमी और काला बाज़ारी रोकने के लिए सहकारी समितियों के माध्यम से समय पर आपूर्ति सुनिश्चित करें, और जैविक/नैनो उर्वरक को बढ़ावा दें।",
+    "answer_pa": "ਛੱਤੀਸਗੜ੍ਹ ਵਿੱਚ ਖਾਦ ਦੀ ਘਾਟ ਅਤੇ ਕਾਲਾ ਬਾਜ਼ਾਰੀ ਨੂੰ ਰੋਕਣ ਲਈ ਸਹਿਕਾਰੀ ਕੇਂਦਰਾਂ ਰਾਹੀਂ ਸਮੇਂ ਸਿਰ ਸਪਲਾਈ ਯਕੀਨੀ ਬਣਾਓ ਅਤੇ ਆਰਗੈਨਿਕ/ਨੈਨੋ ਖਾਦ ਨੂੰ فروغ ਦਿਓ।"
+  },
+  {
+    "question": "Over-dependence on paddy, high water use",
+    "answer_en": "Promote crop diversification to pulses & oilseeds, use micro-irrigation, conserve water in Chhattisgarh.",
+    "answer_hi": "धान पर अत्यधिक निर्भरता और उच्च जल उपयोग को कम करने के लिए दलहन और तिलहन में फसल विविधीकरण बढ़ाएँ, सूक्ष्म-सिंचाई का उपयोग करें और जल संरक्षण करें।",
+    "answer_pa": "ਧਾਨ 'ਤੇ ਵੱਧ ਨਿਰਭਰਤਾ ਅਤੇ ਵੱਧ ਪਾਣੀ ਵਰਤੋਂ ਘਟਾਉਣ ਲਈ ਦਾਲਾਂ ਅਤੇ ਤੇਲ ਵਾਲੀਆਂ ਫਸਲਾਂ ਵਿੱਚ ਫਸਲ ਵਿਭਿੰਨਤਾ ਵਧਾਓ, ਮਾਈਕ੍ਰੋ-ਸਿੰਚਾਈ ਵਰਤੋਂ ਅਤੇ ਪਾਣੀ ਬਚਾਓ।"
+  },
+  {
+    "question": "Soil degradation from continuous paddy",
+    "answer_en": "Adopt crop rotation, add organic matter, soil testing, balanced fertilizer use in Chhattisgarh.",
+    "answer_hi": "लगातार धान की खेती से मिट्टी की गुणवत्ता गिरने पर फसल चक्रीकरण अपनाएँ, कार्बनिक पदार्थ डालें, मिट्टी परीक्षण करें और संतुलित उर्वरक का उपयोग करें।",
+    "answer_pa": "ਲਗਾਤਾਰ ਧਾਨ ਦੀ ਖੇਤੀ ਨਾਲ ਮਿੱਟੀ ਖ਼ਰਾਬ ਹੋਣ 'ਤੇ ਫਸਲ ਚੱਕਰੀਕਰਨ, ਜੈਵਿਕ ਪਦਾਰਥ ਸ਼ਾਮਲ ਕਰੋ, ਮਿੱਟੀ ਦੀ ਜਾਂਚ ਕਰੋ ਅਤੇ ਸੰਤੁਲਿਤ ਖਾਦ ਵਰਤੋਂ।"
+  },
+  {
+    "question": "Procurement problems (delays, bag shortage, weighing issues)",
+    "answer_en": "Provide gunny bags, accurate weighing, streamline token system, ensure timely payment in Chhattisgarh.",
+    "answer_hi": "खरीद में देरी, बैग की कमी और तौल संबंधी समस्याओं के लिए जूट बैग उपलब्ध कराएँ, सटीक तौल करें, टोकन प्रणाली को सुव्यवस्थित करें और समय पर भुगतान सुनिश्चित करें।",
+    "answer_pa": "ਖਰੀਦ ਵਿੱਚ ਦੇਰੀ, ਬੈਗ ਘਾਟ ਅਤੇ ਤੌਲ ਸਮੱਸਿਆਵਾਂ ਲਈ ਜੁੱਟ ਬੈਗ ਦਿਓ, ਸਹੀ ਤੌਲ ਕਰੋ, ਟੋਕਨ ਸਿਸਟਮ ਸੁਚਾਰੂ ਕਰੋ ਅਤੇ ਸਮੇਂ ਸਿਰ ਭੁਗਤਾਨ ਯਕੀਨੀ ਬਣਾਓ।"
+  },
+  {
+    "question": "Low irrigation coverage, drought risk",
+    "answer_en": "Expand minor irrigation projects, promote drip/sprinkler, rainwater harvesting in Chhattisgarh.",
+    "answer_hi": "सिंचाई की कम कवरेज और सूखे के जोखिम को कम करने के लिए छोटे सिंचाई प्रोजेक्ट बढ़ाएँ, ड्रिप/स्प्रिंकलर अपनाएँ और वर्षा जल संचयन करें।",
+    "answer_pa": "ਸਿੰਚਾਈ ਕਵਰੇਜ ਘੱਟ ਅਤੇ ਸੁੱਕੇ ਦੇ ਖ਼ਤਰੇ ਨੂੰ ਘਟਾਉਣ ਲਈ ਛੋਟੇ ਸਿੰਚਾਈ ਪ੍ਰੋਜੈਕਟ ਵਧਾਓ, ਡ੍ਰਿਪ/ਸਪ੍ਰਿੰਕਲਰ ਵਰਤੋਂ ਅਤੇ ਵਰਖਾ ਜਲ ਸੰਚੈ ਕਰੋ।"
+  },
+  {
+    "question": "High pest infestation in sugarcane (stem borer)",
+    "answer_en": "Follow IPM, destroy infested stubble, timely spraying as per advisory in Chhattisgarh.",
+    "answer_hi": "गन्ना में कीटों (स्टेम बोरर) के अधिक संक्रमण पर IPM अपनाएँ, संक्रमित ठूंठ नष्ट करें और समय पर छिड़काव करें।",
+    "answer_pa": "ਗੰਨੇ ਵਿੱਚ ਕੀਟਾਂ (ਸਟੇਮ ਬੋਰਰ) ਦੇ ਵੱਧ ਸੰਕਰਮਣ 'ਤੇ IPM ਅਪਣਾਓ, ਸੰਕ੍ਰਮਿਤ ਠੂਠ ਨਸ਼ਟ ਕਰੋ ਅਤੇ ਸਲਾਹ ਮੁਤਾਬਕ ਸਮੇਂ 'ਤੇ ਛਿੜਕਾਓ।"
+  },
+  {
+    "question": "Post-harvest losses due to poor storage",
+    "answer_en": "Build cold storage, warehouses, promote processing units, link to markets in Chhattisgarh.",
+    "answer_hi": "खराब भंडारण के कारण उपज के नुकसान को कम करने के लिए कोल्ड स्टोरेज, गोदाम बनाएँ, प्रसंस्करण इकाइयाँ बढ़ाएँ और बाजार से जोड़ें।",
+    "answer_pa": "ਖਰਾਬ ਸਟੋਰੇਜ ਕਾਰਨ ਫਸਲ ਨੁਕਸਾਨ ਘਟਾਉਣ ਲਈ ਕੋਲਡ ਸਟੋਰੇਜ, ਗੋਦਾਮ ਬਣਾਓ, ਪ੍ਰੋਸੈਸਿੰਗ ਯੂਨਿਟਾਂ ਨੂੰ فروغ ਦਿਓ ਅਤੇ ਮਾਰਕੀਟ ਨਾਲ ਜੋੜੋ।"
+  },
+  {
+    "question": "Migration of rural youth from farming",
+    "answer_en": "Support agri-mechanization, provide training, promote agri-based enterprises in Chhattisgarh.",
+    "answer_hi": "ग्रामीण युवाओं के खेती छोड़ने पर कृषि यांत्रिकीकरण का समर्थन करें, प्रशिक्षण दें और कृषि आधारित उद्यम बढ़ाएँ।",
+    "answer_pa": "ਪੇਂਡੂ ਨੌਜਵਾਨਾਂ ਦੇ ਖੇਤੀ ਛੱਡਣ 'ਤੇ ਖੇਤੀ ਮਕੈਨੀਕਾਈਜ਼ੇਸ਼ਨ ਨੂੰ ਸਹਾਇਤਾ ਦਿਓ, ਟ੍ਰੇਨਿੰਗ ਦਿਓ ਅਤੇ ਖੇਤੀ-ਆਧਾਰਿਤ ਉਦਯੋਗ فروغ ਦਿਓ।"
+  },
+  {
+    "question": "Low productivity of maize & pulses compared to other states",
+    "answer_en": "Provide hybrid seeds, training, fertilizer support, promote best practices in Chhattisgarh.",
+    "answer_hi": "अन्य राज्यों की तुलना में मक्का और दाल की कम उत्पादकता होने पर संकर बीज, प्रशिक्षण और उर्वरक सहायता दें, सर्वोत्तम प्रथाओं को बढ़ावा दें।",
+    "answer_pa": "ਹੋਰ ਰਾਜਾਂ ਨਾਲ ਤੁਲਨਾ ਵਿੱਚ ਮੱਕੀ ਅਤੇ ਦਾਲ ਦੀ ਘੱਟ ਉਤਪਾਦਕਤਾ 'ਤੇ ਹਾਈਬ੍ਰਿਡ ਬੀਜ, ਟ੍ਰੇਨਿੰਗ, ਖਾਦ ਸਹਾਇਤਾ ਦਿਓ ਅਤੇ ਸਭ ਤੋਂ ਵਧੀਆ ਪ੍ਰਥਾਵਾਂ فروغ ਦਿਓ।"
+  },
+  {
+    "question": "Delayed payments to sugarcane farmers",
+    "answer_en": "Enforce strict payment timelines, diversify income via ethanol program in Chhattisgarh.",
+    "answer_hi": "गन्ना किसानों को भुगतान में देरी पर कड़ी समय-सीमा लागू करें और इथेनॉल कार्यक्रम के माध्यम से आय विविधीकरण करें।",
+    "answer_pa": "ਗੰਨੇ ਦੇ ਕਿਸਾਨਾਂ ਨੂੰ ਭੁਗਤਾਨ ਵਿੱਚ ਦੇਰੀ 'ਤੇ ਸਖਤ ਸਮਾਂ-ਸੀਮਾ ਲਾਗੂ ਕਰੋ ਅਤੇ ਈਥਨਾਲ ਪ੍ਰੋਗਰਾਮ ਰਾਹੀਂ ਆਮਦਨੀ ਨੂੰ ਵੱਖ-ਵੱਖ ਕਰੋ।"
+  },
+  {
+    "question": "Unseasonal rains damaging crops (vegetables etc.)",
+    "answer_en": "Crop insurance often not availed, leading to big financial loss in Chhattisgarh.",
+    "answer_hi": "फसल बीमा अक्सर नहीं लिया जाता, जिससे फसल को असमय वर्षा से नुकसान होता है और बड़ी वित्तीय हानि होती है।",
+    "answer_pa": "ਫਸਲ ਬੀਮਾ ਅਕਸਰ ਨਹੀਂ ਲਿਆ ਜਾਂਦਾ, ਜਿਸ ਨਾਲ ਅਣਮੌਸਮ ਵਰਖਾ ਨਾਲ ਫਸਲ ਨੁਕਸਾਨ ਹੁੰਦਾ ਹੈ ਅਤੇ ਵੱਡੀ ਵਿੱਤੀ ਘਾਟ ਹੁੰਦੀ ਹੈ।"
+  },
+  {
+    "question": "Water scarcity / unpredictable rainfall in horticulture farms",
+    "answer_en": "Install drip/sprinkler irrigation, build water harvesting structures, improve WRD responsiveness and supply in Goa.",
+    "answer_hi": "हॉर्टिकल्चर फॉर्म में पानी की कमी और अनियमित वर्षा के लिए ड्रिप/स्प्रिंकलर सिंचाई लगाएँ, जल संचयन संरचनाएँ बनाएँ और जल संसाधन विभाग की तत्परता व आपूर्ति सुधारें।",
+    "answer_pa": "ਹਾਰਟੀਕਲਚਰ ਫਾਰਮਾਂ ਵਿੱਚ ਪਾਣੀ ਦੀ ਘਾਟ ਅਤੇ ਅਣਇੱਛਤ ਵਰਖਾ ਲਈ ਡ੍ਰਿਪ/ਸਪ੍ਰਿੰਕਲਰ ਸਿੰਚਾਈ ਲਗਾਓ, ਜਲ ਸੰਚੈ ਢਾਂਚੇ ਬਣਾਓ ਅਤੇ WRD ਦੀ ਪ੍ਰਭਾਵਸ਼ੀਲਤਾ ਤੇ ਸਪਲਾਈ ਸੁਧਾਰੋ।"
+  },
+  {
+    "question": "Declining yields of mango & cashew due to climate change",
+    "answer_en": "Promote climate‑resilient/flowering‑stable varieties, adjust planting schedules, use mulch and shade nets in Goa.",
+    "answer_hi": "मौसमी बदलाव से आम और काजू की उपज घटने पर जलवायु-स्थायी/फूलने में स्थिर किस्मों को बढ़ावा दें, रोपाई का समय समायोजित करें और मल्च व शेड नेट का उपयोग करें।",
+    "answer_pa": "ਮੌਸਮੀ ਬਦਲਾਅ ਕਾਰਨ ਅੰਬ ਅਤੇ ਕਾਜੂ ਦੀ ਉਪਜ ਘਟਣ 'ਤੇ ਮੌਸਮ-ਸਹਿਣਸ਼ੀਲ/ਫੁੱਲਣ-ਸਥਿਰ ਕਿਸਮਾਂ ਨੂੰ فروغ ਦਿਓ, ਰੋਪਣ ਸਮਾਂ ਸਮਾਂਜਸ ਕਰੋ ਅਤੇ ਮਲਚ ਤੇ ਸ਼ੇਡ ਨੈੱਟ ਵਰਤੋਂ।"
+  },
+  {
+    "question": "Fragmented & marginal land holdings (small farms)",
+    "answer_en": "Encourage community farming, land consolidation schemes, co‑operatives for shared inputs & mechanization in Goa.",
+    "answer_hi": "खंडित और सीमांत भूमि पर सामुदायिक खेती, भूमि समेकन योजनाएँ और साझा संसाधनों व यांत्रिकीकरण के लिए सहकारी समितियों को प्रोत्साहित करें।",
+    "answer_pa": "ਫਰੈਗਮੈਂਟਡ ਅਤੇ ਸੀਮਾਂਤ ਜ਼ਮੀਨ ਲਈ ਕਮਿਊਨਿਟੀ ਖੇਤੀ, ਜ਼ਮੀਨ ਸੰਕਲਨ ਯੋਜਨਾਵਾਂ ਅਤੇ ਸਾਂਝੇ ਇਨਪੁੱਟ ਅਤੇ ਮਕੈਨਾਈਜੇਸ਼ਨ ਲਈ ਸਹਿਕਾਰੀ ਪ੍ਰोत्सਾਹਿਤ ਕਰੋ।"
+  },
+  {
+    "question": "Labour scarcity & high wages",
+    "answer_en": "Promote mechanization, contract labour pooling, training youth in farming, incentives to attract labour in Goa.",
+    "answer_hi": "श्रम की कमी और उच्च मजदूरी के लिए यांत्रिकीकरण बढ़ाएँ, अनुबंधित श्रमिक साझा करें, युवाओं को खेती में प्रशिक्षण दें और श्रमिकों को आकर्षित करने के लिए प्रोत्साहन दें।",
+    "answer_pa": "ਮਜ਼ਦੂਰੀ ਘਾਟ ਅਤੇ ਉੱਚ ਮਜ਼ਦੂਰੀ ਲਈ ਮਕੈਨਾਈਜੇਸ਼ਨ فروغ ਦਿਓ, ਕਾਂਟ੍ਰੈਕਟ ਮਜ਼ਦੂਰ ਸਾਂਝੇ ਕਰੋ, ਨੌਜਵਾਨਾਂ ਨੂੰ ਖੇਤੀ ਵਿੱਚ ਟਰੇਨਿੰਗ ਦਿਓ ਅਤੇ ਮਜ਼ਦੂਰ ਆਕਰਸ਼ਿਤ ਕਰਨ ਲਈ ਇਨਸੈਂਟਿਵ ਦਿਓ।"
+  },
+  {
+    "question": "Wild animal damage to crops (monkeys, wild boars etc.)",
+    "answer_en": "Build fencing, use bio‑repellents, community patrols, crop insurance for damage, compensation policies in Goa.",
+    "answer_hi": "जंगली जानवरों (बंदर, जंगली सुअर आदि) से फसल को होने वाले नुकसान के लिए बाड़ लगाएँ, जैव-प्रतिरोधक उपयोग करें, सामुदायिक गश्ती करें, फसल बीमा लें और मुआवज़ा नीति अपनाएँ।",
+    "answer_pa": "ਜੰਗਲੀ ਜੀਵਾਂ (ਬੰਦਰ, ਜੰਗਲੀ ਸੂਰ ਆਦਿ) ਦੇ ਫਸਲ ਨੁਕਸਾਨ ਲਈ ਬੇੜ ਲਗਾਓ, ਬਾਇਓ-ਰੇਪੈਲੈਂਟ ਵਰਤੋਂ, ਕਮਿਊਨਿਟੀ ਪੈਟਰੋਲ, ਫਸਲ ਬੀਮਾ ਅਤੇ ਮੁਆਵਜ਼ਾ ਨੀਤੀਆਂ।"
+  },
+  {
+    "question": "Paddy field damage by unseasonal rainfall",
+    "answer_en": "Use raised beds, improved drainage systems, adjust sowing calendar, flood‑tolerant rice varieties in Goa.",
+    "answer_hi": "असमय वर्षा से धान के खेत को नुकसान होने पर उठे हुए बिस्तर, बेहतर जल निकासी प्रणाली, बुआई कैलेंडर समायोजित करें और बाढ़-प्रतिरोधी धान की किस्में लगाएँ।",
+    "answer_pa": "ਅਣਮੌਸਮੀ ਵਰਖਾ ਨਾਲ ਧਾਨ ਖੇਤ ਨੁਕਸਾਨ ਤੋਂ ਬਚਾਉਣ ਲਈ ਉੱਠੇ ਬੈਡ, ਸੁਧਾਰਿਆ ਹੋਇਆ ਨਿਕਾਸ ਪ੍ਰਣਾਲੀ, ਬੀਜਾਈ ਕੈਲੰਡਰ ਸਥਾਪਤ ਕਰੋ ਅਤੇ ਬਾੜ-ਟੋਲਰੈਂਟ ਚਾਵਲ ਦੀ ਕਿਸਮ ਵਰਤੋਂ।"
+  },
+  {
+    "question": "Lack of cold storage & warehouses for perishables",
+    "answer_en": "Set up storage facilities, collection centres, support for cold chain infrastructure, improve market linkages in Goa.",
+    "answer_hi": "सड़ने-बलने वाली वस्तुओं के लिए कोल्ड स्टोरेज और गोदाम की कमी को पूरा करने के लिए स्टोरेज सुविधाएँ, संग्रह केंद्र स्थापित करें, कोल्ड चेन संरचना को समर्थन दें और बाजार लिंक सुधारें।",
+    "answer_pa": "ਖ਼ਰਾਬ ਹੋਣ ਵਾਲੀਆਂ ਵਸਤਾਂ ਲਈ ਕੋਲਡ ਸਟੋਰੇਜ ਅਤੇ ਗੋਦਾਮ ਸਥਾਪਤ ਕਰੋ, ਕਲੈਕਸ਼ਨ ਸੈਂਟਰ, ਕੋਲਡ ਚੇਨ ਢਾਂਚੇ ਲਈ ਸਹਾਇਤਾ ਅਤੇ ਮਾਰਕੀਟ ਲਿੰਕੇਜ ਸੁਧਾਰੋ।"
+  },
+  {
+    "question": "High input costs & delayed subsidy or input claims",
+    "answer_en": "Streamline subsidy distribution, provide advance support schemes, input cost support via cooperatives in Goa.",
+    "answer_hi": "उच्च इनपुट लागत और सब्सिडी/इनपुट दावा में देरी के लिए सब्सिडी वितरण को सुव्यवस्थित करें, अग्रिम सहायता योजनाएँ दें और सहकारी समितियों के माध्यम से इनपुट लागत सहायता प्रदान करें।",
+    "answer_pa": "ਉੱਚ ਇਨਪੁੱਟ ਲਾਗਤ ਅਤੇ سبਸਿਡੀ/ਇਨਪੁੱਟ ਦਾਅਵੇ ਵਿੱਚ ਦੇਰੀ ਲਈ سبਸਿਡੀ ਵੰਡ ਸੁਚਾਰੂ ਕਰੋ, ਐਡਵਾਂਸ ਸਹਾਇਤਾ ਯੋਜਨਾ ਦਿਓ ਅਤੇ ਸਹਿਕਾਰੀ ਰਾਹੀਂ ਇਨਪੁੱਟ ਲਾਗਤ ਸਹਾਇਤਾ।"
+  },
+  {
+    "question": "Fall in interest among youth in farming / agriculture as part‑time occupation",
+    "answer_en": "Provide incentives, farm‑based enterprises, skill training, awareness programs, improve profitability so farming is viable in Goa.",
+    "answer_hi": "कृषि/खेती में युवाओं की रुचि घटने पर प्रोत्साहन दें, फार्म आधारित उद्यम बढ़ाएँ, कौशल प्रशिक्षण और जागरूकता कार्यक्रम चलाएँ, और लाभप्रदता बढ़ाएँ ताकि खेती योग्य बनी रहे।",
+    "answer_pa": "ਖੇਤੀ/ਕ੍ਰਿਸ਼ੀ ਵਿੱਚ ਨੌਜਵਾਨਾਂ ਦੀ ਰੁਚੀ ਘਟਣ 'ਤੇ ਇਨਸੈਂਟਿਵ ਦਿਓ, ਫਾਰਮ-ਅਧਾਰਿਤ ਉਦਯੋਗ فروغ ਦਿਓ, ਹੁਨਰ ਟਰੇਨਿੰਗ ਅਤੇ ਜਾਗਰੂਕਤਾ ਪ੍ਰੋਗਰਾਮ ਦਿਓ ਅਤੇ ਲਾਭਕਾਰੀ ਬਣਾਓ ਤਾਂ ਕਿ ਖੇਤੀ ਯੋਗ ਰਹੇ।"
+  },
+  {
+    "question": "Decline in cultivation of khazan lands (traditional wetland farming)",
+    "answer_en": "Revive khazan systems, maintain bunds & sluice gates, provide incentives for cultivation, integrate traditional knowledge in planning in Goa.",
+    "answer_hi": "खज़ान भूमि (पारंपरिक जलभूमि खेती) की खेती में कमी को रोकने के लिए खज़ान प्रणाली को पुनर्जीवित करें, बाँध और स्लू गेट बनाएँ, खेती के लिए प्रोत्साहन दें और योजना में पारंपरिक ज्ञान को शामिल करें।",
+    "answer_pa": "ਖਜ਼ਾਨ ਜ਼ਮੀਨਾਂ (ਪਾਰੰਪਰਿਕ ਆਬਾਦੀ ਖੇਤੀ) ਦੀ ਖੇਤੀ ਘਟਣ ਤੋਂ ਬਚਾਉਣ ਲਈ ਖਜ਼ਾਨ ਸਿਸਟਮ ਨੂੰ ਮੁੜ ਜੀਵਿਤ ਕਰੋ, ਬੰਨ੍ਹ ਅਤੇ ਸਲੂਸ ਗੇਟ ਬਣਾਓ, ਖੇਤੀ ਲਈ ਇਨਸੈਂਟਿਵ ਦਿਓ ਅਤੇ ਯੋਜਨਾ ਵਿੱਚ ਪਰੰਪਰਾਗਤ ਗਿਆਨ ਸ਼ਾਮਲ ਕਰੋ।"
+  },
+  {
+    "question": "Low prices for oilseeds (groundnut, cotton) despite rising input costs",
+    "answer_en": "Ensure MSP cover, improve price support mechanisms, strengthen cooperatives and farmer collectives to reduce dependency on middlemen in Gujarat.",
+    "answer_hi": "तेलहन (मूँगफली, कपास) के कम दाम के लिए MSP सुनिश्चित करें, मूल्य समर्थन प्रणाली सुधारें, सहकारी समितियों और किसान समूहों को मजबूत करें ताकि दलालों पर निर्भरता कम हो।",
+    "answer_pa": "ਤੇਲਬੀਜ (ਮੂੰਗਫਲੀ, ਕਪਾਹ) ਦੇ ਘੱਟ ਮੁੱਲ ਲਈ MSP ਨੂੰ ਯਕੀਨੀ ਬਣਾਓ, ਕੀਮਤ ਸਹਾਇਤਾ ਪ੍ਰਣਾਲੀ ਸੁਧਾਰੋ, ਸਹਿਕਾਰੀ ਅਤੇ ਕਿਸਾਨ ਸਮੂਹ ਮਜ਼ਬੂਤ ਕਰੋ ਤਾਂ ਕਿ ਮਧਿਆਸਤਾਂ 'ਤੇ ਨਿਰਭਰਤਾ ਘਟੇ।"
+  },
+  {
+    "question": "Saltwater intrusion & salinity in coastal fields / groundwater degradation",
+    "answer_en": "Adopt salt‑tolerant crop varieties, improve drainage, restore mangroves or natural barriers, regulate groundwater extraction in Gujarat.",
+    "answer_hi": "तटीय क्षेत्रों में समुद्री जल प्रवेश और जलक्षेत्र/भूमिगत जल क्षरण के लिए लवण-प्रतिरोधी फसलें अपनाएँ, जल निकासी सुधारें, मैंग्रोव या प्राकृतिक अवरोधों को पुनर्स्थापित करें, और भूजल निष्कर्षण को नियंत्रित करें।",
+    "answer_pa": "ਤਟਬੰਦੀ ਖੇਤਰਾਂ ਵਿੱਚ ਖਾਰਾ ਪਾਣੀ ਦੇ ਦਾਖਲ ਹੋਣ ਅਤੇ ਜ਼ਮੀਨੀ/ਭੂਗਤਲ ਪਾਣੀ ਦੇ ਘਟਣ ਲਈ ਖਾਰ-ਸਹਿਣਸ਼ੀਲ ਫਸਲਾਂ ਵਰਤੋਂ, ਨਿਕਾਸ ਸੁਧਾਰੋ, ਮੈੰਗਰੋਵ ਜਾਂ ਕੁਦਰਤੀ ਬੈਰੀਅਰ ਮੁੜ ਬਹਾਲ ਕਰੋ ਅਤੇ ਭੂਗਤਲ ਪਾਣੀ ਨਿਕਾਸ ਨਿਯੰਤ੍ਰਿਤ ਕਰੋ।"
+  },
+  {
+    "question": "Lack of reliable irrigation / water access in Saurashtra & arid zones",
+    "answer_en": "Expand canal projects, provide subsidized borewells or solar pumps, rainwater harvesting, efficient irrigation (drip/sprinkler) in Gujarat.",
+    "answer_hi": "सौराष्ट्र और शुष्क क्षेत्रों में विश्वसनीय सिंचाई/जल पहुँच की कमी को दूर करने के लिए नहर परियोजनाएँ बढ़ाएँ, सब्सिडी वाले बोरवेल या सोलर पंप दें, वर्षा जल संचयन करें और दक्ष सिंचाई (ड्रिप/स्प्रिंकलर) अपनाएँ।",
+    "answer_pa": "ਸੌਰਾਸ਼ਟਰ ਅਤੇ ਸੁੱਕੇ ਖੇਤਰਾਂ ਵਿੱਚ ਭਰੋਸੇਮੰਦ ਸਿੰਚਾਈ/ਪਾਣੀ ਦੀ ਪਹੁੰਚ ਨਹੀਂ ਹੋਣ ਦੇ ਮਾਮਲੇ ਵਿੱਚ ਨਦੀ ਪ੍ਰੋਜੈਕਟ ਵਧਾਓ, ਸਬਸਿਡੀ ਵਾਲੇ ਬੋਰਵੈਲ ਜਾਂ ਸੂਰਜੀ ਪੰਪ ਦਿਓ, ਵਰਖਾ ਪਾਣੀ ਸੰਗ੍ਰਹਿ ਕਰੋ ਅਤੇ ਪ੍ਰਭਾਵਸ਼ੀਲ ਸਿੰਚਾਈ (ਡ੍ਰਿਪ/ਸਪ੍ਰਿੰਕਲਰ) ਵਰਤੋਂ।"
+  },
+  {
+    "question": "Unseasonal & heavy rains damaging crops / floods / delayed compensation",
+    "answer_en": "Strengthen crop insurance, fast‑track compensation, build better drainage, advisories for farmers about weather, shift sowing calendar in Gujarat.",
+    "answer_hi": "असमय और भारी वर्षा से फसल नुकसान/बाढ़/विलंबित मुआवज़ा के लिए फसल बीमा मजबूत करें, मुआवज़ा त्वरित करें, बेहतर जल निकासी बनाएं, किसानों को मौसम की जानकारी दें और बुआई कैलेंडर समायोजित करें।",
+    "answer_pa": "ਅਣਮੌਸਮੀ ਅਤੇ ਭਾਰੀ ਵਰਖਾ ਨਾਲ ਫਸਲ ਨੁਕਸਾਨ/ਬਾੜ/ਵਿਲੰਬਿਤ ਮੁਆਵਜ਼ੇ ਲਈ ਫਸਲ ਬੀਮਾ ਮਜ਼ਬੂਤ ਕਰੋ, ਮੁਆਵਜ਼ਾ ਤੁਰੰਤ ਕਰੋ, ਵਧੀਆ ਨਿਕਾਸ ਬਣਾਓ, ਕਿਸਾਨਾਂ ਨੂੰ ਮੌਸਮ ਬਾਰੇ ਸਲਾਹ ਦਿਓ ਅਤੇ ਬੀਜਾਈ ਕੈਲੰਡਰ ਬਦਲੋ।"
+  },
+  {
+    "question": "Fragmented land holdings & small farms reducing efficiency / mechanization issues",
+    "answer_en": "Promote land consolidation, cooperative farming, shared machinery services, custom hiring centers in Gujarat.",
+    "answer_hi": "खंडित भूमि और छोटे खेतों से दक्षता कम होने/यांत्रिकीकरण समस्याओं के लिए भूमि समेकन, सहकारी खेती, साझा मशीनरी सेवाएँ और कस्टम हायरिंग केंद्र बढ़ावा दें।",
+    "answer_pa": "ਫਰੈਗਮੈਂਟਡ ਜ਼ਮੀਨ ਅਤੇ ਛੋਟੇ ਖੇਤਾਂ ਤੋਂ ਕੁਸ਼ਲਤਾ ਘਟਣ/ਮਕੈਨਾਈਜੇਸ਼ਨ ਸਮੱਸਿਆਵਾਂ ਲਈ ਜ਼ਮੀਨ ਸੰਕਲਨ, ਸਹਿਕਾਰੀ ਖੇਤੀ, ਸਾਂਝੀ ਮਸ਼ੀਨਰੀ ਸੇਵਾਵਾਂ ਅਤੇ ਕਸਟਮ ਹਾਇਰਿੰਗ ਸੈਂਟਰ فروغ ਦਿਓ।"
+  },
+  {
+    "question": "Poor support system / infrastructure for marketing, warehouses, mandi facilities",
+    "answer_en": "Build storage, improve APMC mandi infrastructure, better transport & connectivity, digital & logistic support in Gujarat.",
+    "answer_hi": "बाजार, गोदाम, मंडी सुविधाओं के लिए कमजोर समर्थन प्रणाली/अवसंरचना के लिए भंडारण बनाएं, APMC मंडी सुधारें, बेहतर परिवहन और कनेक्टिविटी सुनिश्चित करें, डिजिटल और लॉजिस्टिक समर्थन दें।",
+    "answer_pa": "ਮਾਰਕੀਟ, ਗੋਦਾਮ, ਮੰਡੀ ਸਹੂਲਤਾਂ ਲਈ ਖ਼ਰਾਬ ਸਹਾਇਤਾ ਪ੍ਰਣਾਲੀ/ਵਿਢਾਂਚਾ ਲਈ ਸਟੋਰੇਜ ਬਣਾਓ, APMC ਮੰਡੀ ਸੁਧਾਰੋ, ਵਧੀਆ ਆਵਾਜਾਈ ਅਤੇ ਕਨੈਕਟੀਵਿਟੀ, ਡਿਜ਼ਿਟਲ ਅਤੇ ਲੌਜਿਸਟਿਕ ਸਹਾਇਤਾ ਦਿਓ।"
+  },
+  {
+    "question": "High cost of inputs (seeds, fertilisers, electricity, water)",
+    "answer_en": "Subsidise inputs, provide price‑stabilising policies, better credit access, efficient resource use, reduce input waste in Gujarat.",
+    "answer_hi": "उच्च इनपुट लागत (बीज, उर्वरक, बिजली, पानी) के लिए इनपुट सब्सिडी दें, मूल्य स्थिरीकरण नीति लागू करें, बेहतर ऋण पहुँच प्रदान करें, संसाधनों का कुशल उपयोग करें और इनपुट अपव्यय कम करें।",
+    "answer_pa": "ਉੱਚ ਇਨਪੁੱਟ ਲਾਗਤ (ਬੀਜ, ਖਾਦ, ਬਿਜਲੀ, ਪਾਣੀ) ਲਈ ਇਨਪੁੱਟ ਸਬਸਿਡੀ ਦਿਓ, ਕੀਮਤ ਸਥਿਰਤਾ ਨੀਤੀ, ਵਧੀਆ ਕਰੈਡਿਟ ਪਹੁੰਚ, ਕੁਸ਼ਲ ਸਰੋਤ ਵਰਤੋਂ ਅਤੇ ਇਨਪੁੱਟ ਵਿਅਰਥ ਘਟਾਓ।"
+  },
+  {
+    "question": "Monocropping & soil health degradation",
+    "answer_en": "Encourage crop rotation, intercropping, soil testing, promote organic amendments and reduced chemical overuse in Gujarat.",
+    "answer_hi": "एकल फसल और मिट्टी की सेहत में गिरावट के लिए फसल चक्रीकरण, अंतर-फसल प्रणाली अपनाएँ, मिट्टी की जांच करें, जैविक संशोधन को बढ़ावा दें और रासायनिक अधिक उपयोग कम करें।",
+    "answer_pa": "ਮੋਨੋਕ੍ਰਾਪਿੰਗ ਅਤੇ ਮਿੱਟੀ ਸਿਹਤ ਘਟਣ ਲਈ ਫਸਲ ਘੁੰਮਾਓ, ਇੰਟਰਕ੍ਰਾਪਿੰਗ, ਮਿੱਟੀ ਟੈਸਟਿੰਗ, ਆਰਗੈਨਿਕ ਸੁਧਾਰ فروغ ਦਿਓ ਅਤੇ ਰਸਾਇਣਕ ਵਰਤੋਂ ਘਟਾਓ।"
+  },
+  {
+    "question": "Delayed payments / documentation, tech glitches in procurement & subsidy schemes",
+    "answer_en": "Streamline documentation, improve internet/data infrastructure, simplify procedures, improve transparency & accountability in Gujarat.",
+    "answer_hi": "भुगतान/दस्तावेज़ में देरी, खरीद और सब्सिडी योजनाओं में तकनीकी गड़बड़ियों के लिए दस्तावेज़ प्रक्रिया सुव्यवस्थित करें, इंटरनेट/डेटा संरचना सुधारें, प्रक्रियाएँ सरल बनाएं और पारदर्शिता व जवाबदेही बढ़ाएँ।",
+    "answer_pa": "ਭੁਗਤਾਨ/ਦਸਤਾਵੇਜ਼ ਵਿੱਚ ਦੇਰੀ, ਖਰੀਦ ਅਤੇ سبਸਿਡੀ ਯੋਜਨਾਵਾਂ ਵਿੱਚ ਤਕਨੀਕੀ ਗਲਤੀਆਂ ਲਈ ਦਸਤਾਵੇਜ਼ੀ ਪ੍ਰਕਿਰਿਆ ਸੁਚਾਰੂ ਕਰੋ, ਇੰਟਰਨੈੱਟ/ਡੇਟਾ ਢਾਂਚਾ ਸੁਧਾਰੋ, ਪ੍ਰਕਿਰਿਆਵਾਂ ਸੌਖੀਆਂ ਕਰੋ ਅਤੇ ਪਾਰਦਰਸ਼ਤਾ ਅਤੇ ਜਵਾਬਦੇਹੀ ਵਧਾਓ।"
+  },
+  {
+    "question": "Youth migration out of farming due to low profitability / uncertain returns",
+    "answer_en": "Promote value‑addition, agro‑industries, farm diversification, training & entrepreneurship programs, incentives for young farmers in Gujarat.",
+    "answer_hi": "कम लाभप्रदता/अनिश्चित आय के कारण युवा किसानों के पलायन को रोकने के लिए मूल्य संवर्धन, कृषि-उद्योग, फसल विविधीकरण, प्रशिक्षण और उद्यमिता कार्यक्रम, युवा किसानों के लिए प्रोत्साहन बढ़ाएँ।",
+    "answer_pa": "ਘੱਟ ਲਾਭਕਾਰੀ/ਅਣਿਸ਼ਚਿਤ ਆਮਦਨ ਕਾਰਨ ਨੌਜਵਾਨ ਕਿਸਾਨਾਂ ਦੇ ਪਲਾਇਨ ਨੂੰ ਰੋਕਣ ਲਈ ਮੁੱਲ-ਵਾਧਾ, ਖੇਤੀ-ਉદ્યોગ, ਫਸਲ ਵਿਵਿਧਤਾ, ਟਰੇਨਿੰਗ ਅਤੇ ਉਦਯਮੀਤਾ ਪ੍ਰੋਗਰਾਮ, ਨੌਜਵਾਨ ਕਿਸਾਨਾਂ ਲਈ ਇਨਸੈਂਟਿਵ।"
+  },
+  {
+    "question": "Apple production falling due to climate change",
+    "answer_en": "Grow low-chill apple varieties, diversify into kiwi, pomegranate, and vegetables in Himachal Pradesh.",
+    "answer_hi": "जलवायु परिवर्तन के कारण सेब उत्पादन में गिरावट को रोकने के लिए कम-ठंडे वाले सेब की किस्में लगाएँ और कीवी, अनार और सब्ज़ियों में विविधता अपनाएँ।",
+    "answer_pa": "ਮੌਸਮ ਬਦਲਾਅ ਕਾਰਨ ਸੇਬ ਦੇ ਉਤਪਾਦਨ ਘਟਣ ਤੋਂ ਬਚਾਉਣ ਲਈ ਘੱਟ-ਠੰਡ ਵਾਲੀਆਂ ਸੇਬ ਕਿਸਮਾਂ ਬੋਵੋ ਅਤੇ ਕੀਵੀ, ਅਨਾਰ ਅਤੇ ਸਬਜ਼ੀਆਂ ਵਿੱਚ ਵਿਵਿਧਤਾ ਲਿਆਓ।"
+  },
+  {
+    "question": "Crop damage by monkeys and wild animals",
+    "answer_en": "Use solar fencing, community fencing, and government compensation schemes in Himachal Pradesh.",
+    "answer_hi": "फसलों को बंदरों और जंगली जानवरों से होने वाले नुकसान से बचाने के लिए सौर fencing, सामुदायिक fencing और सरकारी मुआवजा योजनाएँ अपनाएँ।",
+    "answer_pa": "ਫਸਲਾਂ ਨੂੰ ਬੰਦਰਾਂ ਅਤੇ ਜੰਗਲੀ ਜਾਨਵਰਾਂ ਤੋਂ ਨੁਕਸਾਨ ਤੋਂ ਬਚਾਉਣ ਲਈ ਸੂਰਜੀ ਫੈਂਸਿੰਗ, ਕਮਿਊਨਿਟੀ ਫੈਂਸਿੰਗ ਅਤੇ ਸਰਕਾਰੀ ਮੁਆਵਜ਼ਾ ਯੋਜਨਾਵਾਂ ਵਰਤੋਂ।"
+  },
+  {
+    "question": "Low irrigation facilities in hilly areas",
+    "answer_en": "Build small check dams, rainwater harvesting tanks, and promote drip irrigation in Himachal Pradesh.",
+    "answer_hi": "पहाड़ी क्षेत्रों में कम सिंचाई सुविधाओं को सुधारने के लिए छोटे चेक डैम, वर्षा जल संचयन टैंक बनाएँ और ड्रिप इरीगेशन को बढ़ावा दें।",
+    "answer_pa": "ਪਹਾੜੀ ਖੇਤਰਾਂ ਵਿੱਚ ਘੱਟ ਸਿੰਚਾਈ ਸਹੂਲਤਾਂ ਲਈ ਛੋਟੇ ਚੈਕ ਡੈਮ, ਵਰਖਾ ਪਾਣੀ ਸੰਗ੍ਰਹਿ ਟੈਂਕ ਬਣਾਓ ਅਤੇ ਡ੍ਰਿਪ ਸਿੰਚਾਈ فروغ ਦਿਓ।"
+  },
+  {
+    "question": "Soil erosion on steep slopes",
+    "answer_en": "Plant grasses, fruit trees, and follow terrace farming in Himachal Pradesh.",
+    "answer_hi": "तीव्र ढलानों पर मिट्टी कटाव को रोकने के लिए घास, फलदार पेड़ लगाएँ और टेरेस खेती अपनाएँ।",
+    "answer_pa": "ਤੀਬਰ ਢਲਾਨਾਂ 'ਤੇ ਮਿੱਟੀ ਖਿਸਕਣ ਤੋਂ ਬਚਾਉਣ ਲਈ ਘਾਹ, ਫਲਦਾਰ ਦਰੱਖਤ ਬੋਵੋ ਅਤੇ ਟੇਰਸ ਖੇਤੀ ਅਪਣਾਓ।"
+  },
+  {
+    "question": "High cost of transporting crops from villages",
+    "answer_en": "Provide subsidies for transport and promote farmer cooperative transport in Himachal Pradesh.",
+    "answer_hi": "गाँव से फसलों की परिवहन लागत कम करने के लिए परिवहन के लिए सब्सिडी दें और किसान सहकारी परिवहन को बढ़ावा दें।",
+    "answer_pa": "ਪਿੰਡਾਂ ਤੋਂ ਫਸਲਾਂ ਦੇ ਆਵਾਜਾਈ ਖਰਚ ਨੂੰ ਘਟਾਉਣ ਲਈ ਆਵਾਜਾਈ ਲਈ ਸਬਸਿਡੀ ਦਿਓ ਅਤੇ ਕਿਸਾਨ ਸਹਿਕਾਰੀ ਆਵਾਜਾਈ فروغ ਦਿਓ।"
+  },
+  {
+    "question": "Pesticide residue problems in apple farming",
+    "answer_en": "Train farmers on safe pesticide use and promote organic farming methods in Himachal Pradesh.",
+    "answer_hi": "सेब की खेती में कीटनाशक अवशेष समस्याओं के लिए किसानों को सुरक्षित कीटनाशक उपयोग का प्रशिक्षण दें और जैविक खेती बढ़ावा दें।",
+    "answer_pa": "ਸੇਬ ਖੇਤੀ ਵਿੱਚ ਕੀਟਨਾਸ਼ਕ ਬਾਕੀ ਸਮੱਸਿਆਵਾਂ ਲਈ ਕਿਸਾਨਾਂ ਨੂੰ ਸੁਰੱਖਿਅਤ ਕੀਟਨਾਸ਼ਕ ਵਰਤੋਂ ਸਿਖਾਓ ਅਤੇ ਜੈਵਿਕ ਖੇਤੀ فروغ ਦਿਓ।"
+  },
+  {
+    "question": "Small landholdings limit productivity",
+    "answer_en": "Promote cooperative farming and use high-value crops on small land in Himachal Pradesh.",
+    "answer_hi": "छोटे भूखंडों की वजह से उत्पादकता सीमित होने पर सहकारी खेती बढ़ावा दें और छोटे खेतों में उच्च मूल्य वाली फसलें लगाएँ।",
+    "answer_pa": "ਛੋਟੇ ਜ਼ਮੀਨ ਦੇ ਹੱਕਾਂ ਨਾਲ ਉਤਪਾਦਕਤਾ ਸੀਮਿਤ ਹੋਣ ਤੇ ਸਹਿਕਾਰੀ ਖੇਤੀ فروغ ਦਿਓ ਅਤੇ ਛੋਟੀ ਜ਼ਮੀਨ 'ਤੇ ਉੱਚ ਮੁੱਲ ਵਾਲੀਆਂ ਫਸਲਾਂ ਵਰਤੋਂ।"
+  },
+  {
+    "question": "Lack of storage facilities for fruits and vegetables",
+    "answer_en": "Build cold storages and pack houses near villages in Himachal Pradesh.",
+    "answer_hi": "फल और सब्ज़ियों के लिए भंडारण की कमी को दूर करने के लिए गांवों के पास कोल्ड स्टोरेज और पैक हाउस बनाएँ।",
+    "answer_pa": "ਫਲ ਅਤੇ ਸਬਜ਼ੀਆਂ ਲਈ ਸਟੋਰੇਜ ਘਾਟ ਦੂਰ ਕਰਨ ਲਈ ਪਿੰਡਾਂ ਨੇੜੇ ਕੋਲਡ ਸਟੋਰੇਜ ਅਤੇ ਪੈਕ ਹਾਊਸ ਬਣਾਓ।"
+  },
+  {
+    "question": "Youth shifting from farming to tourism jobs",
+    "answer_en": "Encourage agri-tourism, skill development, and farmer producer organizations (FPOs) in Himachal Pradesh.",
+    "answer_hi": "युवा किसानों के खेती छोड़कर पर्यटन में जाने के लिए कृषि पर्यटन, कौशल विकास और किसान उत्पादक संगठन (FPOs) को प्रोत्साहित करें।",
+    "answer_pa": "ਨੌਜਵਾਨ ਕਿਸਾਨਾਂ ਦੇ ਖੇਤੀ ਛੱਡ ਕੇ ਟੂਰਿਜ਼ਮ ਵੱਲ ਜਾਣ ਤੋਂ ਬਚਾਉਣ ਲਈ ਕਿਸਾਨ-ਪ੍ਰਸਾਰਕ ਸੰਗਠਨ, ਕੌਸ਼ਲ ਵਿਕਾਸ ਅਤੇ ਐਗਰੀ-ਟੂਰਿਜ਼ਮ فروغ ਦਿਓ।"
+  },
+  {
+    "question": "Fluctuating prices of apples and vegetables",
+    "answer_en": "Provide MSP for apples, set up processing units, and link to e-NAM markets in Himachal Pradesh.",
+    "answer_hi": "सेब और सब्ज़ियों की कीमतों में उतार-चढ़ाव को कम करने के लिए सेब के लिए MSP दें, प्रसंस्करण इकाइयाँ स्थापित करें और e-NAM बाजारों से जोड़ें।",
+    "answer_pa": "ਸੇਬ ਅਤੇ ਸਬਜ਼ੀਆਂ ਦੀਆਂ ਕੀਮਤਾਂ ਵਿੱਚ ਉਤਾਰ-ਚੜ੍ਹਾਅ ਨੂੰ ਘਟਾਉਣ ਲਈ ਸੇਬ ਲਈ MSP ਦਿਓ, ਪ੍ਰੋਸੈਸਿੰਗ ਯੂਨਿਟ ਬਣਾਓ ਅਤੇ e-NAM ਮਾਰਕੀਟ ਨਾਲ ਜੋੜੋ।"
+  },
+  {
+    "question": "Paddy yield is low because most land is rainfed (no canals/tubewells)",
+    "answer_en": "Build check dams, ponds, and promote community irrigation schemes in Jharkhand.",
+    "answer_hi": "चूंकि ज्यादातर जमीन वर्षापूर्ति पर निर्भर है (नहर/ट्यूबवेल नहीं), इसलिए चेक डैम, तालाब बनाएं और सामुदायिक सिंचाई योजनाओं को बढ़ावा दें।",
+    "answer_pa": "ਚੁੱਕੀ ਬਹੁਤ ਜ਼ਮੀਨ ਬਾਰਿਸ਼ 'ਤੇ ਨਿਰਭਰ ਹੈ (ਨਹਿਰਾਂ/ਟਿਊਬਵੈਲ ਨਹੀਂ), ਇਸ ਲਈ ਚੈਕ ਡੈਮ, ਤਾਲਾਬ ਬਣਾਓ ਅਤੇ ਕਮਿਊਨਿਟੀ ਸਿੰਚਾਈ ਯੋਜਨਾਵਾਂ فروغ ਦਿਓ।"
+  },
+  {
+    "question": "Elephants destroy paddy and maize crops in villages near forests",
+    "answer_en": "Use solar fencing, trenching, and government compensation schemes in Jharkhand.",
+    "answer_hi": "जंगल के पास के गाँवों में हाथी धान और मक्का की फसलें नष्ट करते हैं, इसलिए सोलर फेंसिंग, खाई और सरकारी मुआवजा योजनाओं का उपयोग करें।",
+    "answer_pa": "ਜੰਗਲ ਦੇ ਨੇੜੇ ਪਿੰਡਾਂ ਵਿੱਚ ਹਾਥੀ ਧਾਨ ਅਤੇ ਮੱਕਾ ਦੀਆਂ ਫਸਲਾਂ ਨਸ਼ਟ ਕਰਦੇ ਹਨ, ਇਸ ਲਈ ਸੌਲਰ ਫੈਂਸਿੰਗ, ਖਾਈ ਅਤੇ ਸਰਕਾਰੀ ਮੁਆਵਜ਼ਾ ਯੋਜਨਾਵਾਂ ਵਰਤੋਂ।"
+  },
+  {
+    "question": "Shifting cultivation (Podu/Khunti farming) reduces soil fertility",
+    "answer_en": "Promote settled farming, agroforestry, and soil-restoring crops in Jharkhand.",
+    "answer_hi": "स्थानांतरित खेती (पोडू/खूंटी) मिट्टी की उर्वरता को कम करती है, इसलिए स्थायी खेती, कृषि वानिकी और मिट्टी-संरक्षण वाली फसलें अपनाएँ।",
+    "answer_pa": "ਸ਼ਿਫਟਿੰਗ ਖੇਤੀ (ਪੋਡੂ/ਖੂੰਟੀ) ਮਿੱਟੀ ਦੀ ਉਰਵਰਤਾ ਘਟਾਉਂਦੀ ਹੈ, ਇਸ ਲਈ ਸਥਾਈ ਖੇਤੀ, ਐਗਰੋਫੋਰੇਸਟਰੀ ਅਤੇ ਮਿੱਟੀ-ਬਹਾਲ ਕਰਨ ਵਾਲੀਆਂ ਫਸਲਾਂ فروغ ਦਿਓ।"
+  },
+  {
+    "question": "High dependence on traditional seeds lowers crop productivity",
+    "answer_en": "Run seed villages where farmers produce and exchange improved seeds locally in Jharkhand.",
+    "answer_hi": "परंपरागत बीजों पर अधिक निर्भरता फसल की उत्पादकता कम करती है, इसलिए बीज गांव चलाएँ जहाँ किसान उन्नत बीज का उत्पादन और आदान-प्रदान करें।",
+    "answer_pa": "ਪਾਰੰਪਰਿਕ ਬੀਜਾਂ 'ਤੇ ਜ਼ਿਆਦਾ ਨਿਰਭਰਤਾ ਫਸਲ ਦੀ ਉਤਪਾਦਕਤਾ ਘਟਾਉਂਦੀ ਹੈ, ਇਸ ਲਈ ਬੀਜ ਪਿੰਡ ਚਲਾਓ ਜਿੱਥੇ ਕਿਸਾਨ ਸੁਧਰੇ ਹੋਏ ਬੀਜ ਬਣਾਉਣ ਅਤੇ ਅਦਾਨ-ਪ੍ਰਦਾਨ ਕਰਨ।"
+  },
+  {
+    "question": "Lack of storage for lac, tasar silk, and minor forest produce",
+    "answer_en": "Build small godowns and promote FPOs for NTFPs (Non-Timber Forest Products) in Jharkhand.",
+    "answer_hi": "लैक, तसर सिल्क और छोटे वन उत्पादों के लिए भंडारण की कमी को दूर करने हेतु छोटे गोदाम बनाएँ और एनटीएफपी के लिए किसान उत्पादक संगठन (FPO) बढ़ावा दें।",
+    "answer_pa": "ਲੈਕ, ਤਸਰ ਰੇਸ਼ਮ ਅਤੇ ਛੋਟੇ ਜੰਗਲੀ ਉਤਪਾਦਾਂ ਲਈ ਸਟੋਰੇਜ ਘਾਟ ਦੂਰ ਕਰਨ ਲਈ ਛੋਟੇ ਗੋਦਾਮ ਬਣਾਓ ਅਤੇ NTFP ਲਈ FPO فروغ ਦਿਓ।"
+  },
+  {
+    "question": "Farmers struggle to sell lac and tasar silk at fair prices",
+    "answer_en": "Form cooperatives and direct marketing channels for forest-based products in Jharkhand.",
+    "answer_hi": "किसान लैक और तसर सिल्क को उचित मूल्य पर बेचने में संघर्ष करते हैं, इसलिए सहकारी समितियाँ और सीधे विपणन चैनल बनाएँ।",
+    "answer_pa": "ਕਿਸਾਨ ਲੈਕ ਅਤੇ ਤਸਰ ਰੇਸ਼ਮ ਨੂੰ ਸਹੀ ਕੀਮਤ 'ਤੇ ਵੇਚਣ ਲਈ ਮੁਸ਼ਕਲਾਂ ਦਾ ਸਾਹਮਣਾ ਕਰਦੇ ਹਨ, ਇਸ ਲਈ ਸਹਿਕਾਰੀ ਸਮਿਤੀਆਂ ਅਤੇ ਸਿੱਧੇ ਮਾਰਕੀਟਿੰਗ ਚੈਨਲ ਬਣਾਓ।"
+  },
+  {
+    "question": "Frequent droughts in Palamu and nearby districts",
+    "answer_en": "Promote drought-tolerant crops like millet and pulses in Jharkhand.",
+    "answer_hi": "पालमू और आसपास के जिलों में बार-बार सूखे आते हैं, इसलिए बाजरा और दलहन जैसी सूखा-प्रतिरोधी फसलें बढ़ावा दें।",
+    "answer_pa": "ਪਾਲਾਮੂ ਅਤੇ ਨੇੜਲੇ ਜ਼ਿਲਿਆਂ ਵਿੱਚ ਅਕਸਰ ਸੁੱਕਾ ਹੁੰਦਾ ਹੈ, ਇਸ ਲਈ ਬਾਜਰਾ ਅਤੇ ਦਾਲਾਂ ਵਰਗੀਆਂ ਸੁੱਕਾ-ਰੋਧੀ ਫਸਲਾਂ فروغ ਦਿਓ।"
+  },
+  {
+    "question": "Poor roads in forested/tribal areas block access to markets",
+    "answer_en": "Build rural roads under government schemes like PMGSY in Jharkhand.",
+    "answer_hi": "वन और आदिवासी क्षेत्रों में खराब सड़कें बाज़ार तक पहुँच को रोकती हैं, इसलिए PMGSY जैसी सरकारी योजनाओं के तहत ग्रामीण सड़कें बनाएं।",
+    "answer_pa": "ਜੰਗਲੀ ਅਤੇ ਆਦਿਵਾਸੀ ਖੇਤਰਾਂ ਵਿੱਚ ਖਰਾਬ ਸੜਕਾਂ ਮਾਰਕੀਟ ਤੱਕ ਪਹੁੰਚ ਰੋਕਦੀਆਂ ਹਨ, ਇਸ ਲਈ PMGSY ਵਰਗੀਆਂ ਸਰਕਾਰੀ ਯੋਜਨਾਵਾਂ ਹੇਠ ਰੁਰਲ ਸੜਕਾਂ ਬਣਾਓ।"
+  },
+  {
+    "question": "Youth migrating to mines and cities reduces farm labour",
+    "answer_en": "Promote local agri-based industries and skill training in Jharkhand.",
+    "answer_hi": "युवा खानों और शहरों में जाने के कारण कृषि श्रम कम होता है, इसलिए स्थानीय कृषि-आधारित उद्योग और कौशल प्रशिक्षण बढ़ावा दें।",
+    "answer_pa": "ਨੌਜਵਾਨ ਖਾਣਾਂ ਅਤੇ ਸ਼ਹਿਰਾਂ ਵੱਲ ਜਾਣ ਨਾਲ ਖੇਤੀ ਦੀ ਮਜ਼ਦੂਰੀ ਘੱਟ ਹੁੰਦੀ ਹੈ, ਇਸ ਲਈ ਸਥਾਨਕ ਐਗਰੀ-ਆਧਾਰਤ ਉਦਯੋਗ ਅਤੇ ਕੌਸ਼ਲ ਤਾਲੀਮ فروغ ਦਿਓ।"
+  },
+  {
+    "question": "Farmers have low awareness of government schemes",
+    "answer_en": "Organize village-level training and awareness camps in Jharkhand.",
+    "answer_hi": "किसानों में सरकारी योजनाओं के प्रति जागरूकता कम है, इसलिए गाँव स्तर पर प्रशिक्षण और जागरूकता शिविर आयोजित करें।",
+    "answer_pa": "ਕਿਸਾਨਾਂ ਵਿੱਚ ਸਰਕਾਰੀ ਯੋਜਨਾਵਾਂ ਬਾਰੇ ਸੂਚਨਾ ਘੱਟ ਹੈ, ਇਸ ਲਈ ਪਿੰਡ ਸਤਰ 'ਤੇ ਪ੍ਰਸ਼ਿਖਣ ਅਤੇ ਜਾਗਰੂਕਤਾ ਕੈਂਪਾਂ ਆਯੋਜਿਤ ਕਰੋ।"
+  },
+  {
+    "question": "Unpredictable monsoon rains affecting ragi, jowar, and paddy",
+    "answer_en": "Store rainwater, use drip irrigation, grow drought-tolerant crops in Karnataka.",
+    "answer_hi": "अनिश्चित मानसून की बारिश रागी, ज्वार और धान को प्रभावित कर रही है, इसलिए वर्षा जल संग्रहीत करें, ड्रिप सिंचाई का उपयोग करें और सूखा-प्रतिरोधी फसलें उगाएँ।",
+    "answer_pa": "ਅਣਪੇਖਿਆ ਮੌਸਮ ਦੀਆਂ ਬਾਰਿਸ਼ਾਂ ਰਾਗੀ, ਜਵਾਰ ਅਤੇ ਧਾਨ ਨੂੰ ਪ੍ਰਭਾਵਿਤ ਕਰ ਰਹੀਆਂ ਹਨ, ਇਸ ਲਈ ਬਾਰਿਸ਼ ਦਾ ਪਾਣੀ ਸੰਗ੍ਰਹਿਤ ਕਰੋ, ਡ੍ਰਿਪ ਸਿੰਚਾਈ ਵਰਤੋਂ ਅਤੇ ਸੁੱਕਾ-ਰੋਧੀ ਫਸਲਾਂ ਉਗਾਓ।"
+  },
+  {
+    "question": "Price crash in tomato, onion, and horticulture crops",
+    "answer_en": "Build cold storage, food processing units, and farmer markets in Karnataka.",
+    "answer_hi": "टमाटर, प्याज और बागवानी फसलों में कीमत गिर रही है, इसलिए ठंडा भंडारण, खाद्य प्रसंस्करण और किसान बाजार बनाएँ।",
+    "answer_pa": "ਟਮਾਟਰ, ਪਿਆਜ਼ ਅਤੇ ਬਾਗਬਾਨੀ ਫਸਲਾਂ ਵਿੱਚ ਕੀਮਤ ਘੱਟ ਹੋ ਰਹੀ ਹੈ, ਇਸ ਲਈ ਕੋਲਡ ਸਟੋਰੇਜ, ਫੂਡ ਪ੍ਰੋਸੈਸਿੰਗ ਅਤੇ ਕਿਸਾਨ ਮਾਰਕੀਟ ਬਣਾਓ।"
+  },
+  {
+    "question": "Shortage of water in arid districts (Ballari, Koppal, Raichur)",
+    "answer_en": "Repair tanks, canals, and do watershed management in Karnataka.",
+    "answer_hi": "सूखा जिलों (बल्लारी, कोप्पल, रायचूर) में पानी की कमी, इसलिए टैंक और नहरों की मरम्मत करें और जल संवर्धन कार्य करें।",
+    "answer_pa": "ਸੁੱਕੇ ਜ਼ਿਲਿਆਂ (ਬੱਲਾਰੀ, ਕੋੱਪਲ, ਰਾਇਚੂਰ) ਵਿੱਚ ਪਾਣੀ ਦੀ ਘਾਟ ਹੈ, ਇਸ ਲਈ ਟੈਂਕ ਅਤੇ ਨਹਿਰਾਂ ਦੀ ਮੁਰੰਮਤ ਕਰੋ ਅਤੇ ਵਾਟਰਸ਼ੈੱਡ ਕੰਮ ਕਰੋ।"
+  },
+  {
+    "question": "Cotton, chilli attacked by pests",
+    "answer_en": "Use bio-pesticides, IPM, and train farmers in Karnataka.",
+    "answer_hi": "कपास और मिर्च की फसल कीटों से प्रभावित, इसलिए जैविक कीटनाशक, IPM और किसान प्रशिक्षण का उपयोग करें।",
+    "answer_pa": "ਕਪਾਹ ਅਤੇ ਮਿਰਚ ਦੀਆਂ ਫਸਲਾਂ ਕੀੜਿਆਂ ਤੋਂ ਪ੍ਰਭਾਵਿਤ, ਇਸ ਲਈ ਬਾਇਓ-ਕੀਟਨਾਸ਼ਕ, IPM ਅਤੇ ਕਿਸਾਨਾਂ ਨੂੰ ਸਿਖਲਾਈ ਦਿਓ।"
+  },
+  {
+    "question": "High cost of electricity for pumps",
+    "answer_en": "Provide solar pumps and separate power lines for farming in Karnataka.",
+    "answer_hi": "पंप के लिए बिजली की लागत अधिक है, इसलिए सोलर पंप और अलग विद्युत लाइनों की सुविधा दें।",
+    "answer_pa": "ਪੰਪਾਂ ਲਈ ਬਿਜਲੀ ਦੀ ਲਾਗਤ ਜ਼ਿਆਦਾ ਹੈ, ਇਸ ਲਈ ਸੋਲਰ ਪੰਪ ਅਤੇ ਖੇਤੀ ਲਈ ਵੱਖਰੀ ਬਿਜਲੀ ਲਾਈਨਾਂ ਪ੍ਰਦਾਨ ਕਰੋ।"
+  },
+  {
+    "question": "Coffee farmers facing pest and low price",
+    "answer_en": "Support from coffee board, promote exports, and crop diversification in Karnataka.",
+    "answer_hi": "कॉफी किसान कीटों और कम कीमत का सामना कर रहे हैं, इसलिए कॉफी बोर्ड से सहायता, निर्यात बढ़ावा और फसल विविधीकरण करें।",
+    "answer_pa": "ਕੌਫੀ ਕਿਸਾਨ ਕੀੜਿਆਂ ਅਤੇ ਘੱਟ ਕੀਮਤ ਦਾ ਸਾਹਮਣਾ ਕਰ ਰਹੇ ਹਨ, ਇਸ ਲਈ ਕੌਫੀ ਬੋਰਡ ਤੋਂ ਸਹਿਯੋਗ, ਐਕਸਪੋਰਟ ਪ੍ਰੋਮੋਟ ਕਰੋ ਅਤੇ ਫਸਲ ਵਿਭਿੰਨਤਾ ਕਰੋ।"
+  },
+  {
+    "question": "Milk price going up and down",
+    "answer_en": "Strengthen co-operatives, provide fodder subsidy, and ensure fair price system in Karnataka.",
+    "answer_hi": "दूध की कीमतें बढ़ती-घटती रहती हैं, इसलिए सहकारी समितियों को मजबूत करें, चारे पर सब्सिडी दें और उचित मूल्य प्रणाली सुनिश्चित करें।",
+    "answer_pa": "ਦੂਧ ਦੀਆਂ ਕੀਮਤਾਂ ਵਧਦੀਆਂ-ਘਟਦੀਆਂ ਹਨ, ਇਸ ਲਈ ਸਹਿਕਾਰੀ ਸਮਿਤੀਆਂ ਮਜ਼ਬੂਤ ਕਰੋ, ਚਾਰੇ 'ਤੇ ਸਬਸਿਡੀ ਦਿਓ ਅਤੇ ਨਿਆਇਕ ਕੀਮਤ ਪ੍ਰਣਾਲੀ ਯਕੀਨੀ ਬਣਾਓ।"
+  },
+  {
+    "question": "Arecanut, spices storage problem",
+    "answer_en": "Build spice parks, warehouses, and promote digital trade in Karnataka.",
+    "answer_hi": "सुपारी और मसालों के भंडारण में समस्या, इसलिए मसाला पार्क, गोदाम बनाएं और डिजिटल ट्रेड बढ़ावा दें।",
+    "answer_pa": "ਅਰੇਕਨਟ ਅਤੇ ਮਸਾਲਿਆਂ ਦੇ ਸਟੋਰੇਜ ਵਿੱਚ ਸਮੱਸਿਆ ਹੈ, ਇਸ ਲਈ ਮਸਾਲਾ ਪਾਰਕ, ਗੋਦਾਮ ਬਣਾਓ ਅਤੇ ਡਿਜ਼ੀਟਲ ਟਰੇਡ فروغ ਦਿਓ।"
+  },
+  {
+    "question": "Farmer loans leading to suicides",
+    "answer_en": "Provide insurance, easy loans, and debt assistance in Karnataka.",
+    "answer_hi": "किसान कर्ज से आत्महत्या करने की स्थिति में, बीमा, आसान ऋण और कर्ज सहायता प्रदान करें।",
+    "answer_pa": "ਕਿਸਾਨ ਕਰਜ਼ੇ ਕਾਰਨ ਆਤਮਹੱਤਿਆ ਦੀਆਂ ਘਟਨਾਵਾਂ, ਇਸ ਲਈ ਬੀਮਾ, ਆਸਾਨ ਕਰਜ਼ੇ ਅਤੇ ਕਰਜ਼ ਸਹਾਇਤਾ ਦਿਓ।"
+  },
+  {
+    "question": "Youth leaving villages, less farm labour",
+    "answer_en": "Promote mechanization, skill training, and agri-business in Karnataka.",
+    "answer_hi": "युवा गांव छोड़ रहे हैं और कृषि श्रम कम हो रहा है, इसलिए मशीनरी, कौशल प्रशिक्षण और कृषि व्यवसाय बढ़ावा दें।",
+    "answer_pa": "ਨੌਜਵਾਨ ਪਿੰਡ ਛੱਡ ਰਹੇ ਹਨ ਅਤੇ ਖੇਤੀ ਦਾ ਮਜ਼ਦੂਰੀ ਘੱਟ ਹੈ, ਇਸ ਲਈ ਮਸ਼ੀਨਰੀ, ਕੌਸ਼ਲ ਸਿਖਲਾਈ ਅਤੇ ਐਗਰੀ-ਬਿਜ਼ਨੈਸ فروغ ਦਿਓ।"
+  },
+  {
+    "question": "Floods and heavy rains damaging paddy, banana crops",
+    "answer_en": "Improve drainage, plant flood-resistant crops, and take crop insurance in Kerala.",
+    "answer_hi": "धान और केला की फसल पर बाढ़ और भारी बारिश का असर, इसलिए जल निकासी सुधारें, बाढ़-रोधी फसलें लगाएँ और फसल बीमा लें।",
+    "answer_pa": "ਧਾਨ ਅਤੇ ਕੇਲਾ ਦੀ ਫਸਲ 'ਤੇ ਬਾੜ ਅਤੇ ਭਾਰੀ ਬਾਰਿਸ਼ ਦਾ ਪ੍ਰਭਾਵ, ਇਸ ਲਈ ਡਰੇਨਜ ਸੁਧਾਰੋ, ਬਾੜ-ਰੋਧੀ ਫਸਲਾਂ ਲਗਾਓ ਅਤੇ ਫਸਲ ਬੀਮਾ ਲਵੋ।"
+  },
+  {
+    "question": "Coconut trees attacked by pests (red palm weevil, eriophyid mite)",
+    "answer_en": "Use biocontrol, pest traps, and train farmers in Kerala.",
+    "answer_hi": "नारियल के पेड़ कीटों से प्रभावित, इसलिए जैव नियंत्रण, कीट जाल और किसान प्रशिक्षण करें।",
+    "answer_pa": "ਨਾਰੀਅਲ ਦੇ ਦਰਖ਼ਤ ਕੀੜਿਆਂ ਨਾਲ ਪ੍ਰਭਾਵਿਤ, ਇਸ ਲਈ ਬਾਇਓ-ਕੰਟਰੋਲ, ਕੀੜੇ ਫੰਦੇ ਅਤੇ ਕਿਸਾਨਾਂ ਨੂੰ ਸਿਖਲਾਈ ਦਿਓ।"
+  },
+  {
+    "question": "Rubber price falling in market",
+    "answer_en": "Provide price support, promote rubber-based industries, and export help in Kerala.",
+    "answer_hi": "रबर की कीमत गिर रही है, इसलिए मूल्य समर्थन दें, रबर उद्योग बढ़ावा दें और निर्यात सहायता करें।",
+    "answer_pa": "ਰਬੜ ਦੀ ਕੀਮਤ ਬਜ਼ਾਰ ਵਿੱਚ ਘੱਟ ਰਹੀ ਹੈ, ਇਸ ਲਈ ਕੀਮਤ ਸਹਾਇਤਾ ਦਿਓ, ਰਬੜ-ਅਧਾਰਿਤ ਉਦਯੋਗ فروغ ਦਿਓ ਅਤੇ ਐਕਸਪੋਰਟ ਮਦਦ ਕਰੋ।"
+  },
+  {
+    "question": "Pepper and spices losing global market share",
+    "answer_en": "Improve spice quality, branding, and develop spice parks in Kerala.",
+    "answer_hi": "काली मिर्च और मसालों की वैश्विक बाजार हिस्सेदारी घट रही है, इसलिए गुणवत्ता सुधारें, ब्रांडिंग करें और मसाला पार्क बनाएं।",
+    "answer_pa": "ਕਾਲੀ ਮਿਰਚ ਅਤੇ ਮਸਾਲਿਆਂ ਦੀ ਵਿਸ਼ਵ ਬਜ਼ਾਰ ਹਿੱਸੇਦਾਰੀ ਘੱਟ ਰਹੀ ਹੈ, ਇਸ ਲਈ ਗੁਣਵੱਤਾ ਸੁਧਾਰੋ, ਬ੍ਰਾਂਡਿੰਗ ਕਰੋ ਅਤੇ ਮਸਾਲਾ ਪਾਰਕ ਵਿਕਸਿਤ ਕਰੋ।"
+  },
+  {
+    "question": "Shortage of farm labour due to Gulf migration",
+    "answer_en": "Promote farm mechanization, skill training, and farmer groups in Kerala.",
+    "answer_hi": "गल्फ़ में प्रवासन के कारण कृषि श्रमिकों की कमी, इसलिए मशीनरी, कौशल प्रशिक्षण और किसान समूह बढ़ावा दें।",
+    "answer_pa": "ਗਲਫ਼ ਵਿਚ ਮਾਈਗ੍ਰੇਸ਼ਨ ਕਾਰਨ ਖੇਤੀ ਮਜ਼ਦੂਰਾਂ ਦੀ ਘਾਟ, ਇਸ ਲਈ ਮਸ਼ੀਨਰੀ, ਕੌਸ਼ਲ ਸਿਖਲਾਈ ਅਤੇ ਕਿਸਾਨ ਗਰੁੱਪ فروغ ਦਿਓ।"
+  },
+  {
+    "question": "Paddy fields being converted into real estate",
+    "answer_en": "Protect farmland with strict laws and promote paddy farming incentives in Kerala.",
+    "answer_hi": "धान के खेत रियल एस्टेट में परिवर्तित हो रहे हैं, इसलिए खेतों की रक्षा के लिए कड़े कानून लागू करें और धान खेती को प्रोत्साहित करें।",
+    "answer_pa": "ਧਾਨ ਦੇ ਖੇਤ ਰੀਅਲ ਐਸਟੇਟ ਵਿੱਚ ਬਦਲੇ ਜਾ ਰਹੇ ਹਨ, ਇਸ ਲਈ ਖੇਤਾਂ ਦੀ ਰੱਖਿਆ ਲਈ ਕड़े ਕਾਨੂੰਨ ਲਗਾਓ ਅਤੇ ਧਾਨ ਖੇਤੀ ਨੂੰ فروغ ਦਿਓ।"
+  },
+  {
+    "question": "Dairy farmers facing high fodder cost",
+    "answer_en": "Provide fodder subsidy, promote silage and local fodder crops in Kerala.",
+    "answer_hi": "डेयरी किसानों को चारे की उच्च लागत का सामना, इसलिए चारा सब्सिडी दें और साइलज एवं स्थानीय फसलें बढ़ावा दें।",
+    "answer_pa": "ਡੇਅਰੀ ਕਿਸਾਨ ਚਾਰੇ ਦੀ ਉੱਚ ਲਾਗਤ ਦਾ ਸਾਹਮਣਾ ਕਰ ਰਹੇ ਹਨ, ਇਸ ਲਈ ਚਾਰੇ ਸਬਸਿਡੀ ਦਿਓ ਅਤੇ ਸਾਇਲਜ ਅਤੇ ਸਥਾਨਕ ਫਸਲਾਂ فروغ ਦਿਓ।"
+  },
+  {
+    "question": "High production cost in fisheries and aquaculture",
+    "answer_en": "Provide cheap feed, modern equipment, and cooperative marketing in Kerala.",
+    "answer_hi": "मछली और जलीय कृषि में उत्पादन लागत अधिक है, इसलिए सस्ता चारा, आधुनिक उपकरण और सहकारी विपणन दें।",
+    "answer_pa": "ਮੱਛੀ ਅਤੇ ਜਲ-ਕृषੀ ਵਿੱਚ ਉਤਪਾਦਨ ਲਾਗਤ ਵੱਧ ਹੈ, ਇਸ ਲਈ ਸਸਤਾ ਚਾਰਾ, ਆਧੁਨਿਕ ਉਪਕਰਣ ਅਤੇ ਸਹਿਕਾਰੀ ਮਾਰਕੀਟਿੰਗ ਦਿਓ।"
+  },
+  {
+    "question": "Cardamom farmers facing disease (Katte, root grub)",
+    "answer_en": "Provide resistant varieties and integrated disease management in Kerala.",
+    "answer_hi": "इलायची किसानों को रोग का सामना, इसलिए प्रतिरोधी किस्में और समेकित रोग प्रबंधन दें।",
+    "answer_pa": "ਇਲਾਇਚੀ ਕਿਸਾਨ ਬਿਮਾਰੀ ਦਾ ਸਾਹਮਣਾ ਕਰ ਰਹੇ ਹਨ, ਇਸ ਲਈ ਪ੍ਰਤੀਰੋਧਕ ਕਿਸਮਾਂ ਅਤੇ ਇੱਕੀਕ੍ਰਿਤ ਬਿਮਾਰੀ ਪ੍ਰਬੰਧਨ ਦਿਓ।"
+  },
+  {
+    "question": "Lack of storage and processing for fruits, vegetables",
+    "answer_en": "Build cold storage, fruit and vegetable processing units, and direct markets in Kerala.",
+    "answer_hi": "फल और सब्जियों के भंडारण और प्रसंस्करण की कमी, इसलिए ठंडा भंडारण, प्रसंस्करण इकाइयाँ और सीधे बाजार बनाएं।",
+    "answer_pa": "ਫਲਾਂ ਅਤੇ ਸਬਜ਼ੀਆਂ ਲਈ ਸਟੋਰੇਜ ਅਤੇ ਪ੍ਰੋਸੈਸਿੰਗ ਦੀ ਘਾਟ, ਇਸ ਲਈ ਕੋਲਡ ਸਟੋਰੇਜ, ਪ੍ਰੋਸੈਸਿੰਗ ਯੂਨਿਟ ਅਤੇ ਸਿੱਧੇ ਮਾਰਕੀਟ ਬਣਾਓ।"
+  },
+  {
+    "question": "Water shortage in Cauvery delta and dry districts",
+    "answer_en": "Use drip irrigation, rainwater harvesting, and watershed projects in Tamil Nadu.",
+    "answer_hi": "कावेरी डेल्टा और शुष्क जिलों में पानी की कमी, इसलिए ड्रिप सिंचाई, वर्षा जल संचयन और जलग्रहण परियोजनाएँ अपनाएँ।",
+    "answer_pa": "ਕਾਵੇਰੀ ਡੈਲਟਾ ਅਤੇ ਸੁੱਕੇ ਜ਼ਿਲ੍ਹਿਆਂ ਵਿੱਚ ਪਾਣੀ ਦੀ ਘਾਟ, ਇਸ ਲਈ ਡ੍ਰਿਪ ਸਿੰਚਾਈ, ਵਰ੍ਹਾ ਪਾਣੀ ਸੰਭਾਲਣ ਅਤੇ ਵਾਟਰਸ਼ੈੱਡ ਪ੍ਰੋਜੈਕਟ ਲਗਾਓ।"
+  },
+  {
+    "question": "Dispute over Cauvery river water sharing",
+    "answer_en": "Ensure fair sharing, promote less water-intensive crops, and build storage tanks in Tamil Nadu.",
+    "answer_hi": "कावेरी नदी के जल वितरण में विवाद, इसलिए न्यायसंगत वितरण सुनिश्चित करें, कम पानी वाली फसलें अपनाएँ और जलाशय बनाएं।",
+    "answer_pa": "ਕਾਵੇਰੀ ਨਦੀ ਦੇ ਪਾਣੀ ਦੇ ਵੰਡ ਬਾਰੇ ਵਿਵਾਦ, ਇਸ ਲਈ ਨਿਆਂਸੰਗਤ ਵੰਡ ਯਕੀਨੀ ਬਣਾਓ, ਘੱਟ ਪਾਣੀ ਵਾਲੀਆਂ ਫਸਲਾਂ ਨੂੰ فروغ ਦਿਓ ਅਤੇ ਸਟੋਰੇਜ ਟੈਂਕ ਬਣਾਓ।"
+  },
+  {
+    "question": "High electricity cost for irrigation pumps",
+    "answer_en": "Provide solar pumps, farm power subsidy, and separate agricultural feeder lines in Tamil Nadu.",
+    "answer_hi": "सिंचाई पंप के लिए बिजली की उच्च लागत, इसलिए सौर पंप, कृषि पावर सब्सिडी और अलग आपूर्ति लाइन दें।",
+    "answer_pa": "ਸਿੰਚਾਈ ਪੰਪ ਲਈ ਬਿਜਲੀ ਦੀ ਉੱਚ ਲਾਗਤ, ਇਸ ਲਈ ਸੌਰ ਪੰਪ, ਖੇਤੀ ਪਾਵਰ ਸਬਸਿਡੀ ਅਤੇ ਵੱਖ-ਵੱਖ ਅਗਰੀ ਫੀਡਰ ਲਾਈਨ ਦਿਓ।"
+  },
+  {
+    "question": "Pest attack in cotton, sugarcane, and paddy",
+    "answer_en": "Train farmers in IPM, provide biopesticides, and ensure timely spraying in Tamil Nadu.",
+    "answer_hi": "कपास, गन्ना और धान में कीटों का हमला, इसलिए किसान प्रशिक्षण, बायोपेस्टिसाइड और समय पर छिड़काव सुनिश्चित करें।",
+    "answer_pa": "ਕਪਾਹ, ਗੰਨਾ ਅਤੇ ਧਾਨ ਵਿੱਚ ਕੀੜੇ ਦੇ ਹਮਲੇ ਲਈ, ਕਿਸਾਨਾਂ ਨੂੰ IPM ਸਿਖਲਾਈ ਦਿਓ, ਬਾਇਓ-ਪੈਸਟਿਸਾਈਡ ਦਿਓ ਅਤੇ ਸਮੇਂ ਸਿਰ ਛਿੜਕਾਓ ਯਕੀਨੀ ਬਣਾਓ।"
+  },
+  {
+    "question": "Poor storage and market for banana, mango, tomato",
+    "answer_en": "Build cold storage, food processing units, and farmer markets in Tamil Nadu.",
+    "answer_hi": "केला, आम और टमाटर के लिए खराब भंडारण और बाजार, इसलिए कोल्ड स्टोरेज, प्रसंस्करण इकाइयाँ और किसान बाजार बनाएं।",
+    "answer_pa": "ਕੇਲਾ, ਆਮ ਅਤੇ ਟਮਾਟਰ ਲਈ ਖਰਾਬ ਸਟੋਰੇਜ ਅਤੇ ਮਾਰਕੀਟ, ਇਸ ਲਈ ਕੋਲਡ ਸਟੋਰੇਜ, ਫੂਡ ਪ੍ਰੋਸੈਸਿੰਗ ਯੂਨਿਟ ਅਤੇ ਕਿਸਾਨ ਮਾਰਕੀਟ ਬਣਾਓ।"
+  },
+  {
+    "question": "Decline in soil fertility due to heavy chemical use",
+    "answer_en": "Promote organic manure, green manuring, and use soil health cards in Tamil Nadu.",
+    "answer_hi": "भारी रासायनिक उपयोग के कारण मिट्टी की उर्वरता में गिरावट, इसलिए जैविक खाद, हरी खाद और मिट्टी स्वास्थ्य कार्ड अपनाएँ।",
+    "answer_pa": "ਭਾਰੀ ਰਸਾਇਣੀ ਵਰਤੋਂ ਕਾਰਨ ਮਿੱਟੀ ਦੀ ਉਰਵਰਤਾ ਵਿੱਚ ਘਟਾਓ, ਇਸ ਲਈ ਆਰਗੈਨਿਕ ਖਾਦ, ਗਰੀਨ ਮੈਨਰਿੰਗ ਅਤੇ ਸੌਇਲ ਹੈਲਥ ਕਾਰਡ ਵਰਤੋਂ।"
+  },
+  {
+    "question": "Price crash for onion, turmeric, and banana",
+    "answer_en": "Provide MSP-like support, promote value addition and exports in Tamil Nadu.",
+    "answer_hi": "प्याज, हल्दी और केला की कीमत गिरावट, इसलिए MSP जैसे समर्थन, मूल्य संवर्धन और निर्यात बढ़ावा दें।",
+    "answer_pa": "ਪਿਆਜ਼, ਹਲਦੀ ਅਤੇ ਕੇਲਾ ਦੀ ਕੀਮਤ ਘਟਣ ਕਾਰਨ, MSP ਵਰਗਾ ਸਹਾਇਤਾ ਦਿਓ, ਮੁੱਲ ਵਧਾਓ ਅਤੇ ਐਕਸਪੋਰਟ فروغ ਦਿਓ।"
+  },
+  {
+    "question": "Fishermen facing conflict with other countries and high diesel cost",
+    "answer_en": "Provide subsidy on diesel, modern boats, and better coastal security in Tamil Nadu.",
+    "answer_hi": "मछुआरे अन्य देशों के साथ विवाद और डीजल लागत बढ़ने का सामना कर रहे हैं, इसलिए डीजल पर सब्सिडी, आधुनिक नावें और बेहतर तटीय सुरक्षा दें।",
+    "answer_pa": "ਮੱਛੀ ਮਾਰੂ ਹੋਰ ਦੇਸ਼ਾਂ ਨਾਲ ਵਿਵਾਦ ਅਤੇ ਡੀਜ਼ਲ ਦੀ ਉੱਚ ਲਾਗਤ ਦਾ ਸਾਹਮਣਾ ਕਰ ਰਹੇ ਹਨ, ਇਸ ਲਈ ਡੀਜ਼ਲ 'ਤੇ ਸਬਸਿਡੀ, ਆਧੁਨਿਕ ਨਾਵਾਂ ਅਤੇ ਬਿਹਤਰ ਤਟਸਥ ਸੁਰੱਖਿਆ ਦਿਓ।"
+  },
+  {
+    "question": "Farmer debts leading to suicides in some regions",
+    "answer_en": "Give loan waiver, crop insurance, and interest-free loans in Tamil Nadu.",
+    "answer_hi": "किसानों के कर्ज़ के कारण आत्महत्या, इसलिए ऋण माफ़ी, फसल बीमा और ब्याज-मुक्त ऋण दें।",
+    "answer_pa": "ਕਿਸਾਨਾਂ ਦੇ ਕਰਜ਼ੇ ਕਾਰਨ ਕੁਝ ਖੇਤਰਾਂ ਵਿੱਚ ਆਤਮਹੱਤਿਆ, ਇਸ ਲਈ ਕਰਜ਼ਾ ਮੁਆਫੀ, ਫਸਲ ਬੀਮਾ ਅਤੇ ਬਿਆਜ-ਮੁਕਤ ਕਰਜ਼ੇ ਦਿਓ।"
+  },
+  {
+    "question": "Youth moving away from farming to cities",
+    "answer_en": "Encourage agri startups, mechanization, and skill training in Tamil Nadu.",
+    "answer_hi": "युवा खेती छोड़कर शहरों में जा रहे हैं, इसलिए कृषि स्टार्टअप, मशीनरी और कौशल प्रशिक्षण को बढ़ावा दें।",
+    "answer_pa": "ਜਵਾਨ ਖੇਤੀ ਛੱਡ ਕੇ ਸ਼ਹਿਰਾਂ ਵੱਲ ਜਾ ਰਹੇ ਹਨ, ਇਸ ਲਈ ਅਗਰੀ ਸਟਾਰਟਅੱਪ, ਮਸ਼ੀਨਰੀ ਅਤੇ ਕੌਸ਼ਲ ਸਿਖਲਾਈ ਨੂੰ فروغ ਦਿਓ।"
+  },
+  {
+    "question": "Soybean crops often damaged by pests and diseases",
+    "answer_en": "Promote resistant varieties, IPM methods, and timely sprays in Madhya Pradesh.",
+    "answer_hi": "सोयाबीन फसल अक्सर कीट और रोगों से प्रभावित होती है, इसलिए प्रतिरोधी किस्में, IPM तरीके और समय पर छिड़काव अपनाएँ।",
+    "answer_pa": "ਸੋਯਾਬੀਨ ਫਸਲ ਅਕਸਰ ਕੀੜੇ ਅਤੇ ਬਿਮਾਰੀਆਂ ਨਾਲ ਨੁਕਸਾਨ ਹੁੰਦੀ ਹੈ, ਇਸ ਲਈ ਰੋਧਕ ਕਿਸਮਾਂ, IPM ਤਰੀਕੇ ਅਤੇ ਸਮੇਂ ਸਿਰ ਛਿੜਕਾਓ ਲਗਾਓ।"
+  },
+  {
+    "question": "Wheat and gram face price crash after harvest",
+    "answer_en": "Provide MSP support, storage silos, and direct farmer markets in Madhya Pradesh.",
+    "answer_hi": "गेहूँ और चना की फसल कटाई के बाद मूल्य गिरावट, इसलिए MSP समर्थन, भंडारण साइलो और सीधे किसान बाजार उपलब्ध कराएँ।",
+    "answer_pa": "ਗੇਹੂੰ ਅਤੇ ਚਨਾ ਫਸਲ ਕੱਟਾਈ ਤੋਂ ਬਾਅਦ ਕੀਮਤ ਘਟਣ, ਇਸ ਲਈ MSP ਸਹਾਇਤਾ, ਸਟੋਰੇਜ ਸਾਈਲੋ ਅਤੇ ਸਿੱਧੇ ਕਿਸਾਨ ਮਾਰਕੀਟ ਦਿਓ।"
+  },
+  {
+    "question": "Poor irrigation in Bundelkhand and tribal regions",
+    "answer_en": "Build canals, check dams, and promote micro-irrigation in Madhya Pradesh.",
+    "answer_hi": "बुंदेलखंड और आदिवासी क्षेत्रों में सिंचाई कमज़ोर, इसलिए नहरें, चेक डैम और माइक्रो-इरीगेशन बनाएँ।",
+    "answer_pa": "ਬੁੰਦਲਖੰਡ ਅਤੇ ਆਦਿਵਾਸੀ ਖੇਤਰਾਂ ਵਿੱਚ ਸਿੰਚਾਈ ਘੱਟ, ਇਸ ਲਈ ਨਹਿਰਾਂ, ਚੈਕ ਡੈਮ ਅਤੇ ਮਾਈਕ੍ਰੋ ਸਿੰਚਾਈ ਲਗਾਓ।"
+  },
+  {
+    "question": "Farmers depending too much on monsoon rains",
+    "answer_en": "Encourage watershed projects, rainwater harvesting, and drought-tolerant crops in Madhya Pradesh.",
+    "answer_hi": "किसान अधिकतर मानसून पर निर्भर, इसलिए वॉटरशेड प्रोजेक्ट, वर्षा जल संचयन और सूखा-प्रतिरोधी फसल अपनाएँ।",
+    "answer_pa": "ਕਿਸਾਨ ਬਹੁਤ ਜ਼ਿਆਦਾ ਮੌਂਸੂਨ ਤੇ ਨਿਰਭਰ, ਇਸ ਲਈ ਵਾਟਰਸ਼ੈੱਡ ਪ੍ਰੋਜੈਕਟ, ਵਰ੍ਹਾ ਪਾਣੀ ਸੰਭਾਲਣ ਅਤੇ ਸੁੱਕਾ-ਰੋਧਕ ਫਸਲਾਂ ਲਗਾਓ।"
+  },
+  {
+    "question": "Lack of cold storage for perishable crops (tomato, potato, onion)",
+    "answer_en": "Build cold storage, food processing centers, and digital trading platforms in Madhya Pradesh.",
+    "answer_hi": "नमनीय फसलों (टमाटर, आलू, प्याज) के लिए कोल्ड स्टोरेज की कमी, इसलिए कोल्ड स्टोरेज, प्रसंस्करण केंद्र और डिजिटल ट्रेडिंग प्लेटफॉर्म बनाएं।",
+    "answer_pa": "ਨਮਣੀਯ ਫਸਲਾਂ (ਟਮਾਟਰ, ਆਲੂ, ਪਿਆਜ਼) ਲਈ ਕੋਲਡ ਸਟੋਰੇਜ ਦੀ ਘਾਟ, ਇਸ ਲਈ ਕੋਲਡ ਸਟੋਰੇਜ, ਫੂਡ ਪ੍ਰੋਸੈਸਿੰਗ ਸੈਂਟਰ ਅਤੇ ਡਿਜੀਟਲ ਟਰੇਡਿੰਗ ਬਣਾਓ।"
+  },
+  {
+    "question": "Soybean oil import affecting local farmers’ income",
+    "answer_en": "Impose fair trade policies and promote value-added soybean products in Madhya Pradesh.",
+    "answer_hi": "सोयाबीन तेल आयात से स्थानीय किसानों की आय प्रभावित, इसलिए निष्पक्ष व्यापार नीति लागू करें और मूल्य संवर्धित सोयाबीन उत्पाद बढ़ावा दें।",
+    "answer_pa": "ਸੋਯਾਬੀਨ ਤੇਲ ਆਯਾਤ ਨਾਲ ਸਥਾਨਕ ਕਿਸਾਨਾਂ ਦੀ ਆਮਦਨ ਪ੍ਰਭਾਵਿਤ, ਇਸ ਲਈ ਨਿਆਂਸੰਗਤ ਵਪਾਰ ਨੀਤੀ ਲਾਗੂ ਕਰੋ ਅਤੇ ਮੁੱਲ ਵਧੇਰੇ ਸੋਯਾਬੀਨ ਉਤਪਾਦ فروغ ਦਿਓ।"
+  },
+  {
+    "question": "Rising cost of seeds and fertilizers",
+    "answer_en": "Provide subsidy seeds, promote organic alternatives, and use soil health cards in Madhya Pradesh.",
+    "answer_hi": "बीज और उर्वरक की बढ़ती लागत, इसलिए सब्सिडी वाले बीज, जैविक विकल्प और मिट्टी स्वास्थ्य कार्ड अपनाएँ।",
+    "answer_pa": "ਬੀਜ ਅਤੇ ਖਾਦ ਦੀ ਵੱਧਦੀ ਲਾਗਤ, ਇਸ ਲਈ ਸਬਸਿਡੀ ਵਾਲੇ ਬੀਜ, ਆਰਗੈਨਿਕ ਵਿਕਲਪ ਅਤੇ ਸੌਇਲ ਹੈਲਥ ਕਾਰਡ ਵਰਤੋਂ।"
+  },
+  {
+    "question": "Wildlife (blue bulls/neelgai) damaging crops",
+    "answer_en": "Use solar fencing, community crop protection, and government compensation in Madhya Pradesh.",
+    "answer_hi": "जंगली जीव (नीलगाय) फसल को नुकसान, इसलिए सौर बाड़, सामुदायिक फसल संरक्षण और सरकारी मुआवजा दें।",
+    "answer_pa": "ਜੰਗਲੀ ਜੀਵ (ਨੀਲਗਾਈ) ਫਸਲ ਨੂੰ ਨੁਕਸਾਨ, ਇਸ ਲਈ ਸੌਰ ਫੈਨਸਿੰਗ, ਕਮਿਊਨਿਟੀ ਫਸਲ ਸੁਰੱਖਿਆ ਅਤੇ ਸਰਕਾਰੀ ਮੁਆਵਜ਼ਾ ਦਿਓ।"
+  },
+  {
+    "question": "Farmer debts leading to distress in tribal areas",
+    "answer_en": "Provide insurance, easy credit, and awareness programs in Madhya Pradesh.",
+    "answer_hi": "आदिवासी क्षेत्रों में किसानों के कर्ज़ से संकट, इसलिए बीमा, आसान ऋण और जागरूकता कार्यक्रम दें।",
+    "answer_pa": "ਆਦਿਵਾਸੀ ਖੇਤਰਾਂ ਵਿੱਚ ਕਿਸਾਨਾਂ ਦੇ ਕਰਜ਼ੇ ਕਾਰਨ ਸੰਕਟ, ਇਸ ਲਈ ਬੀਮਾ, ਆਸਾਨ ਕਰਜ਼ਾ ਅਤੇ ਜਾਗਰੂਕਤਾ ਪ੍ਰੋਗਰਾਮ ਦਿਓ।"
+  },
+  {
+    "question": "Youth migrating from villages to cities for jobs",
+    "answer_en": "Promote agro-based industries, skill training, and farm mechanization in Madhya Pradesh.",
+    "answer_hi": "युवा रोजगार के लिए गांव से शहर जा रहे हैं, इसलिए कृषि आधारित उद्योग, कौशल प्रशिक्षण और मशीनरी बढ़ावा दें।",
+    "answer_pa": "ਜਵਾਨ ਨੌਕਰੀ ਲਈ ਪਿੰਡਾਂ ਤੋਂ ਸ਼ਹਿਰਾਂ ਵੱਲ ਜਾ ਰਹੇ ਹਨ, ਇਸ ਲਈ ਅਗਰੀ-ਅਧਾਰਤ ਉਦਯੋਗ, ਕੌਸ਼ਲ ਸਿਖਲਾਈ ਅਤੇ ਖੇਤੀ ਮਸ਼ੀਨਰੀ فروغ ਦਿਓ।"
+  },
+  {
+    "question": "Frequent droughts affecting bajra, wheat, and mustard",
+    "answer_en": "Promote drought-tolerant crops, drip irrigation, and rainwater harvesting in Rajasthan.",
+    "answer_hi": "बार-बार सूखा बाजरा, गेहूँ और सरसों को प्रभावित करता है, इसलिए सूखा-प्रतिरोधी फसल, ड्रिप सिंचाई और वर्षा जल संचयन अपनाएँ।",
+    "answer_pa": "ਵਾਰੰ-ਵਾਰ ਸੁੱਕਾ ਬਾਜਰਾ, ਗੇਹੂੰ ਅਤੇ ਸਰੋਂ ਨੂੰ ਪ੍ਰਭਾਵਿਤ ਕਰਦਾ ਹੈ, ਇਸ ਲਈ ਸੁੱਕਾ-ਰੋਧਕ ਫਸਲਾਂ, ਡ੍ਰਿਪ ਸਿੰਚਾਈ ਅਤੇ ਵਰ੍ਹਾ ਪਾਣੀ ਸੰਭਾਲੋ।"
+  },
+  {
+    "question": "Scarcity of drinking and irrigation water in desert regions",
+    "answer_en": "Build check dams, tanks, canal projects, and promote water conservation in Rajasthan.",
+    "answer_hi": "मरुस्थलीय क्षेत्रों में पीने और सिंचाई के पानी की कमी, इसलिए चेक डैम, तालाब, नहर परियोजनाएँ और जल संरक्षण अपनाएँ।",
+    "answer_pa": "ਰੇਗਿਸਤਾਨੀ ਖੇਤਰਾਂ ਵਿੱਚ ਪੀਣ ਅਤੇ ਸਿੰਚਾਈ ਪਾਣੀ ਦੀ ਘਾਟ, ਇਸ ਲਈ ਚੈਕ ਡੈਮ, ਟੈਂਕ, ਨਹਿਰ ਪਰੋਜੈਕਟ ਅਤੇ ਪਾਣੀ ਬਚਾਓ।"
+  },
+  {
+    "question": "Locust attacks damaging crops in western districts",
+    "answer_en": "Use early warning systems, timely spraying, and community pest control in Rajasthan.",
+    "answer_hi": "पश्चिमी जिलों में टिड्डियों के हमले से फसल नष्ट होती है, इसलिए प्रारंभिक चेतावनी, समय पर छिड़काव और सामुदायिक कीट नियंत्रण अपनाएँ।",
+    "answer_pa": "ਪੱਛਮੀ ਜ਼ਿਲ੍ਹਿਆਂ ਵਿੱਚ ਟਿੱਡੀਆਂ ਦੇ ਹਮਲੇ ਨਾਲ ਫਸਲ ਨੁਕਸਾਨ, ਇਸ ਲਈ ਸ਼ੁਰੂਆਤੀ ਚੇਤਾਵਨੀ, ਸਮੇਂ ਸਿਰ ਛਿੜਕਾਓ ਅਤੇ ਕਮਿਊਨਿਟੀ ਕੀਟ ਨਿਯੰਤਰਣ ਕਰੋ।"
+  },
+  {
+    "question": "Soil salinity and desertification reducing fertility",
+    "answer_en": "Promote organic manure, afforestation, and soil treatment in Rajasthan.",
+    "answer_hi": "मिट्टी में क्षारीयता और मरुस्थलीकरण से उर्वरता घटती है, इसलिए जैविक खाद, वनीकरण और मिट्टी उपचार अपनाएँ।",
+    "answer_pa": "ਮਿੱਟੀ ਵਿੱਚ ਖਾਰਾਪਣ ਅਤੇ ਰੇਗਿਸਤਾਨੀਕਰਨ ਨਾਲ ਉਰਵਰਤਾ ਘੱਟ, ਇਸ ਲਈ ਆਰਗੈਨਿਕ ਖਾਦ, ਵਨੀਕਰਨ ਅਤੇ ਮਿੱਟੀ ਇਲਾਜ ਕਰੋ।"
+  },
+  {
+    "question": "Price crash in cumin, coriander, and guar crops",
+    "answer_en": "Provide MSP support, promote exports, and set up processing units in Rajasthan.",
+    "answer_hi": "जीरा, धनिया और ग्वार की फसल में मूल्य गिरावट, इसलिए MSP समर्थन, निर्यात बढ़ावा और प्रसंस्करण इकाइयाँ बनाएं।",
+    "answer_pa": "ਜੀਰਾ, ਧਨੀਆ ਅਤੇ ਗਵਾਰ ਫਸਲਾਂ ਵਿੱਚ ਕੀਮਤ ਘਟਣ, ਇਸ ਲਈ MSP ਸਹਾਇਤਾ, ਨਿਰਯਾਤ ਵਧਾਓ ਅਤੇ ਪ੍ਰੋਸੈਸਿੰਗ ਯੂਨਿਟ ਬਣਾਓ।"
+  },
+  {
+    "question": "High cost of irrigation due to diesel pumps",
+    "answer_en": "Promote solar pumps, drip irrigation systems, and subsidy schemes in Rajasthan.",
+    "answer_hi": "डीजल पंपों के कारण सिंचाई की उच्च लागत, इसलिए सोलर पंप, ड्रिप सिस्टम और सब्सिडी योजना अपनाएँ।",
+    "answer_pa": "ਡੀਜ਼ਲ ਪੰਪਾਂ ਕਾਰਨ ਸਿੰਚਾਈ ਦੀ ਵੱਧ ਲਾਗਤ, ਇਸ ਲਈ ਸੌਲਰ ਪੰਪ, ਡ੍ਰਿਪ ਸਿਸਟਮ ਅਤੇ ਸਬਸਿਡੀ ਯੋਜਨਾ ਲਗਾਓ।"
+  },
+  {
+    "question": "Camel and livestock keepers facing fodder shortage",
+    "answer_en": "Develop fodder banks and grow drought-resistant fodder crops in Rajasthan.",
+    "answer_hi": "ऊँट और पशुपालक को चारे की कमी, इसलिए फोडर बैंक विकसित करें और सूखा-प्रतिरोधी चारा उगाएँ।",
+    "answer_pa": "ਉਠ ਅਤੇ ਪਸ਼ੂਪਾਲਕ ਚਾਰੇ ਦੀ ਘਾਟ ਦਾ ਸਾਹਮਣਾ ਕਰਦੇ ਹਨ, ਇਸ ਲਈ ਫੋਡਰ ਬੈਂਕ ਬਣਾਓ ਅਤੇ ਸੁੱਕਾ-ਰੋਧਕ ਚਾਰਾ ਲਗਾਓ।"
+  },
+  {
+    "question": "Farmers in tribal belts lack market access",
+    "answer_en": "Improve roads, mandis, and digital platforms for selling produce in Rajasthan.",
+    "answer_hi": "आदिवासी क्षेत्रों के किसानों को बाजार तक पहुँच नहीं, इसलिए सड़क, मंडी और डिजिटल प्लेटफार्म सुधारें।",
+    "answer_pa": "ਆਦਿਵਾਸੀ ਖੇਤਰਾਂ ਦੇ ਕਿਸਾਨਾਂ ਨੂੰ ਮਾਰਕੀਟ ਤੱਕ ਪਹੁੰਚ ਨਹੀਂ, ਇਸ ਲਈ ਸੜਕਾਂ, ਮੰਡੀ ਅਤੇ ਡਿਜੀਟਲ ਪਲੇਟਫਾਰਮ ਸੁਧਾਰੋ।"
+  },
+  {
+    "question": "Debt burden in drought-hit areas leading to distress",
+    "answer_en": "Provide loan waivers, crop insurance, and easy credit in Rajasthan.",
+    "answer_hi": "सूखा प्रभावित क्षेत्रों में ऋण का बोझ संकट पैदा करता है, इसलिए ऋण माफी, फसल बीमा और आसान ऋण दें।",
+    "answer_pa": "ਸੁੱਕੇ ਪ੍ਰਭਾਵਿਤ ਖੇਤਰਾਂ ਵਿੱਚ ਕਰਜ਼ਾ ਬੋਝ ਸੰਕਟ ਪੈਦਾ ਕਰਦਾ ਹੈ, ਇਸ ਲਈ ਕਰਜ਼ਾ ਛੋਟ, ਫਸਲ ਬੀਮਾ ਅਤੇ ਆਸਾਨ ਕਰਜ਼ਾ ਦਿਓ।"
+  },
+  {
+    "question": "Youth migration to cities due to poor farm income",
+    "answer_en": "Encourage agro-industries, skill training, and rural employment in Rajasthan.",
+    "answer_hi": "कृषि आय कम होने के कारण युवा शहरों में पलायन करते हैं, इसलिए कृषि उद्योग, कौशल प्रशिक्षण और ग्रामीण रोजगार बढ़ावा दें।",
+    "answer_pa": "ਕਿਸਾਨ ਆਮਦਨੀ ਘੱਟ ਹੋਣ ਕਾਰਨ ਨੌਜਵਾਨ ਸ਼ਹਿਰਾਂ ਵੱਲ ਜਾ ਰਹੇ ਹਨ, ਇਸ ਲਈ ਅਗਰੀ ਉਦਯੋਗ, ਕੌਸ਼ਲ ਸਿਖਲਾਈ ਅਤੇ ਪਿੰਡਾਂ ਵਿੱਚ ਰੋਜ਼ਗਾਰ فروغ ਦਿਓ।"
+  },
+  {
+    "question": "Limited cultivable land due to hilly terrain",
+    "answer_en": "Promote terrace farming, soil conservation methods, and crop diversification in Sikkim.",
+    "answer_hi": "पहाड़ी इलाके के कारण सीमित खेती योग्य भूमि, इसलिए छत वाली खेती, मिट्टी संरक्षण और फसल विविधीकरण अपनाएँ।",
+    "answer_pa": "ਪਹਾੜੀ ਖੇਤਰਾਂ ਕਾਰਨ ਸੀਮਿਤ ਖੇਤੀ ਯੋਗ ਜ਼ਮੀਨ, ਇਸ ਲਈ ਛੱਤ ਵਾਲੀ ਖੇਤੀ, ਮਿੱਟੀ ਸੰਰੱਖਣ ਅਤੇ ਫਸਲ ਵਿਵਿਧਤਾ ਲਗਾਓ।"
+  },
+  {
+    "question": "Water scarcity during dry season",
+    "answer_en": "Adopt rainwater harvesting, drip irrigation, and watershed management in Sikkim.",
+    "answer_hi": "सूखी अवधि में पानी की कमी, इसलिए वर्षा जल संचयन, ड्रिप सिंचाई और जल संसाधन प्रबंधन अपनाएँ।",
+    "answer_pa": "ਸੁੱਕੇ ਸਮੇਂ ਦੌਰਾਨ ਪਾਣੀ ਦੀ ਘਾਟ, ਇਸ ਲਈ ਵਰ੍ਹਾ ਪਾਣੀ ਸੰਗ੍ਰਹਿ, ਡ੍ਰਿਪ ਸਿੰਚਾਈ ਅਤੇ ਵਾਟਰਸ਼ੈਡ ਪ੍ਰਬੰਧਨ ਲਗਾਓ।"
+  },
+  {
+    "question": "Pest and disease infestation in cardamom and ginger",
+    "answer_en": "Use disease-resistant varieties, IPM practices, and timely spraying of biopesticides in Sikkim.",
+    "answer_hi": "इलायची और अदरक में कीट और रोग संक्रमण, इसलिए रोग-प्रतिरोधी किस्में, IPM और समय पर बायोपेस्टिसाइड छिड़काव अपनाएँ।",
+    "answer_pa": "ਇਲਾਇਚੀ ਅਤੇ ਅਦਰਕ ਵਿੱਚ ਕੀੜੇ ਅਤੇ ਬਿਮਾਰੀ, ਇਸ ਲਈ ਬਿਮਾਰੀ-ਰੋਧੀ ਕਿਸਮਾਂ, IPM ਅਤੇ ਸਮੇਂ ਸਿਰ ਬਾਇਓਪੈਸਟਿਸਾਈਡ ਛਿੜਕਾਓ।"
+  },
+  {
+    "question": "High transportation cost due to remote location",
+    "answer_en": "Develop better road connectivity, subsidies for transportation, and cooperative marketing in Sikkim.",
+    "answer_hi": "दूरस्थ स्थान के कारण उच्च परिवहन लागत, इसलिए बेहतर सड़क संपर्क, परिवहन सब्सिडी और सहकारी विपणन अपनाएँ।",
+    "answer_pa": "ਦੂਰਸਥ ਸਥਾਨ ਕਾਰਨ ਉੱਚ ਆਵਾਜਾਈ ਲਾਗਤ, ਇਸ ਲਈ ਚੰਗੀ ਸੜਕ ਕਨੈਕਟੀਵਟੀ, ਆਵਾਜਾਈ ਲਈ ਸਬਸਿਡੀ ਅਤੇ ਸਹਿਕਾਰੀ ਮਾਰਕੀਟਿੰਗ ਬਣਾਓ।"
+  },
+  {
+    "question": "Lack of modern farming technologies and mechanization",
+    "answer_en": "Introduce small-scale farm machinery, government support schemes, and training programs in Sikkim.",
+    "answer_hi": "आधुनिक खेती तकनीक और यंत्रीकरण की कमी, इसलिए छोटे पैमाने की कृषि मशीनरी, सरकारी योजनाएँ और प्रशिक्षण कार्यक्रम अपनाएँ।",
+    "answer_pa": "ਆਧੁਨਿਕ ਖੇਤੀ ਤਕਨਾਲੋਜੀ ਅਤੇ ਮਸ਼ੀਨੀਕਰਨ ਦੀ ਘਾਟ, ਇਸ ਲਈ ਛੋਟੀ ਪੈਮਾਨੇ ਦੀ ਖੇਤੀ ਮਸ਼ੀਨਰੀ, ਸਰਕਾਰੀ ਯੋਜਨਾਵਾਂ ਅਤੇ ਟ੍ਰੇਨਿੰਗ ਪ੍ਰੋਗਰਾਮ ਲਗਾਓ।"
+  },
+  {
+    "question": "Declining productivity of large cardamom due to viral diseases",
+    "answer_en": "Promote disease-free planting material, research support, and training programs in Sikkim.",
+    "answer_hi": "वायरल रोगों के कारण बड़ी इलायची की उत्पादकता घट रही है, इसलिए रोग-मुक्त पौधे, अनुसंधान सहायता और प्रशिक्षण कार्यक्रम अपनाएँ।",
+    "answer_pa": "ਵਾਇਰਲ ਬਿਮਾਰੀਆਂ ਕਾਰਨ ਵੱਡੀ ਇਲਾਇਚੀ ਦੀ ਉਤਪਾਦਕਤਾ ਘੱਟ, ਇਸ ਲਈ ਬਿਮਾਰੀ-ਮੁਕਤ ਬੂਟੇ, ਅਨੁਸੰਧਾਨ ਸਹਾਇਤਾ ਅਤੇ ਟ੍ਰੇਨਿੰਗ ਪ੍ਰੋਗਰਾਮ ਲਗਾਓ।"
+  },
+  {
+    "question": "Limited access to cold storage and food processing units",
+    "answer_en": "Set up cold storage facilities, promote food processing units, and value addition in Sikkim.",
+    "answer_hi": "ठंडे भंडारण और खाद्य प्रसंस्करण इकाइयों की सीमित पहुँच, इसलिए कोल्ड स्टोरेज स्थापित करें, प्रसंस्करण इकाइयाँ बढ़ावा दें और मूल्य संवर्धन अपनाएँ।",
+    "answer_pa": "ਕੋਲਡ ਸਟੋਰੇਜ ਅਤੇ ਫੂਡ ਪ੍ਰੋਸੈਸਿੰਗ ਯੂਨਿਟ ਤੱਕ ਸੀਮਤ ਪਹੁੰਚ, ਇਸ ਲਈ ਕੋਲਡ ਸਟੋਰੇਜ ਬਣਾਓ, ਪ੍ਰੋਸੈਸਿੰਗ ਯੂਨਿਟ ਨੂੰ ਵਧਾਓ ਅਤੇ ਮੁੱਲ ਸੰਵਰਧਨ ਕਰੋ।"
+  },
+  {
+    "question": "Soil erosion and fertility loss in hilly regions",
+    "answer_en": "Adopt contour farming, organic manure, and soil conservation practices in Sikkim.",
+    "answer_hi": "पहाड़ी क्षेत्रों में मिट्टी का कटाव और उर्वरता ह्रास, इसलिए कंटूर खेती, जैविक खाद और मिट्टी संरक्षण अपनाएँ।",
+    "answer_pa": "ਪਹਾੜੀ ਖੇਤਰਾਂ ਵਿੱਚ ਮਿੱਟੀ ਕਟਾਅ ਅਤੇ ਉਰਵਰਤਾ ਘਾਟ, ਇਸ ਲਈ ਕੰਟੂਰ ਖੇਤੀ, ਆਰਗੈਨਿਕ ਖਾਦ ਅਤੇ ਮਿੱਟੀ ਸੰਰੱਖਣ ਅਮਲ ਕਰੋ।"
+  },
+  {
+    "question": "Wild animal attacks (monkeys, wild boars) on crops",
+    "answer_en": "Implement fencing, use of bio-repellents, and community-driven protection measures in Sikkim.",
+    "answer_hi": "कीट और जंगली जानवरों (बंदर, जंगली सुअर) द्वारा फसलों पर हमला, इसलिए बाड़ लगाएँ, बायो-रिपेलेंट्स का उपयोग करें और सामुदायिक सुरक्षा अपनाएँ।",
+    "answer_pa": "ਜੰਗਲੀ ਜਾਨਵਰਾਂ (ਬੰਦਰ, ਜੰਗਲੀ ਸੂਰ) ਦੇ ਫਸਲਾਂ 'ਤੇ ਹਮਲੇ, ਇਸ ਲਈ ਬਾੜ ਲਗਾਓ, ਬਾਇਓ-ਰਿਪੈਲੇਂਟ ਵਰਤੋ ਅਤੇ ਕਮਿਊਨਿਟੀ ਸੁਰੱਖਿਆ ਅਮਲ ਕਰੋ।"
+  },
+  {
+    "question": "Market access issues due to lack of organized mandis",
+    "answer_en": "Develop regulated markets, cooperative societies, and integrate with e-NAM in Sikkim.",
+    "answer_hi": "संगठित मंडियों की कमी के कारण बाजार तक पहुँच की समस्याएँ, इसलिए नियंत्रित बाजार, सहकारी समितियाँ और ई-नैम एकीकरण अपनाएँ।",
+    "answer_pa": "ਸੰਗਠਿਤ ਮੰਡੀਆਂ ਦੀ ਘਾਟ ਕਾਰਨ ਮਾਰਕੀਟ ਤੱਕ ਪਹੁੰਚ ਮੁਸ਼ਕਿਲ, ਇਸ ਲਈ ਨਿਯੰਤਰਿਤ ਮਾਰਕੀਟ, ਸਹਿਕਾਰੀ ਸੰਗਠਨ ਅਤੇ e-NAM ਨਾਲ ਇੰਟੀਗ੍ਰੇਟ ਕਰੋ।"
+  },
+  {
+    "question": "Erratic rainfall and frequent droughts",
+    "answer_en": "Promote drought-resistant crops, water conservation, and crop insurance in Telangana.",
+    "answer_hi": "असमान वर्षा और बार-बार सूखा, इसलिए सूखा-प्रतिरोधी फसलें, जल संरक्षण और फसल बीमा अपनाएँ।",
+    "answer_pa": "ਅਸਮਾਨ ਵਰ੍ਹਾ ਅਤੇ ਬਾਰ-ਬਾਰ ਸੁੱਕਾ, ਇਸ ਲਈ ਸੁੱਕਾ-ਰੋਧੀ ਫਸਲਾਂ, ਪਾਣੀ ਦੀ ਬਚਤ ਅਤੇ ਫਸਲ ਬੀਮਾ ਲਗਾਓ।"
+  },
+  {
+    "question": "Groundwater depletion due to over-extraction",
+    "answer_en": "Encourage groundwater recharge, micro-irrigation, and rainwater harvesting in Telangana.",
+    "answer_hi": "अत्यधिक निकासी के कारण भूमिगत जल का क्षरण, इसलिए जलभराव, सूक्ष्म सिंचाई और वर्षा जल संचयन अपनाएँ।",
+    "answer_pa": "ਵੱਧ ਨਿਕਾਸ ਕਾਰਨ ਭੂਗਰਭ ਪਾਣੀ ਘਟਣਾ, ਇਸ ਲਈ ਭੂਗਰਭ ਪਾਣੀ ਰੀਚਾਰਜ, ਮਾਈਕ੍ਰੋ-ਸਿੰਚਾਈ ਅਤੇ ਵਰ੍ਹਾ ਪਾਣੀ ਸੰਗ੍ਰਹਿ ਲਗਾਓ।"
+  },
+  {
+    "question": "Pest infestation in cotton (pink bollworm)",
+    "answer_en": "Adopt IPM, resistant seed varieties, and timely spraying in Telangana.",
+    "answer_hi": "कपास में कीट संक्रमण (पिंक बॉलवार्म), इसलिए IPM, प्रतिरोधी बीज और समय पर छिड़काव अपनाएँ।",
+    "answer_pa": "ਕਪਾਹ ਵਿੱਚ ਕੀਟ ਸੰਕਰਮਣ (ਪਿੰਕ ਬੋਲਵਰਮ), ਇਸ ਲਈ IPM, ਰੋਧੀ ਬੀਜ ਅਤੇ ਸਮੇਂ ਸਿਰ ਛਿੜਕਾਓ।"
+  },
+  {
+    "question": "High input costs for seeds, fertilizers, and pesticides",
+    "answer_en": "Provide subsidies, promote organic alternatives, and ensure MSP coverage in Telangana.",
+    "answer_hi": "बीज, उर्वरक और कीटनाशकों के लिए उच्च लागत, इसलिए सब्सिडी, जैविक विकल्प और MSP कवरेज सुनिश्चित करें।",
+    "answer_pa": "ਬੀਜ, ਖਾਦ ਅਤੇ ਕੀਟਨਾਸ਼ਕਾਂ ਲਈ ਵੱਧ ਲਾਗਤ, ਇਸ ਲਈ ਸਬਸਿਡੀ, ਆਰਗੈਨਿਕ ਵਿਕਲਪ ਅਤੇ MSP ਕਵਰੇਜ ਯਕੀਨੀ ਬਣਾਓ।"
+  },
+  {
+    "question": "Post-harvest losses due to lack of storage facilities",
+    "answer_en": "Develop warehouses, cold storage, and food processing units in Telangana.",
+    "answer_hi": "भंडारण सुविधाओं की कमी के कारण फसल पश्चात नुकसान, इसलिए गोदाम, कोल्ड स्टोरेज और प्रसंस्करण इकाइयाँ बनाएँ।",
+    "answer_pa": "ਸਟੋਰੇਜ ਸੁਵਿਧਾਵਾਂ ਦੀ ਘਾਟ ਕਾਰਨ ਫਸਲ ਬਾਅਦ ਨੁਕਸਾਨ, ਇਸ ਲਈ ਗੋਦਾਮ, ਕੋਲਡ ਸਟੋਰੇਜ ਅਤੇ ਫੂਡ ਪ੍ਰੋਸੈਸਿੰਗ ਯੂਨਿਟ ਬਣਾਓ।"
+  },
+  {
+    "question": "Market price fluctuations for crops like cotton, paddy, and maize",
+    "answer_en": "Introduce MSP enforcement, e-NAM integration, and farmer cooperatives in Telangana.",
+    "answer_hi": "कपास, धान और मक्का जैसी फसलों के लिए बाजार मूल्य में उतार-चढ़ाव, इसलिए MSP प्रवर्तन, ई-नैम और किसान सहकारी अपनाएँ।",
+    "answer_pa": "ਕਪਾਹ, ਧਾਨ ਅਤੇ ਮੱਕੀ ਵਰਗੀਆਂ ਫਸਲਾਂ ਲਈ ਮਾਰਕੀਟ ਕੀਮਤ ਵਿੱਚ ਬਦਲਾਅ, ਇਸ ਲਈ MSP ਲਾਗੂ ਕਰੋ, e-NAM ਇੰਟੀਗ੍ਰੇਸ਼ਨ ਅਤੇ ਕਿਸਾਨ ਸਹਿਕਾਰੀ ਲਗਾਓ।"
+  },
+  {
+    "question": "Power supply issues for irrigation",
+    "answer_en": "Ensure reliable power supply, promote solar pumps, and energy efficiency in Telangana.",
+    "answer_hi": "सिंचाई के लिए विद्युत आपूर्ति समस्याएँ, इसलिए विश्वसनीय विद्युत, सौर पंप और ऊर्जा दक्षता सुनिश्चित करें।",
+    "answer_pa": "ਸਿੰਚਾਈ ਲਈ ਬਿਜਲੀ ਸਪਲਾਈ ਸਮੱਸਿਆਵਾਂ, ਇਸ ਲਈ ਭਰੋਸੇਯੋਗ ਬਿਜਲੀ, ਸੂਰਜੀ ਪੰਪ ਅਤੇ ਊਰਜਾ ਪ੍ਰਭਾਵਸ਼ੀਲਤਾ ਯਕੀਨੀ ਬਣਾਓ।"
+  },
+  {
+    "question": "Farmer indebtedness due to crop failures and high loans",
+    "answer_en": "Strengthen institutional credit, debt relief schemes, and financial literacy in Telangana.",
+    "answer_hi": "फसल असफलता और उच्च ऋण के कारण किसानों का ऋणग्रस्त होना, इसलिए संस्थागत ऋण, ऋण राहत योजनाएँ और वित्तीय साक्षरता बढ़ाएँ।",
+    "answer_pa": "ਫਸਲ ਅਸਫਲਤਾ ਅਤੇ ਉੱਚ ਕਰਜ਼ ਕਾਰਨ ਕਿਸਾਨ ਕਰਜ਼ ਵਿੱਚ, ਇਸ ਲਈ ਸੰਸਥਾਗਤ ਕਰਜ਼, ਕਰਜ਼ ਛੁਟਕਾਰੀ ਯੋਜਨਾਵਾਂ ਅਤੇ ਵਿੱਤੀ ਸਿਖਲਾਈ ਬੜ੍ਹਾਓ।"
+  },
+  {
+    "question": "Soil degradation due to excessive chemical fertilizer use",
+    "answer_en": "Promote organic farming, soil testing, and balanced fertilizer use in Telangana.",
+    "answer_hi": "अत्यधिक रासायनिक उर्वरक उपयोग से मिट्टी का क्षरण, इसलिए जैविक खेती, मिट्टी परीक्षण और संतुलित उर्वरक उपयोग अपनाएँ।",
+    "answer_pa": "ਵੱਧ ਰਸਾਇਣਿਕ ਖਾਦ ਵਰਤੋਂ ਕਾਰਨ ਮਿੱਟੀ ਘਟਣਾ, ਇਸ ਲਈ ਆਰਗੈਨਿਕ ਖੇਤੀ, ਮਿੱਟੀ ਟੈਸਟਿੰਗ ਅਤੇ ਸੰਤੁਲਿਤ ਖਾਦ ਵਰਤੋਂ ਲਗਾਓ।"
+  },
+  {
+    "question": "Flooding in low-lying areas causing crop damage",
+    "answer_en": "Improve drainage systems, crop insurance coverage, and flood-tolerant varieties in Telangana.",
+    "answer_hi": "निचले इलाकों में बाढ़ से फसल नुकसान, इसलिए जल निकासी सुधार, फसल बीमा और बाढ़-प्रतिरोधी किस्में अपनाएँ।",
+    "answer_pa": "ਹੇਠਲੇ ਖੇਤਰਾਂ ਵਿੱਚ ਬाढ़ ਕਾਰਨ ਫਸਲ ਨੁਕਸਾਨ, ਇਸ ਲਈ ਡਰੇਨੇਜ ਸਿਸਟਮ ਸੁਧਾਰੋ, ਫਸਲ ਬੀਮਾ ਅਤੇ ਬਾੜ-ਰੋਧੀ ਕਿਸਮਾਂ ਲਗਾਓ।"
+  },
+  {
+    "question": "Limited access to modern farm mechanization",
+    "answer_en": "Provide subsidies on small-scale machinery, custom hiring centers, and training in Telangana.",
+    "answer_hi": "आधुनिक कृषि यंत्रीकरण की सीमित पहुँच, इसलिए छोटे पैमाने की मशीनरी पर सब्सिडी, कस्टम हायरिंग सेंटर और प्रशिक्षण अपनाएँ।",
+    "answer_pa": "ਆਧੁਨਿਕ ਖੇਤੀ ਮਸ਼ੀਨਰੀ ਤੱਕ ਸੀਮਤ ਪਹੁੰਚ, ਇਸ ਲਈ ਛੋਟੀ ਪੈਮਾਨੇ ਦੀ ਮਸ਼ੀਨਰੀ ਤੇ ਸਬਸਿਡੀ, ਕਸਟਮ ਹਾਇਰਿੰਗ ਸੈਂਟਰ ਅਤੇ ਟ੍ਰੇਨਿੰਗ ਦਿਓ।"
+  },
+  {
+    "question": "Exploitation by middlemen in agricultural markets",
+    "answer_en": "Strengthen farmer producer organizations, e-NAM, and direct market access in Telangana.",
+    "answer_hi": "कृषि बाजारों में दलालों द्वारा शोषण, इसलिए किसान उत्पादक संगठन, ई-नैम और सीधे बाजार पहुंच मजबूत करें।",
+    "answer_pa": "ਖੇਤੀ ਮਾਰਕੀਟਾਂ ਵਿੱਚ ਦਲਾਲਾਂ ਦੁਆਰਾ ਸ਼ੋਸ਼ਣ, ਇਸ ਲਈ ਕਿਸਾਨ ਉਤਪਾਦਕ ਸੰਗਠਨ, e-NAM ਅਤੇ ਸਿੱਧੀ ਮਾਰਕੀਟ ਪਹੁੰਚ ਮਜ਼ਬੂਤ ਕਰੋ।"
+  },
+  {
+    "question": "Low awareness and adoption of government schemes",
+    "answer_en": "Awareness campaigns, simplified procedures, and local language guidance in Telangana.",
+    "answer_hi": "सरकारी योजनाओं के प्रति कम जागरूकता और अपनाने में कमी, इसलिए जागरूकता अभियान, सरल प्रक्रियाएँ और स्थानीय भाषा में मार्गदर्शन अपनाएँ।",
+    "answer_pa": "ਸਰਕਾਰੀ ਯੋਜਨਾਵਾਂ ਬਾਰੇ ਘੱਟ ਜਾਣੂ ਅਤੇ ਅਪਣਾਉਣ ਵਿੱਚ ਘਾਟ, ਇਸ ਲਈ ਜਾਗਰੂਕਤਾ ਮੁਹਿੰਮ, ਸਧਾਰਨ ਪ੍ਰਕਿਰਿਆਵਾਂ ਅਤੇ ਸਥਾਨਕ ਭਾਸ਼ਾ ਵਿਚ ਦਿਸ਼ਾ-ਨਿਰਦੇਸ਼।"
+  },
+  {
+    "question": "Shortage of skilled labor during peak seasons",
+    "answer_en": "Promote mechanization, labor-saving tools, and farmer cooperatives in Telangana.",
+    "answer_hi": "प्लवित मौसमों में कुशल श्रमिकों की कमी, इसलिए यंत्रीकरण, श्रम-बचत उपकरण और किसान सहकारी अपनाएँ।",
+    "answer_pa": "ਚੜ੍ਹਦੇ ਮੌਸਮਾਂ ਵਿੱਚ ਹੁਨਰਮੰਦ ਮਜ਼ਦੂਰ ਦੀ ਘਾਟ, ਇਸ ਲਈ ਮਸ਼ੀਨੀਕਰਨ, ਮਜ਼ਦੂਰ-ਬਚਤ ਸੰਦ ਅਤੇ ਕਿਸਾਨ ਸਹਿਕਾਰੀ ਲਗਾਓ।"
+  },
+  {
+    "question": "Small and fragmented land holdings",
+    "answer_en": "Promote land consolidation, cooperative farming, and efficient land use planning in Tripura.",
+    "answer_hi": "छोटे और विखंडित भूमि धारक, इसलिए भूमि समेकन, सहकारी खेती और कुशल भूमि उपयोग योजना अपनाएँ।",
+    "answer_pa": "ਛੋਟੀ ਅਤੇ ਵਿਖੰਡਿਤ ਜ਼ਮੀਨ, ਇਸ ਲਈ ਜ਼ਮੀਨ ਸੰਗਠਨ, ਸਹਿਕਾਰੀ ਖੇਤੀ ਅਤੇ ਪ੍ਰਭਾਵਸ਼ੀਲ ਜ਼ਮੀਨ ਵਰਤੋਂ ਯੋਜਨਾ ਲਗਾਓ।"
+  },
+  {
+    "question": "Low irrigation coverage and dependence on rainfall",
+    "answer_en": "Develop minor irrigation projects, rainwater harvesting, and drip irrigation in Tripura.",
+    "answer_hi": "कम सिंचाई कवरेज और वर्षा पर निर्भरता, इसलिए लघु सिंचाई परियोजनाएँ, वर्षा जल संचयन और ड्रिप सिंचाई अपनाएँ।",
+    "answer_pa": "ਘੱਟ ਸਿੰਚਾਈ ਕਵਰੇਜ ਅਤੇ ਵਰਖਾ ਤੇ ਨਿਰਭਰਤਾ, ਇਸ ਲਈ ਛੋਟੇ ਸਿੰਚਾਈ ਪ੍ਰੋਜੈਕਟ, ਵਰਖਾ ਪਾਣੀ ਸੰਗ੍ਰਹਿ ਅਤੇ ਡ੍ਰਿਪ ਸਿੰਚਾਈ ਲਗਾਓ।"
+  },
+  {
+    "question": "Pest and disease attack on rice and vegetable crops",
+    "answer_en": "Adopt IPM practices, disease-resistant varieties, and timely pest control in Tripura.",
+    "answer_hi": "धान और सब्जी फसलों पर कीट और रोग का हमला, इसलिए IPM, रोग-प्रतिरोधी किस्में और समय पर कीट नियंत्रण अपनाएँ।",
+    "answer_pa": "ਚਾਵਲ ਅਤੇ ਸਬਜ਼ੀ ਫਸਲਾਂ 'ਤੇ ਕੀਟ ਅਤੇ ਰੋਗ, ਇਸ ਲਈ IPM, ਰੋਗ-ਰੋਧੀ ਕਿਸਮਾਂ ਅਤੇ ਸਮੇਂ ਸਿਰ ਕੀਟ ਕੰਟਰੋਲ ਲਗਾਓ।"
+  },
+  {
+    "question": "Shifting cultivation (jhum) leading to soil degradation",
+    "answer_en": "Encourage settled farming, agroforestry, and soil conservation techniques in Tripura.",
+    "answer_hi": "जुम खेती से मिट्टी का क्षरण, इसलिए स्थायी खेती, एग्रोफॉरेस्ट्री और मिट्टी संरक्षण तकनीक अपनाएँ।",
+    "answer_pa": "ਝੁਮ ਖੇਤੀ ਨਾਲ ਮਿੱਟੀ ਘਟਣਾ, ਇਸ ਲਈ ਸਥਿਰ ਖੇਤੀ, ਐਗਰੋਫੋਰੇਸਟਰੀ ਅਤੇ ਮਿੱਟੀ ਸੁਰੱਖਿਆ ਤਕਨੀਕ ਲਗਾਓ।"
+  },
+  {
+    "question": "Post-harvest losses due to poor storage and processing facilities",
+    "answer_en": "Develop cold storage, warehouses, and agro-processing units in Tripura.",
+    "answer_hi": "खराब भंडारण और प्रसंस्करण सुविधाओं के कारण फसल पश्चात नुकसान, इसलिए कोल्ड स्टोरेज, गोदाम और एग्रो-प्रोसेसिंग यूनिट बनाएँ।",
+    "answer_pa": "ਖਰਾਬ ਸਟੋਰੇਜ ਅਤੇ ਪ੍ਰੋਸੈਸਿੰਗ ਸੁਵਿਧਾਵਾਂ ਕਾਰਨ ਫਸਲ ਬਾਅਦ ਨੁਕਸਾਨ, ਇਸ ਲਈ ਕੋਲਡ ਸਟੋਰੇਜ, ਗੋਦਾਮ ਅਤੇ ਐਗਰੋ-ਪ੍ਰੋਸੈਸਿੰਗ ਯੂਨਿਟ ਬਣਾਓ।"
+  },
+  {
+    "question": "Limited access to markets and price fluctuations",
+    "answer_en": "Strengthen rural markets, e-NAM integration, and farmer cooperatives in Tripura.",
+    "answer_hi": "बाजार तक सीमित पहुँच और मूल्य उतार-चढ़ाव, इसलिए ग्रामीण बाजार, ई-नैम और किसान सहकारी मजबूत करें।",
+    "answer_pa": "ਮਾਰਕੀਟ ਤੱਕ ਸੀਮਤ ਪਹੁੰਚ ਅਤੇ ਕੀਮਤ ਬਦਲਾਅ, ਇਸ ਲਈ ਪਿੰਡ ਮਾਰਕੀਟ, e-NAM ਇੰਟੀਗ੍ਰੇਸ਼ਨ ਅਤੇ ਕਿਸਾਨ ਸਹਿਕਾਰੀ ਮਜ਼ਬੂਤ ਕਰੋ।"
+  },
+  {
+    "question": "Lack of awareness about modern farming techniques",
+    "answer_en": "Provide training, extension services, and demonstration programs in Tripura.",
+    "answer_hi": "आधुनिक खेती तकनीकों के बारे में जागरूकता की कमी, इसलिए प्रशिक्षण, विस्तार सेवाएँ और डेमो प्रोग्राम प्रदान करें।",
+    "answer_pa": "ਆਧੁਨਿਕ ਖੇਤੀ ਤਕਨੀਕ ਬਾਰੇ ਘੱਟ ਜਾਣੂ, ਇਸ ਲਈ ਟ੍ਰੇਨਿੰਗ, ਐਕਸਟੈਨਸ਼ਨ ਸਰਵਿਸ ਅਤੇ ਡੈਮੋ ਪ੍ਰੋਗ੍ਰਾਮ ਦਿਓ।"
+  },
+  {
+    "question": "High cost of agricultural inputs",
+    "answer_en": "Offer subsidies, promote organic alternatives, and ensure affordable inputs in Tripura.",
+    "answer_hi": "कृषि इनपुट की उच्च लागत, इसलिए सब्सिडी, जैविक विकल्प और सस्ते इनपुट सुनिश्चित करें।",
+    "answer_pa": "ਖੇਤੀ ਇਨਪੁਟ ਦੀ ਵੱਧ ਲਾਗਤ, ਇਸ ਲਈ ਸਬਸਿਡੀ, ਆਰਗੈਨਿਕ ਵਿਕਲਪ ਅਤੇ ਸਸਤੇ ਇਨਪੁਟ ਯਕੀਨੀ ਬਣਾਓ।"
+  },
+  {
+    "question": "Over-dependence on sugarcane and wheat leading to monocropping",
+    "answer_en": "Promote crop diversification, pulses, and oilseeds cultivation in Uttar Pradesh.",
+    "answer_hi": "गन्ना और गेहूँ पर अधिक निर्भरता के कारण मोनोकल्चर, इसलिए फसल विविधता, दालें और तिलहन उगाएँ।",
+    "answer_pa": "ਗੰਨਾ ਅਤੇ ਗਹੂੰ 'ਤੇ ਵੱਧ ਨਿਰਭਰਤਾ ਕਾਰਨ ਮੋਨੋਕਲਚਰ, ਇਸ ਲਈ ਫਸਲ ਵੱਖ-ਵੱਖ, ਦਾਲਾਂ ਅਤੇ ਤੇਲਬੀਜ ਉਗਾਓ।"
+  },
+  {
+    "question": "Groundwater depletion due to over-irrigation",
+    "answer_en": "Encourage micro-irrigation, rainwater harvesting, and groundwater recharge in Uttar Pradesh.",
+    "answer_hi": "अत्यधिक सिंचाई के कारण भूजल का क्षरण, इसलिए सूक्ष्म सिंचाई, वर्षा जल संचयन और भूजल पुनर्भरण अपनाएँ।",
+    "answer_pa": "ਵੱਧ ਸਿੰਚਾਈ ਕਾਰਨ ਭੂਗਤਲ ਘਟਣਾ, ਇਸ ਲਈ ਮਾਈਕ੍ਰੋ-ਸਿੰਚਾਈ, ਵਰਖਾ ਪਾਣੀ ਸੰਗ੍ਰਹਿ ਅਤੇ ਭੂਗਤਲ ਰੀਚਾਰਜ ਕਰੋ।"
+  },
+  {
+    "question": "Flooding in eastern UP damaging crops",
+    "answer_en": "Strengthen embankments, flood control measures, and crop insurance in Uttar Pradesh.",
+    "answer_hi": "पूर्वी यूपी में बाढ़ से फसल क्षति, इसलिए बांध मजबूत करें, बाढ़ नियंत्रण उपाय और फसल बीमा अपनाएँ।",
+    "answer_pa": "ਪੂਰਬੀ ਯੂਪੀ ਵਿੱਚ ਬਾਢ ਕਾਰਨ ਫਸਲ ਨੁਕਸਾਨ, ਇਸ ਲਈ ਬੰਨ੍ਹ ਮਜ਼ਬੂਤ ਕਰੋ, ਬਾਢ ਕੰਟਰੋਲ ਉਪਾਏ ਅਤੇ ਫਸਲ ਬੀਮਾ ਕਰੋ।"
+  },
+  {
+    "question": "Pest and disease infestation in paddy and wheat",
+    "answer_en": "Adopt IPM practices, resistant varieties, and timely spraying in Uttar Pradesh.",
+    "answer_hi": "धान और गेहूँ में कीट और रोग, इसलिए IPM, प्रतिरोधी किस्में और समय पर छिड़काव अपनाएँ।",
+    "answer_pa": "ਚਾਵਲ ਅਤੇ ਗਹੂੰ ਵਿੱਚ ਕੀਟ ਅਤੇ ਰੋਗ, ਇਸ ਲਈ IPM, ਰੋਧੀ ਕਿਸਮਾਂ ਅਤੇ ਸਮੇਂ-ਸਿਰ ਛਿੜਕਾਓ।"
+  },
+  {
+    "question": "High input costs for fertilizers, seeds, and pesticides",
+    "answer_en": "Provide subsidies, promote organic inputs, and ensure affordable supply in Uttar Pradesh.",
+    "answer_hi": "उर्वरक, बीज और कीटनाशक की उच्च लागत, इसलिए सब्सिडी दें, जैविक इनपुट बढ़ावा दें और किफायती आपूर्ति सुनिश्चित करें।",
+    "answer_pa": "ਖਾਦ, ਬੀਜ ਅਤੇ ਕੀਟਨਾਸ਼ਕ ਦੀ ਵੱਧ ਲਾਗਤ, ਇਸ ਲਈ ਸਬਸਿਡੀ ਦਿਓ, ਆਰਗੈਨਿਕ ਇਨਪੁਟ ਬਢਾਓ ਅਤੇ ਸਸਤੇ ਸਪਲਾਈ ਯਕੀਨੀ ਬਣਾਓ।"
+  },
+  {
+    "question": "Post-harvest losses due to lack of storage and processing facilities",
+    "answer_en": "Develop warehouses, cold storage, and agro-processing units in Uttar Pradesh.",
+    "answer_hi": "भंडारण और प्रसंस्करण सुविधाओं की कमी के कारण फसल पश्चात नुकसान, इसलिए गोदाम, कोल्ड स्टोरेज और एग्रो-प्रोसेसिंग यूनिट बनाएं।",
+    "answer_pa": "ਸਟੋਰੇਜ ਅਤੇ ਪ੍ਰੋਸੈਸਿੰਗ ਸੁਵਿਧਾਵਾਂ ਦੀ ਘਾਟ ਕਾਰਨ ਫਸਲ ਬਾਅਦ ਨੁਕਸਾਨ, ਇਸ ਲਈ ਗੋਦਾਮ, ਕੋਲਡ ਸਟੋਰੇਜ ਅਤੇ ਐਗਰੋ-ਪ੍ਰੋਸੈਸਿੰਗ ਯੂਨਿਟ ਬਣਾਓ।"
+  },
+  {
+    "question": "Market price fluctuations and MSP issues",
+    "answer_en": "Ensure MSP enforcement, promote e-NAM, and farmer producer organizations in Uttar Pradesh.",
+    "answer_hi": "बाजार मूल्य में उतार-चढ़ाव और MSP मुद्दे, इसलिए MSP लागू करें, ई-नाम को बढ़ावा दें और किसान उत्पादक संगठन मजबूत करें।",
+    "answer_pa": "ਮਾਰਕੀਟ ਕੀਮਤਾਂ ਵਿੱਚ ਬਦਲਾਅ ਅਤੇ MSP ਮੁੱਦੇ, ਇਸ ਲਈ MSP ਲਾਗੂ ਕਰੋ, e-NAM ਨੂੰ ਵਧਾਓ ਅਤੇ ਕਿਸਾਨ ਉਤਪਾਦਕ ਸੰਗਠਨ ਮਜ਼ਬੂਤ ਕਰੋ।"
+  },
+  {
+    "question": "Farmer indebtedness and loan burden",
+    "answer_en": "Expand institutional credit, debt relief schemes, and financial literacy in Uttar Pradesh.",
+    "answer_hi": "किसानों का ऋण और कर्ज का बोझ, इसलिए संस्थागत ऋण, ऋण मुक्ति योजनाएँ और वित्तीय साक्षरता बढ़ाएँ।",
+    "answer_pa": "ਕਿਸਾਨਾਂ ਦਾ ਕਰਜ਼ ਅਤੇ ਲੋਨ ਭਾਰ, ਇਸ ਲਈ ਸੰਸਥਾਗਤ ਕਰਜ਼, ਕਰਜ਼ ਮੁਕਤੀ ਯੋਜਨਾ ਅਤੇ ਵਿੱਤੀ ਸਾਖਰਤਾ ਵਧਾਓ।"
+  },
+  {
+    "question": "Fragmented and small land holdings in hilly regions",
+    "answer_en": "Encourage cooperative farming, terrace farming, and efficient land use in Uttarakhand.",
+    "answer_hi": "पहाड़ी क्षेत्रों में छोटे और विखंडित भूमि धारक, इसलिए सहकारी खेती, टैरेस खेती और कुशल भूमि उपयोग बढ़ाएँ।",
+    "answer_pa": "ਪਹਾੜੀ ਇਲਾਕਿਆਂ ਵਿੱਚ ਛੋਟੀ ਅਤੇ ਵਿਖੰਡਿਤ ਜ਼ਮੀਨ, ਇਸ ਲਈ ਸਹਿਕਾਰੀ ਖੇਤੀ, ਟੇਰਸ ਖੇਤੀ ਅਤੇ ਪ੍ਰਭਾਵਸ਼ੀਲ ਜ਼ਮੀਨ ਵਰਤੋਂ ਵਧਾਓ।"
+  },
+  {
+    "question": "Soil erosion and land degradation due to steep slopes",
+    "answer_en": "Adopt soil conservation, afforestation, and organic manure practices in Uttarakhand.",
+    "answer_hi": "खड़ी ढाल के कारण मृदा अपरदन और भूमि क्षरण, इसलिए मिट्टी संरक्षण, वनीकरण और जैविक खाद अपनाएँ।",
+    "answer_pa": "ਖੜੀ ਢਾਲ ਕਾਰਨ ਮਿੱਟੀ ਘਟਣਾ ਅਤੇ ਜ਼ਮੀਨ ਨੁਕਸਾਨ, ਇਸ ਲਈ ਮਿੱਟੀ ਸੁਰੱਖਿਆ, ਵਨਸਪਤੀ ਅਤੇ ਆਰਗੈਨਿਕ ਖਾਦ ਅਪਨਾਓ।"
+  },
+  {
+    "question": "Low irrigation coverage and dependence on rainfall",
+    "answer_en": "Develop minor irrigation, rainwater harvesting, and drip irrigation in Uttarakhand.",
+    "answer_hi": "कम सिंचाई कवरेज और वर्षा पर निर्भरता, इसलिए लघु सिंचाई, वर्षा जल संचयन और ड्रिप सिंचाई अपनाएँ।",
+    "answer_pa": "ਘੱਟ ਸਿੰਚਾਈ ਕਵਰੇਜ ਅਤੇ ਵਰਖਾ ਤੇ ਨਿਰਭਰਤਾ, ਇਸ ਲਈ ਛੋਟੇ ਸਿੰਚਾਈ ਪ੍ਰੋਜੈਕਟ, ਵਰਖਾ ਪਾਣੀ ਸੰਗ੍ਰਹਿ ਅਤੇ ਡ੍ਰਿਪ ਸਿੰਚਾਈ ਲਗਾਓ।"
+  },
+  {
+    "question": "Wild animal attacks (monkeys, wild boars) damaging crops",
+    "answer_en": "Implement fencing, bio-repellents, and community-based crop protection in Uttarakhand.",
+    "answer_hi": "जंगली जानवरों के हमले से फसल को नुकसान, इसलिए बाड़, जैव-प्रतिरक्षक और सामुदायिक संरक्षण अपनाएँ।",
+    "answer_pa": "ਜੰਗਲੀ ਜਾਨਵਰਾਂ ਦੇ ਹਮਲੇ ਕਾਰਨ ਫਸਲ ਨੁਕਸਾਨ, ਇਸ ਲਈ ਬਾਰਡਿੰਗ, ਬਾਇਓ-ਰਿਪੈਲੈਂਟ ਅਤੇ ਕਮਿਊਨਿਟੀ ਸੁਰੱਖਿਆ ਲਗਾਓ।"
+  },
+  {
+    "question": "Migration of youth leading to labor shortage",
+    "answer_en": "Promote rural employment schemes, agro-based industries, and skill training in Uttarakhand.",
+    "answer_hi": "युवाओं का पलायन जिससे श्रम की कमी, इसलिए ग्रामीण रोजगार योजनाएँ, कृषि आधारित उद्योग और कौशल प्रशिक्षण बढ़ाएँ।",
+    "answer_pa": "ਯੁਵਾ ਮਾਈਗ੍ਰੇਸ਼ਨ ਨਾਲ ਮਜ਼ਦੂਰੀ ਘਾਟ, ਇਸ ਲਈ ਪਿੰਡੀ ਰੋਜ਼ਗਾਰ ਯੋਜਨਾਵਾਂ, ਐਗਰੋ ਉਦਯੋਗ ਅਤੇ ਸ੍ਕਿੱਲ ਟ੍ਰੇਨਿੰਗ ਵਧਾਓ।"
+  },
+  {
+    "question": "Post-harvest losses due to poor storage and transport facilities",
+    "answer_en": "Set up cold storage, warehouses, and better transport infrastructure in Uttarakhand.",
+    "answer_hi": "खराब भंडारण और परिवहन सुविधाओं के कारण फसल पश्चात नुकसान, इसलिए कोल्ड स्टोरेज, गोदाम और बेहतर परिवहन सुविधाएँ बनाएं।",
+    "answer_pa": "ਖਰਾਬ ਸਟੋਰੇਜ ਅਤੇ ਟ੍ਰਾਂਸਪੋਰਟ ਸੁਵਿਧਾਵਾਂ ਕਾਰਨ ਫਸਲ ਬਾਅਦ ਨੁਕਸਾਨ, ਇਸ ਲਈ ਕੋਲਡ ਸਟੋਰੇਜ, ਗੋਦਾਮ ਅਤੇ ਬਿਹਤਰ ਟ੍ਰਾਂਸਪੋਰਟ ਬਣਾਓ।"
+  },
+  {
+    "question": "Limited market access for hill produce",
+    "answer_en": "Strengthen rural markets, promote cooperatives, and e-NAM integration in Uttarakhand.",
+    "answer_hi": "पहाड़ी उपज के लिए सीमित बाजार पहुँच, इसलिए ग्रामीण बाजार मजबूत करें, सहकारी और ई-नाम को बढ़ावा दें।",
+    "answer_pa": "ਪਹਾੜੀ ਉਤਪਾਦ ਲਈ ਸੀਮਤ ਮਾਰਕੀਟ ਪਹੁੰਚ, ਇਸ ਲਈ ਪਿੰਡ ਮਾਰਕੀਟ ਮਜ਼ਬੂਤ ਕਰੋ, ਸਹਿਕਾਰੀ ਅਤੇ e-NAM ਵਧਾਓ।"
+  },
+  {
+    "question": "Low adoption of modern technologies in remote areas",
+    "answer_en": "Expand training, digital tools, and access to modern machinery in Uttarakhand.",
+    "answer_hi": "दूरदराज़ क्षेत्रों में आधुनिक तकनीक का कम उपयोग, इसलिए प्रशिक्षण, डिजिटल उपकरण और आधुनिक मशीनरी तक पहुँच बढ़ाएँ।",
+    "answer_pa": "ਦੂਰ ਦਰਾਜ਼ ਇਲਾਕਿਆਂ ਵਿੱਚ ਆਧੁਨਿਕ ਤਕਨਾਲੋਜੀ ਘੱਟ, ਇਸ ਲਈ ਟ੍ਰੇਨਿੰਗ, ਡਿਜ਼ੀਟਲ ਟੂਲ ਅਤੇ ਆਧੁਨਿਕ ਮਸ਼ੀਨਰੀ ਪਹੁੰਚ ਵਧਾਓ।"
+  },
+  {
+    "question": "Cyclones like Amphan damaging paddy & jute fields",
+    "answer_en": "Construct strong embankments, cyclone shelters, and use crop insurance in West Bengal.",
+    "answer_hi": "अम्फान जैसे चक्रवात से धान और जूट खेतों को नुकसान, इसलिए मजबूत बांध, चक्रवात आश्रय और फसल बीमा अपनाएँ।",
+    "answer_pa": "ਅਮਫਾਨ ਵਰਗੇ ਤੂਫਾਨਾਂ ਨਾਲ ਚਾਵਲ ਅਤੇ ਜੂਟ ਖੇਤ ਨੁਕਸਾਨ, ਇਸ ਲਈ ਮਜ਼ਬੂਤ ਬੰਨ੍ਹ, ਤੂਫਾਨ ਸ਼ੈਲਟਰ ਅਤੇ ਫਸਲ ਬੀਮਾ ਕਰੋ।"
+  },
+  {
+    "question": "Jute farmers facing low price due to middlemen",
+    "answer_en": "Promote direct procurement, fair MSP, and support jute-based industries in West Bengal.",
+    "answer_hi": "बीचौलियों के कारण जूट किसानों को कम मूल्य, इसलिए प्रत्यक्ष खरीद, उचित MSP और जूट उद्योग का समर्थन करें।",
+    "answer_pa": "ਬੀਚੋਲਿਆਂ ਕਾਰਨ ਜੂਟ ਕਿਸਾਨਾਂ ਨੂੰ ਘੱਟ ਕੀਮਤ, ਇਸ ਲਈ ਡਾਇਰੈਕਟ ਖਰੀਦ, ਨਿਆਂਪੂਰਨ MSP ਅਤੇ ਜੂਟ ਉਦਯੋਗ ਦਾ ਸਮਰਥਨ ਕਰੋ।"
+  },
+  {
+    "question": "Tea plantation workers in Darjeeling getting low wages",
+    "answer_en": "Provide better wages, health benefits, and worker welfare schemes in West Bengal.",
+    "answer_hi": "दार्जिलिंग में चाय बागान श्रमिकों को कम वेतन, इसलिए बेहतर वेतन, स्वास्थ्य लाभ और कल्याण योजनाएँ अपनाएँ।",
+    "answer_pa": "ਦਰਜੀਲਿੰਗ ਵਿੱਚ ਚਾਹ ਬਾਗ਼ ਕੰਮ ਕਰਨ ਵਾਲਿਆਂ ਨੂੰ ਘੱਟ ਵੇਤਨ, ਇਸ ਲਈ ਬਿਹਤਰ ਵੇਤਨ, ਸਿਹਤ ਲਾਭ ਅਤੇ ਕਾਮ ਕਰਨ ਵਾਲਿਆਂ ਲਈ ਯੋਜਨਾਵਾਂ।"
+  },
+  {
+    "question": "Fish farmers face water pollution and high feed cost",
+    "answer_en": "Provide clean water systems, subsidy on feed, and promote cooperative markets in West Bengal.",
+    "answer_hi": "मछली पालन में पानी की गंदगी और उच्च आहार लागत, इसलिए स्वच्छ पानी, चारे पर सब्सिडी और सहकारी बाजार बढ़ाएँ।",
+    "answer_pa": "ਮੱਛੀ ਪਾਲਣ ਵਿੱਚ ਪਾਣੀ ਦੀ ਗੰਦਗੀ ਅਤੇ ਉੱਚ ਚਾਰਾ ਲਾਗਤ, ਇਸ ਲਈ ਸਾਫ਼ ਪਾਣੀ ਪ੍ਰਣਾਲੀ, ਚਾਰਾ ਉੱਤੇ ਸਬਸਿਡੀ ਅਤੇ ਸਹਿਕਾਰੀ ਮਾਰਕੀਟ ਵਧਾਓ।"
+  },
+  {
+    "question": "Soil salinity in Sundarbans reducing fertility",
+    "answer_en": "Promote salt-tolerant crops, soil treatment, and proper irrigation planning in West Bengal.",
+    "answer_hi": "सुंदरबन में मृदा की खारापन, इसलिए लवण-प्रतिरोधी फसलें, मिट्टी उपचार और उचित सिंचाई योजना अपनाएँ।",
+    "answer_pa": "ਸੁੰਦਰਬਨ ਵਿੱਚ ਮਿੱਟੀ ਦੀ ਖਾਰਪਨ, ਇਸ ਲਈ ਲੂਣ-ਸਹਿਣਸ਼ੀਲ ਫਸਲਾਂ, ਮਿੱਟੀ ਇਲਾਜ ਅਤੇ ਢੰਗ ਨਾਲ ਸਿੰਚਾਈ ਯੋਜਨਾ।"
+  },
+  {
+    "question": "Pest attack on paddy (Brown Plant Hopper, stem borer)",
+    "answer_en": "Use integrated pest management, resistant seed varieties, and farmer training in West Bengal.",
+    "answer_hi": "धान में कीट (ब्राउन प्लांट हॉपर, स्टेम बोरर), इसलिए IPM, प्रतिरोधी बीज और प्रशिक्षण अपनाएँ।",
+    "answer_pa": "ਚਾਵਲ ਵਿੱਚ ਕੀਟ (ਬ੍ਰਾਊਨ ਪਲਾਂਟ ਹੌਪਰ, ਸਟੈਮ ਬੋਰਰ), ਇਸ ਲਈ IPM, ਰੋਧੀ ਬੀਜ ਅਤੇ ਕਿਸਾਨਾਂ ਦੀ ਸਿਖਿਆ।"
+  },
+  {
+    "question": "Small farmers in North Bengal struggle with poor irrigation",
+    "answer_en": "Build canals, promote micro-irrigation, and watershed projects in West Bengal.",
+    "answer_hi": "उत्तर बंगाल में छोटे किसानों के लिए खराब सिंचाई, इसलिए नहर बनाएं, सूक्ष्म सिंचाई और जलसंवर्धन परियोजनाएँ बढ़ाएँ।",
+    "answer_pa": "ਉੱਤਰੀ ਬੰਗਾਲ ਵਿੱਚ ਛੋਟੇ ਕਿਸਾਨਾਂ ਲਈ ਖਰਾਬ ਸਿੰਚਾਈ, ਇਸ ਲਈ ਨਹਿਰਾਂ ਬਣਾਓ, ਮਾਈਕ੍ਰੋ-ਸਿੰਚਾਈ ਅਤੇ ਵਾਟਰਸ਼ੈੱਡ ਪ੍ਰੋਜੈਕਟ।"
+  },
+  {
+    "question": "Post-harvest loss of vegetables and mangoes due to lack of cold storage",
+    "answer_en": "Develop cold storage, fruit processing units, and improve rural transport in West Bengal.",
+    "answer_hi": "सब्जियों और आम की पश्चात हानि, इसलिए कोल्ड स्टोरेज, प्रसंस्करण इकाइयाँ और ग्रामीण परिवहन सुधारें।",
+    "answer_pa": "ਸਬਜ਼ੀਆਂ ਅਤੇ ਆਮ ਦੇ ਬਾਅਦ ਨੁਕਸਾਨ ਲਈ ਕੋਲਡ ਸਟੋਰੇਜ, ਫਲ ਪ੍ਰੋਸੈਸਿੰਗ ਯੂਨਿਟ ਅਤੇ ਪਿੰਡ ਟ੍ਰਾਂਸਪੋਰਟ ਸੁਧਾਰੋ।"
+  },
+  {
+    "question": "Flooding in river basins (Hooghly, Damodar) damaging crops",
+    "answer_en": "Strengthen embankments, early warning systems, and use flood-tolerant crops in West Bengal.",
+    "answer_hi": "नदी घाटियों (हुगली, दामोदर) में बाढ़ से फसल नुकसान, इसलिए बांध मजबूत करें, चेतावनी प्रणाली और बाढ़-प्रतिरोधी फसलें अपनाएँ।",
+    "answer_pa": "ਨਦੀਆਂ ਦੇ ਘਾਟ (ਹੂਗਲੀ, ਦਮੋਦਰ) ਵਿੱਚ ਬਾਢ ਨਾਲ ਫਸਲ ਨੁਕਸਾਨ, ਇਸ ਲਈ ਬੰਨ੍ਹ ਮਜ਼ਬੂਤ ਕਰੋ, ਅੱਗੇ ਚੇਤਾਵਨੀ ਪ੍ਰਣਾਲੀ ਅਤੇ ਬਾਢ-ਸਹਿਣਸ਼ੀਲ ਫਸਲਾਂ।"
+  },
+  {
+    "question": "Riverbank erosion destroying farmland in rural areas",
+    "answer_en": "Build embankments, plant protective vegetation, and provide compensation for lost land in West Bengal.",
+    "answer_hi": "नदी किनारे का कटाव ग्रामीण भूमि को नुकसान, इसलिए बांध बनाएं, वनस्पति लगाएं और खोई जमीन के लिए मुआवजा दें।",
+    "answer_pa": "ਨਦੀ ਦੇ ਕੰਢੇ ਦਾ ਕਟਾਓ ਪਿੰਡੀ ਖੇਤ ਨੁਕਸਾਨ, ਇਸ ਲਈ ਬੰਨ੍ਹ ਬਣਾਓ, ਪੌਦੇ ਲਗਾਓ ਅਤੇ ਖੋਈ ਜ਼ਮੀਨ ਲਈ ਮੁਆਵਜ਼ਾ ਦਿਓ।"
+  },
+  {
+    "question": "Coastal saltwater intrusion reducing paddy field productivity",
+    "answer_en": "Promote salt-tolerant rice varieties, build protective embankments, and improve drainage in Odisha.",
+    "answer_hi": "तटीय क्षेत्र में समुद्री जल प्रवेश से धान की उपज घट रही है, इसलिए लवण-प्रतिरोधी धान, सुरक्षात्मक बांध और जल निकासी सुधारें।",
+    "answer_pa": "ਤਟੀਯ ਖੇਤਰ ਵਿੱਚ ਸਮੁੰਦਰੀ ਪਾਣੀ ਦੀ ਘੁਸਪੈਠ ਨਾਲ ਚਾਵਲ ਦੀ ਉਪਜ ਘਟ, ਇਸ ਲਈ ਲੂਣ-ਸਹਿਣਸ਼ੀਲ ਚਾਵਲ, ਰੱਖਿਆ ਬੰਨ੍ਹ ਅਤੇ ਡਰੇਨੇਜ ਸੁਧਾਰੋ।"
+  },
+  {
+    "question": "Cyclone storms (like Fani, Amphan) damaging paddy fields and prawn farms",
+    "answer_en": "Build cyclone shelters, provide crop & aquaculture insurance, and quick disaster relief in Odisha.",
+    "answer_hi": "फानी, अम्फान जैसे तूफान से धान और झींगा फार्म को नुकसान, इसलिए चक्रवात आश्रय, फसल और मत्स्य पालन बीमा और त्वरित राहत दें।",
+    "answer_pa": "ਫਾਨੀ, ਅਮਫਾਨ ਵਰਗੇ ਤੂਫਾਨ ਨਾਲ ਚਾਵਲ ਅਤੇ ਜ਼ੀਂਗਾ ਖੇਤ ਨੁਕਸਾਨ, ਇਸ ਲਈ ਤੂਫਾਨ ਸ਼ੈਲਟਰ, ਫਸਲ ਅਤੇ ਜਲ-ਪਾਲਣ ਬੀਮਾ ਅਤੇ ਤੇਜ਼ ਰਾਹਤ।"
+  },
+  {
+    "question": "Flash floods in Mahanadi delta damaging standing paddy",
+    "answer_en": "Strengthen river embankments, improve drainage, and use flood-tolerant paddy seeds in Odisha.",
+    "answer_hi": "महानदी डेल्टा में अचानक बाढ़ से खड़ी धान फसल नुकसान, इसलिए नदी बांध मजबूत करें, जल निकासी सुधारें और बाढ़-प्रतिरोधी बीज लगाएँ।",
+    "answer_pa": "ਮਹਾਨਦੀ ਡੈਲਟਾ ਵਿੱਚ ਅਚਾਨਕ ਬਾਢ ਨਾਲ ਖੜੀ ਚਾਵਲ ਫਸਲ ਨੁਕਸਾਨ, ਇਸ ਲਈ ਨਦੀ ਬੰਨ੍ਹ ਮਜ਼ਬੂਤ, ਡਰੇਨੇਜ ਸੁਧਾਰ ਅਤੇ ਬਾਢ-ਸਹਿਣਸ਼ੀਲ ਬੀਜ।"
+  },
+  {
+    "question": "Shifting cultivation (jhum) causing deforestation and soil loss",
+    "answer_en": "Adopt terrace farming, crop rotation, and plant nitrogen-fixing crops to restore soil in Manipur.",
+    "answer_hi": "जुम खेती से वनों की कटाई और मिट्टी हानि, इसलिए खड्डी खेती, फसल चक्र और नाइट्रोजन-फिक्सिंग फसल लगाएँ।",
+    "answer_pa": "ਜੁਮ ਖੇਤੀ ਨਾਲ ਜੰਗਲ ਅਤੇ ਮਿੱਟੀ ਨੁਕਸਾਨ, ਇਸ ਲਈ ਟੈਰੇਸ ਖੇਤੀ, ਫਸਲ ਘੁੰਮਾਓ ਅਤੇ ਨਾਈਟ੍ਰੋਜਨ-ਫਿਕਸਿੰਗ ਫਸਲਾਂ ਲਗਾਓ।"
+  },
+  {
+    "question": "Rice fields damaged by irregular rainfall and floods",
+    "answer_en": "Build small field bunds, grow short-duration paddy, and diversify with pulses/vegetables in Manipur.",
+    "answer_hi": "अनियमित बारिश और बाढ़ से धान के खेत नुकसान, छोटे बाउंड बनाएं, अल्पकालिक धान लगाएँ और दाल/सब्जी विविधता अपनाएँ।",
+    "answer_pa": "ਅਨਿਯਮਤ ਵਰਖਾ ਅਤੇ ਬਾਢ ਨਾਲ ਚਾਵਲ ਖੇਤ ਨੁਕਸਾਨ, ਛੋਟੇ ਬੰਨ੍ਹ ਬਣਾਓ, ਛੋਟੀ ਮਿਆਦ ਵਾਲਾ ਚਾਵਲ ਲਗਾਓ ਅਤੇ ਦਾਲ/ਸਬਜ਼ੀਆਂ ਨਾਲ ਵਿਭਿੰਨਤਾ।"
+  },
+  {
+    "question": "Frequent flash floods in Imphal valley",
+    "answer_en": "Improve drainage, build embankments, and adopt flood-tolerant crops in Imphal valley, Manipur.",
+    "answer_hi": "इम्फाल घाटी में बाढ़, जल निकासी सुधारें, बांध बनाएँ और बाढ़-प्रतिरोधी फसलें अपनाएँ।",
+    "answer_pa": "ਇੰਫਾਲ ਘਾਟੀ ਵਿੱਚ ਅਕਸਰ ਆਉਣ ਵਾਲੀ ਬਾਢ, ਡਰੇਨੇਜ ਸੁਧਾਰੋ, ਬੰਨ੍ਹ ਬਣਾਓ ਅਤੇ ਬਾਢ-ਸਹਿਣਸ਼ੀਲ ਫਸਲਾਂ।"
+  },
+  {
+    "question": "Poor irrigation in hill districts during dry months",
+    "answer_en": "Collect rainwater in tanks, build small check dams, and share water through community ponds in Manipur.",
+    "answer_hi": "पहाड़ी जिलों में सूखे महीनों में खराब सिंचाई, पानी टैंकों में इकट्ठा करें, छोटे डैम बनाएं और सामुदायिक तालाबों से साझा करें।",
+    "answer_pa": "ਪਹਾੜੀ ਜ਼ਿਲਿਆਂ ਵਿੱਚ ਸੁੱਕੇ ਮਹੀਨਿਆਂ ਵਿੱਚ ਖਰਾਬ ਸਿੰਚਾਈ, ਪਾਣੀ ਟੈਂਕਾਂ ਵਿੱਚ ਇਕੱਠਾ ਕਰੋ, ਛੋਟੇ ਚੈਕ ਡੈਮ ਬਣਾਓ ਅਤੇ ਕਮਿਊਨਿਟੀ ਤਾਲਾਬਾਂ ਨਾਲ ਵੰਡੋ।"
+  },
+  {
+    "question": "Decline in local orange and pineapple production (diseases & ageing plants)",
+    "answer_en": "Replace old trees with new grafts, use organic pest sprays, and practice intercropping in Manipur.",
+    "answer_hi": "स्थानीय संतरा और अनानास उत्पादन में गिरावट, पुराने पेड़ बदलें, जैविक कीटनाशक स्प्रे करें और अंतरफसल खेती अपनाएँ।",
+    "answer_pa": "ਸਥਾਨਕ ਸੰਤਰਾ ਅਤੇ ਅਨਾਨਾਸ ਉਤਪਾਦਨ ਵਿੱਚ ਘਟਾਅ, ਪੁਰਾਣੇ ਦਰੱਖਤਾਂ ਨੂੰ ਨਵੇਂ ਗ੍ਰਾਫਟ ਨਾਲ ਬਦਲੋ, ਜੈਵਿਕ ਕੀਟ ਨਾਸ਼ਕ ਸਪਰੇ ਕਰੋ ਅਤੇ ਇੰਟਰਕ੍ਰਾਪਿੰਗ ਕਰੋ।"
+  },
+  {
+    "question": "Large cardamom and ginger attacked by pests and fungus",
+    "answer_en": "Dry rhizomes properly, use neem-based sprays, and rotate crops to reduce pest cycles in Manipur.",
+    "answer_hi": "इलायची और अदरक पर कीट और फफूंद, कंद सुखाएं, नीम आधारित स्प्रे करें और फसल घुमाएँ।",
+    "answer_pa": "ਕਾਰਡਮਮ ਅਤੇ ਅਦਰਕ ਤੇ ਕੀਟ ਅਤੇ ਫੰਗਸ, ਰਾਈਜ਼ੋਮ ਸਹੀ ਤਰ੍ਹਾਂ ਸੁਕਾਓ, ਨੀਮ ਆਧਾਰਤ ਸਪ੍ਰੇ ਕਰੋ ਅਤੇ ਫਸਲਾਂ ਬਦਲੋ।"
+  },
+  {
+    "question": "Lack of storage for perishable vegetables (tomato, cabbage, cauliflower)",
+    "answer_en": "Use bamboo/mud cool chambers, solar dryers, and sell in local markets quickly in Manipur.",
+    "answer_hi": "पकने वाली सब्जियों के लिए स्टोरेज की कमी, बांस/मिट्टी कूलर, सौर ड्रायर और स्थानीय बाजार में जल्दी बेचें।",
+    "answer_pa": "ਨਾਸ਼ਪੱਦ ਸਬਜ਼ੀਆਂ ਲਈ ਸਟੋਰੇਜ ਦੀ ਘਾਟ, ਬਾਂਸ/ਮਿੱਟੀ ਕੂਲ ਚੈਂਬਰ, ਸੌਰ ਡ੍ਰਾਇਰ ਅਤੇ ਲੋਕਲ ਮਾਰਕੀਟ ਵਿੱਚ ਤੇਜ਼ ਵਿਕਰੀ।"
+  },
+  {
+    "question": "Middlemen exploitation in selling ginger, turmeric, fish",
+    "answer_en": "Form cooperatives, sell directly in Imphal markets, and process products (dry ginger, turmeric powder) in Manipur.",
+    "answer_hi": "अदरक, हल्दी, मछली में दलालों का शोषण, सहकारी बनाएं, सीधे इम्फाल में बेचें और उत्पाद प्रक्रिया करें।",
+    "answer_pa": "ਅਦਰਕ, ਹਲਦੀ, ਮੱਛੀ ਵਿੱਚ ਬੀਚੋਲਿਆਂ ਦਾ ਸ਼ੋਸ਼ਣ, ਸਹਿਕਾਰੀ ਬਣਾਓ, ਇੰਫਾਲ ਮਾਰਕੀਟ ਵਿੱਚ ਸਿੱਧਾ ਵੇਚੋ ਅਤੇ ਉਤਪਾਦ ਪ੍ਰੋਸੈਸ ਕਰੋ।"
+  },
+  {
+    "question": "Piggery farmers facing frequent disease outbreaks (swine fever)",
+    "answer_en": "Maintain clean pigsties, use herbal medicines, and practice community-level vaccination in Manipur.",
+    "answer_hi": "सुअर पालन में रोग प्रकोप, साफ पिगस्टाई बनाएँ, हर्बल दवाएं दें और सामुदायिक टीकाकरण करें।",
+    "answer_pa": "ਸੂਰ ਪਾਲਣ ਵਿੱਚ ਰੋਗ, ਸਾਫ ਪਿੱਗਸਟਾਈ ਰੱਖੋ, ਜੜੀ-ਬੂਟੀ ਦੀਆਂ ਦਵਾਈਆਂ ਵਰਤੋਂ ਅਤੇ ਕਮਿਊਨਿਟੀ ਟੀਕਾਕਰਨ ਕਰੋ।"
+  },
+  {
+    "question": "Wild animal crop damage in hill villages (wild boars, monkeys)",
+    "answer_en": "Use group fencing, grow buffer crops, and set up noise deterrents collectively in Manipur.",
+    "answer_hi": "पहाड़ी गांवों में जंगली जानवरों द्वारा फसल नुकसान, समूह में बाड़ बनाएं, सुरक्षा फसल लगाएँ और ध्वनि निरोधक स्थापित करें।",
+    "answer_pa": "ਪਹਾੜੀ ਪਿੰਡਾਂ ਵਿੱਚ ਜੰਗਲੀ ਜਾਨਵਰਾਂ ਨਾਲ ਫਸਲ ਨੁਕਸਾਨ, ਗਰੁੱਪ ਬੰਨ੍ਹ, ਬਫਰ ਫਸਲ ਲਗਾਓ ਅਤੇ ਆਵਾਜ਼ ਰੋਕਣ ਵਾਲੇ ਸੈੱਟ ਕਰੋ।"
+  },
+  {
+    "question": "Short growing season due to extreme cold climate",
+    "answer_en": "Promote greenhouses, polyhouses, and cold-resistant crop varieties in Ladakh.",
+    "answer_hi": "अत्यधिक ठंडे मौसम के कारण छोटी खेती अवधि, ग्रीनहाउस, पॉलीहाउस और ठंड प्रतिरोधी फसलें अपनाएँ।",
+    "answer_pa": "ਸਖਤ ਠੰਡੀ ਮੌਸਮ ਕਾਰਨ ਛੋਟੀ ਖੇਤੀ ਮਿਆਦ, ਗ੍ਰੀਨਹਾਊਸ, ਪੋਲਿਹਾਊਸ ਅਤੇ ਠੰਡੀ-ਰੋਧੀ ਫਸਲਾਂ।"
+  },
+  {
+    "question": "Limited irrigation facilities and dependence on glacier melt water",
+    "answer_en": "Develop irrigation channels, snow harvesting, and drip irrigation in Ladakh.",
+    "answer_hi": "सिंचाई सुविधाओं की कमी और हिमनद पानी पर निर्भरता, सिंचाई नहरें बनाएं, हिम संग्रह करें और ड्रिप सिंचाई अपनाएँ।",
+    "answer_pa": "ਸਿੰਚਾਈ ਸੁਵਿਧਾਵਾਂ ਦੀ ਘਾਟ ਅਤੇ ਹਿਮਨਦੀ ਪਾਣੀ 'ਤੇ ਨਿਰਭਰਤਾ, ਸਿੰਚਾਈ ਚੈਨਲ, ਬਰਫ਼ ਸੰਗ੍ਰਹਿ ਅਤੇ ਡ੍ਰਿਪ ਸਿੰਚਾਈ।"
+  },
+  {
+    "question": "Soil infertility and low organic content",
+    "answer_en": "Adopt organic manure, composting, and soil fertility improvement programs in Ladakh.",
+    "answer_hi": "मिट्टी की उर्वरता कम और कार्बनिक पदार्थ कम, जैविक खाद, कम्पोस्टिंग और मिट्टी सुधार कार्यक्रम अपनाएँ।",
+    "answer_pa": "ਮਿੱਟੀ ਦੀ ਉਰਵਰਤਾ ਘੱਟ ਅਤੇ ਘੱਟ ਆਰਗੈਨਿਕ ਸਮੱਗਰੀ, ਜੈਵਿਕ ਖਾਦ, ਕੰਪੋਸਟਿੰਗ ਅਤੇ ਮਿੱਟੀ ਸੁਧਾਰ ਪ੍ਰੋਗਰਾਮ।"
+  },
+  {
+    "question": "Harsh weather conditions and frequent drought-like situations",
+    "answer_en": "Introduce drought-resistant crops and provide crop insurance in Ladakh.",
+    "answer_hi": "कठोर मौसम और अकाल जैसी स्थितियां, सूखा-प्रतिरोधी फसलें लगाएँ और फसल बीमा दें।",
+    "answer_pa": "ਸਖਤ ਮੌਸਮ ਅਤੇ ਅਕਾਲ ਵਰਗੀਆਂ ਸਥਿਤੀਆਂ, ਸੁੱਕੇ-ਰੋਧੀ ਫਸਲਾਂ ਲਗਾਓ ਅਤੇ ਫਸਲ ਬੀਮਾ।"
+  },
+  {
+    "question": "Transportation and market access difficulties due to remoteness",
+    "answer_en": "Improve road connectivity and establish local markets and cold chains in Ladakh.",
+    "answer_hi": "दूर-दराज होने के कारण परिवहन और बाज़ार पहुंच कठिन, सड़क संपर्क सुधारें और स्थानीय बाजार व शीत श्रृंखला बनाएं।",
+    "answer_pa": "ਦੂਰ-ਦਰਾਜ ਹੋਣ ਕਾਰਨ ਆਵਾਜਾਈ ਅਤੇ ਮਾਰਕੀਟ ਪਹੁੰਚ ਮੁਸ਼ਕਲ, ਸੜਕ ਕਨੈਕਟੀਵਟੀ ਸੁਧਾਰੋ ਅਤੇ ਸਥਾਨਕ ਮਾਰਕੀਟ ਅਤੇ ਕੋਲਡ ਚੇਨ ਬਣਾਓ।"
+  },
+  {
+    "question": "Limited crop diversity, mostly barley, wheat, and peas",
+    "answer_en": "Encourage crop diversification including horticulture and medicinal plants in Ladakh.",
+    "answer_hi": "फसल विविधता कम, मुख्यतः जौ, गेहूं और मटर, बागवानी और औषधीय पौधों को शामिल कर विविधता बढ़ाएँ।",
+    "answer_pa": "ਫਸਲ ਵਿਭਿੰਨਤਾ ਘੱਟ, ਮੁੱਖ ਤੌਰ 'ਤੇ ਜੌ, ਗੇਂਹੂ ਅਤੇ ਮਟਰ, ਬਾਗਬਾਨੀ ਅਤੇ ਦਵਾਈਆਂ ਵਾਲੇ ਪੌਦੇ ਸ਼ਾਮਲ ਕਰੋ।"
+  },
+  {
+    "question": "Post-harvest losses due to lack of storage facilities",
+    "answer_en": "Set up cold storage, warehouses, and food processing units in Ladakh.",
+    "answer_hi": "भंडारण सुविधाओं की कमी से पोस्ट-हार्वेस्ट नुकसान, ठंड भंडार, गोदाम और प्रसंस्करण इकाइयाँ बनाएं।",
+    "answer_pa": "ਸਟੋਰੇਜ ਸੁਵਿਧਾਵਾਂ ਦੀ ਘਾਟ ਕਾਰਨ ਪੋਸਟ-ਹਾਰਵੇਸਟ ਨੁਕਸਾਨ, ਕੋਲਡ ਸਟੋਰੇਜ, ਗੋਦਾਮ ਅਤੇ ਫੂਡ ਪ੍ਰੋਸੈਸਿੰਗ ਯੂਨਿਟ।"
+  },
+  {
+    "question": "Pest and disease problems in vegetables and fruits",
+    "answer_en": "Adopt integrated pest management and resistant crop varieties in Ladakh.",
+    "answer_hi": "सब्ज़ियों और फलों में कीट और रोग, एकीकृत कीट प्रबंधन और रोग-प्रतिरोधी फसलें अपनाएँ।",
+    "answer_pa": "ਸਬਜ਼ੀਆਂ ਅਤੇ ਫਲਾਂ ਵਿੱਚ ਕੀਟ ਅਤੇ ਰੋਗ, ਇੰਟੀਗ੍ਰੇਟਡ ਪੈਸਟ ਮੈਨੇਜਮੈਂਟ ਅਤੇ ਰੋਧੀ ਫਸਲਾਂ।"
+  },
+  {
+    "question": "Shortage of skilled labor due to migration",
+    "answer_en": "Provide skill development and incentives to retain rural youth in farming in Ladakh.",
+    "answer_hi": "माइग्रेशन के कारण कुशल श्रमिक की कमी, ग्रामीण युवाओं को खेती में बनाए रखने के लिए प्रशिक्षण और प्रोत्साहन दें।",
+    "answer_pa": "ਮਾਈਗ੍ਰੇਸ਼ਨ ਕਾਰਨ ਕੁਸ਼ਲ ਮਜ਼ਦੂਰ ਦੀ ਘਾਟ, ਪਿੰਡ ਦੇ ਨੌਜਵਾਨਾਂ ਨੂੰ ਖੇਤੀ ਵਿੱਚ ਰੱਖਣ ਲਈ ਸਿੱਖਿਆ ਅਤੇ ਪ੍ਰੋਤਸਾਹਨ।"
+  },
+  {
+    "question": "Limited access to modern farming technologies and mechanization",
+    "answer_en": "Introduce modern farm machinery, training, and digital agriculture solutions in Ladakh.",
+    "answer_hi": "आधुनिक कृषि तकनीक और मैकेनाइजेशन की कमी, आधुनिक मशीनरी, प्रशिक्षण और डिजिटल कृषि समाधान प्रदान करें।",
+    "answer_pa": "ਆਧੁਨਿਕ ਖੇਤੀ ਤਕਨੀਕ ਅਤੇ ਮਕੈਨੀਕਾਈਜ਼ੇਸ਼ਨ ਦੀ ਘਾਟ, ਆਧੁਨਿਕ ਮਸ਼ੀਨਰੀ, ਟ੍ਰੇਨਿੰਗ ਅਤੇ ਡਿਜੀਟਲ ਖੇਤੀ ਹੱਲ।"
+  },
+  {
+    "question": "Frequent cross-border tensions affecting farming activities",
+    "answer_en": "Provide compensation schemes, crop insurance, and safe zones for farming in Jammu & Kashmir.",
+    "answer_hi": "बार-बार सीमा तनाव से खेती प्रभावित, मुआवज़ा योजना, फसल बीमा और सुरक्षित क्षेत्र सुनिश्चित करें।",
+    "answer_pa": "ਅਕਸਰ ਸਰਹੱਦੀ ਤਣਾਅ ਨਾਲ ਖੇਤੀ ਪ੍ਰਭਾਵਿਤ, ਮੁਆਵਜ਼ਾ ਯੋਜਨਾ, ਫਸਲ ਬੀਮਾ ਅਤੇ ਸੁਰੱਖਿਅਤ ਖੇਤੀ ਖੇਤਰ।"
+  },
+  {
+    "question": "Harsh winters and limited growing season",
+    "answer_en": "Promote greenhouse farming and cold-resistant crop varieties in Jammu & Kashmir.",
+    "answer_hi": "कठोर सर्दी और छोटी खेती अवधि, ग्रीनहाउस खेती और ठंड प्रतिरोधी फसलें अपनाएँ।",
+    "answer_pa": "ਸਖਤ ਸਰਦੀ ਅਤੇ ਛੋਟੀ ਖੇਤੀ ਮਿਆਦ, ਗ੍ਰੀਨਹਾਊਸ ਖੇਤੀ ਅਤੇ ਠੰਡੀ-ਰੋਧੀ ਫਸਲਾਂ।"
+  },
+  {
+    "question": "Limited cultivable land due to small area and rocky terrain",
+    "answer_en": "Promote terrace farming, container farming, and efficient land use in Dadra & Nagar Haveli & Daman & Diu.",
+    "answer_hi": "छोटी और चट्टानी भूमि के कारण सीमित खेती योग्य भूमि, टैरेस खेती, कंटेनर खेती और कुशल भूमि उपयोग अपनाएँ।",
+    "answer_pa": "ਛੋਟੀ ਅਤੇ ਪਥਰੀਲੀ ਜ਼ਮੀਨ ਕਾਰਨ ਸੀਮਿਤ ਖੇਤੀਯੋਗ ਜ਼ਮੀਨ, ਟੈਰਸ ਖੇਤੀ, ਕੰਟੇਨਰ ਖੇਤੀ ਅਤੇ ਪ੍ਰਭਾਵਸ਼ਾਲੀ ਜ਼ਮੀਨ ਵਰਤੋਂ।"
+  },
+  {
+    "question": "Water scarcity for irrigation",
+    "answer_en": "Develop rainwater harvesting, minor irrigation projects, and drip irrigation in Dadra & Nagar Haveli & Daman & Diu.",
+    "answer_hi": "सिंचाई के लिए पानी की कमी, वर्षा जल संचयन, छोटे सिंचाई प्रोजेक्ट और ड्रिप सिंचाई विकसित करें।",
+    "answer_pa": "ਸਿੰਚਾਈ ਲਈ ਪਾਣੀ ਦੀ ਘਾਟ, ਵਰਖਾ ਪਾਣੀ ਸੰਭਾਲ, ਛੋਟੇ ਸਿੰਚਾਈ ਪ੍ਰੋਜੈਕਟ ਅਤੇ ਡ੍ਰਿਪ ਸਿੰਚਾਈ ਵਿਕਸਤ ਕਰੋ।"
+  },
+  {
+    "question": "Dependence on monsoon and unpredictable rainfall",
+    "answer_en": "Promote drought-resistant crops and water-efficient practices in Dadra & Nagar Haveli & Daman & Diu.",
+    "answer_hi": "मानसून पर निर्भरता और अनिश्चित वर्षा, सूखा-प्रतिरोधी फसलें और जल-संरक्षण तकनीक अपनाएँ।",
+    "answer_pa": "ਮਾਨਸੂਨ ਤੇ ਨਿਰਭਰਤਾ ਅਤੇ ਅਣਪਛਾਤ ਵਰਖਾ, ਸੁੱਕੇ-ਰੋਧੀ ਫਸਲਾਂ ਅਤੇ ਪਾਣੀ-ਸੰਰਖਣ ਅਭਿਆਸ।"
+  },
+  {
+    "question": "Pest and disease attacks on cash crops",
+    "answer_en": "Adopt integrated pest management and disease-resistant crop varieties in Dadra & Nagar Haveli & Daman & Diu.",
+    "answer_hi": "नकदी फसलों पर कीट और रोग, एकीकृत कीट प्रबंधन और रोग-प्रतिरोधी फसलें अपनाएँ।",
+    "answer_pa": "ਨਕਦੀ ਫਸਲਾਂ 'ਤੇ ਕੀਟ ਅਤੇ ਰੋਗ, ਇੰਟੀਗ੍ਰੇਟਡ ਪੈਸਟ ਮੈਨੇਜਮੈਂਟ ਅਤੇ ਰੋਧੀ ਫਸਲਾਂ।"
+  },
+  {
+    "question": "Low adoption of modern farming technologies",
+    "answer_en": "Provide training, subsidies for machinery, and digital agriculture advisory in Dadra & Nagar Haveli & Daman & Diu.",
+    "answer_hi": "आधुनिक कृषि तकनीक की कम अपनाने की दर, प्रशिक्षण, मशीनरी के लिए सब्सिडी और डिजिटल कृषि सलाह दें।",
+    "answer_pa": "ਆਧੁਨਿਕ ਖੇਤੀ ਤਕਨੀਕ ਦੀ ਘੱਟ ਅਪਣਾਉਣ ਦਰ, ਟ੍ਰੇਨਿੰਗ, ਮਸ਼ੀਨਰੀ ਲਈ ਸਬਸਿਡੀ ਅਤੇ ਡਿਜੀਟਲ ਖੇਤੀ ਸਲਾਹ।"
+  },
+  {
+    "question": "Post-harvest losses due to inadequate storage",
+    "answer_en": "Establish cold storage, warehouses, and food processing units in Dadra & Nagar Haveli & Daman & Diu.",
+    "answer_hi": "अपर्याप्त भंडारण के कारण पोस्ट-हार्वेस्ट नुकसान, ठंडा भंडारण, गोदाम और प्रसंस्करण इकाइयाँ स्थापित करें।",
+    "answer_pa": "ਅਪਰਯਾਪਤ ਸਟੋਰੇਜ ਕਾਰਨ ਪੋਸਟ-ਹਾਰਵੇਸਟ ਨੁਕਸਾਨ, ਕੋਲਡ ਸਟੋਰੇਜ, ਗੋਦਾਮ ਅਤੇ ਪ੍ਰੋਸੈਸਿੰਗ ਯੂਨਿਟ।"
+  },
+  {
+    "question": "Market access issues for local produce",
+    "answer_en": "Promote local farmers’ markets, cooperative marketing, and e-NAM registration in Dadra & Nagar Haveli & Daman & Diu.",
+    "answer_hi": "स्थानीय उत्पादों के लिए बाज़ार पहुंच की समस्या, स्थानीय किसानों के बाजार, सहकारी विपणन और ई-नाम पंजीकरण को बढ़ावा दें।",
+    "answer_pa": "ਸਥਾਨਕ ਉਤਪਾਦਾਂ ਲਈ ਮਾਰਕੀਟ ਪਹੁੰਚ ਸਮੱਸਿਆ, ਸਥਾਨਕ ਕਿਸਾਨ ਮਾਰਕੀਟ, ਸਹਿਯੋਗੀ ਮਾਰਕੀਟਿੰਗ ਅਤੇ e-NAM ਰਜਿਸਟ੍ਰੇਸ਼ਨ।"
+  },
+  {
+    "question": "Shortage of skilled labor",
+    "answer_en": "Incentivize local labor, mechanization, and youth participation in agriculture in Dadra & Nagar Haveli & Daman & Diu.",
+    "answer_hi": "कुशल श्रमिकों की कमी, स्थानीय श्रमिकों को प्रोत्साहन दें, यंत्रणाएँ अपनाएँ और युवाओं को खेती में भागीदारी दें।",
+    "answer_pa": "ਕੁਸ਼ਲ ਮਜ਼ਦੂਰਾਂ ਦੀ ਘਾਟ, ਸਥਾਨਕ ਮਜ਼ਦੂਰਾਂ ਨੂੰ ਪ੍ਰੋਤਸਾਹਨ, ਮਕੈਨੀਕਾਈਜ਼ੇਸ਼ਨ ਅਤੇ ਨੌਜਵਾਨਾਂ ਦੀ ਖੇਤੀ ਵਿੱਚ ਭਾਗੀਦਾਰੀ।"
+  },
+  {
+    "question": "Soil fertility issues",
+    "answer_en": "Promote organic farming, composting, and use of biofertilizers in Dadra & Nagar Haveli & Daman & Diu.",
+    "answer_hi": "मिट्टी की उर्वरता की समस्या, जैविक खेती, कम्पोस्टिंग और जैविक उर्वरक का उपयोग करें।",
+    "answer_pa": "ਮਿੱਟੀ ਦੀ ਉਰਵਰਤਾ ਸਮੱਸਿਆ, ਜੈਵਿਕ ਖੇਤੀ, ਕੰਪੋਸਟਿੰਗ ਅਤੇ ਬਾਇਓਫਰਟੀਲਾਈਜ਼ਰ ਦੀ ਵਰਤੋਂ।"
+  },
+  {
+    "question": "Climate change impacts (heat waves, floods)",
+    "answer_en": "Provide crop insurance, climate-resilient crops, and early warning systems in Dadra & Nagar Haveli & Daman & Diu.",
+    "answer_hi": "जलवायु परिवर्तन प्रभाव (ताप लहरें, बाढ़), फसल बीमा, जलवायु-लचीली फसलें और पूर्व चेतावनी प्रणाली प्रदान करें।",
+    "answer_pa": "ਮੌਸਮੀ ਬਦਲਾਅ ਪ੍ਰਭਾਵ (ਤਾਪ ਲਹਿਰਾਂ, ਬਾਰਸ਼), ਫਸਲ ਬੀਮਾ, ਮੌਸਮੀ-ਸਹਿਣਸ਼ੀਲ ਫਸਲਾਂ ਅਤੇ ਪਹਿਲਾਂ ਚੇਤਾਵਨੀ ਪ੍ਰਣਾਲੀ।"
+  },
+  {
+    "question": "Waterlogging and soil salinity due to over-irrigation",
+    "answer_en": "Promote balanced irrigation, drainage systems, and salt-tolerant crops in Punjab.",
+    "answer_hi": "अधिक सिंचाई के कारण जलभराव और मिट्टी में लवणता, संतुलित सिंचाई, नाली व्यवस्था और लवण-प्रतिरोधी फसलें अपनाएँ।",
+    "answer_pa": "ਵੱਧ ਸਿੰਚਾਈ ਕਾਰਨ ਪਾਣੀ ਖੜਾ ਹੋਣਾ ਅਤੇ ਮਿੱਟੀ ਵਿੱਚ ਨਮਕਦਾਰਤਾ, ਸੰਤੁਲਿਤ ਸਿੰਚਾਈ, ਨਿਕਾਸ ਪ੍ਰਣਾਲੀ ਅਤੇ ਨਮਕ-ਰੋਧੀ ਫਸਲਾਂ।"
+  },
+  {
+    "question": "High input costs (fertilizers, seeds, pesticides)",
+    "answer_en": "Provide subsidies, bulk purchase support, and government schemes in Punjab.",
+    "answer_hi": "उच्च इनपुट लागत (उर्वरक, बीज, कीटनाशक), सब्सिडी, थोक खरीद समर्थन और सरकारी योजनाएँ दें।",
+    "answer_pa": "ਉੱਚ ਇਨਪੁੱਟ ਲਾਗਤ (ਖਾਦ, ਬੀਜ, ਕੀਟਨਾਸ਼ਕ), ਸਬਸਿਡੀ, ਥੋਕ ਖਰੀਦ ਸਹਾਇਤਾ ਅਤੇ ਸਰਕਾਰੀ ਯੋਜਨਾਵਾਂ।"
+  },
+  {
+    "question": "Depletion of groundwater resources",
+    "answer_en": "Encourage rainwater harvesting, water-efficient irrigation, and crop rotation in Punjab.",
+    "answer_hi": "भूजल संसाधनों की कमी, वर्षा जल संचयन, जल-कुशल सिंचाई और फसल चक्रण अपनाएँ।",
+    "answer_pa": "ਜ਼ਮੀਨੀ ਪਾਣੀ ਸਰੋਤਾਂ ਦੀ ਘਾਟ, ਵਰਖਾ ਪਾਣੀ ਸੰਭਾਲ, ਪਾਣੀ-ਕੁਸ਼ਲ ਸਿੰਚਾਈ ਅਤੇ ਫਸਲ ਘੁੰਮਾਵ।"
+  },
+  {
+    "question": "Pest and disease attacks on wheat and rice",
+    "answer_en": "Adopt integrated pest management and disease-resistant crop varieties in Punjab.",
+    "answer_hi": "गेहूं और धान पर कीट और रोग, एकीकृत कीट प्रबंधन और रोग-प्रतिरोधी फसलें अपनाएँ।",
+    "answer_pa": "ਗਹੂੰ ਅਤੇ ਚੌਲ 'ਤੇ ਕੀਟ ਅਤੇ ਰੋਗ, ਇੰਟੀਗ੍ਰੇਟਡ ਪੈਸਟ ਮੈਨੇਜਮੈਂਟ ਅਤੇ ਰੋਧੀ ਫਸਲਾਂ।"
+  },
+  {
+    "question": "Market access issues and low MSP awareness",
+    "answer_en": "Improve market linkages, awareness campaigns, and support e-NAM integration in Punjab.",
+    "answer_hi": "बाजार पहुंच की समस्या और न्यूनतम समर्थन मूल्य जागरूकता, बाज़ार लिंक, जागरूकता अभियान और ई-नाम समेकन को बढ़ावा दें।",
+    "answer_pa": "ਮਾਰਕੀਟ ਪਹੁੰਚ ਸਮੱਸਿਆ ਅਤੇ ਘੱਟ MSP ਜਾਗਰੂਕਤਾ, ਮਾਰਕੀਟ ਲਿੰਕੇਜ, ਜਾਗਰੂਕਤਾ ਮੁਹਿੰਮ ਅਤੇ e-NAM ਇੰਟਿਗ੍ਰੇਸ਼ਨ।"
+  },
+  {
+    "question": "Post-harvest losses due to inadequate storage and processing",
+    "answer_en": "Establish cold storage, warehouses, and food processing units in Punjab.",
+    "answer_hi": "अपर्याप्त भंडारण और प्रसंस्करण के कारण पोस्ट-हार्वेस्ट नुकसान, ठंडा भंडारण, गोदाम और प्रसंस्करण इकाइयाँ स्थापित करें।",
+    "answer_pa": "ਅਪਰਯਾਪਤ ਸਟੋਰੇਜ ਅਤੇ ਪ੍ਰੋਸੈਸਿੰਗ ਕਾਰਨ ਪੋਸਟ-ਹਾਰਵੇਸਟ ਨੁਕਸਾਨ, ਕੋਲਡ ਸਟੋਰੇਜ, ਗੋਦਾਮ ਅਤੇ ਪ੍ਰੋਸੈਸਿੰਗ ਯੂਨਿਟ।"
+  },
+  {
+    "question": "Decline in soil fertility due to mono-cropping",
+    "answer_en": "Promote crop rotation, organic farming, and biofertilizers in Punjab.",
+    "answer_hi": "एक फसल पर निर्भरता से मिट्टी की उर्वरता में कमी, फसल चक्रण, जैविक खेती और जैविक उर्वरक अपनाएँ।",
+    "answer_pa": "ਇੱਕ ਫਸਲ ਵਾਲੀ ਖੇਤੀ ਕਾਰਨ ਮਿੱਟੀ ਦੀ ਉਰਵਰਤਾ ਘਟਣਾ, ਫਸਲ ਘੁੰਮਾਵ, ਜੈਵਿਕ ਖੇਤੀ ਅਤੇ ਬਾਇਓਫਰਟੀਲਾਈਜ਼ਰ।"
+  },
+  {
+    "question": "Labor shortage due to migration",
+    "answer_en": "Incentivize local labor, mechanization, and youth participation in farming in Punjab.",
+    "answer_hi": "माइग्रेशन के कारण श्रम की कमी, स्थानीय श्रमिकों को प्रोत्साहित करें, यंत्रणाएँ अपनाएँ और युवाओं को खेती में भागीदारी दें।",
+    "answer_pa": "ਮਾਈਗ੍ਰੇਸ਼ਨ ਕਾਰਨ ਮਜ਼ਦੂਰ ਘਾਟ, ਸਥਾਨਕ ਮਜ਼ਦੂਰਾਂ ਨੂੰ ਪ੍ਰੋਤਸਾਹਿਤ ਕਰੋ, ਮਕੈਨੀਕਾਈਜ਼ੇਸ਼ਨ ਅਤੇ ਨੌਜਵਾਨਾਂ ਦੀ ਖੇਤੀ ਵਿੱਚ ਭਾਗੀਦਾਰੀ।"
+  },
+  {
+    "question": "Climate change impacts (unseasonal rains, heatwaves)",
+    "answer_en": "Introduce resilient crop varieties, crop insurance, and early warning systems in Punjab.",
+    "answer_hi": "जलवायु परिवर्तन प्रभाव (अनियमित वर्षा, गर्मी की लहरें), लचीली फसलें, फसल बीमा और पूर्व चेतावनी प्रणाली अपनाएँ।",
+    "answer_pa": "ਮੌਸਮੀ ਬਦਲਾਅ ਪ੍ਰਭਾਵ (ਬੇਮੌਸਮ ਵਰਖਾ, ਤਾਪ ਲਹਿਰਾਂ), ਸਹਿਣਸ਼ੀਲ ਫਸਲਾਂ, ਫਸਲ ਬੀਮਾ ਅਤੇ ਪਹਿਲਾਂ ਚੇਤਾਵਨੀ ਪ੍ਰਣਾਲੀ।"
+  },
+  {
+    "question": "Crop residue burning causing pollution",
+    "answer_en": "Promote in-situ management of residue, bio-decomposers, and mechanized solutions in Punjab.",
+    "answer_hi": "फसल अवशेष जलाने से प्रदूषण, इन-सिटू प्रबंधन, जैव-अपघटक और यंत्रणाएँ अपनाएँ।",
+    "answer_pa": "ਫਸਲ ਬਚਤ ਸੜਾਉਣ ਨਾਲ ਪ੍ਰਦੂਸ਼ਣ, ਇਨ-ਸਿਟੂ ਪ੍ਰਬੰਧਨ, ਬਾਇਓ-ਡੀਕੰਪੋਜ਼ਰ ਅਤੇ ਮਕੈਨੀਕਲ ਹੱਲ।"
+  },
+  {
+    "question": "Declining biodiversity in farms due to mono-cropping",
+    "answer_en": "Promote crop diversification with pulses, oilseeds, and vegetables in Punjab.",
+    "answer_hi": "एक फसल पर निर्भरता से जैव विविधता में कमी, दाल, तिलहन और सब्जियों के साथ फसल विविधता अपनाएँ।",
+    "answer_pa": "ਇੱਕ ਫਸਲ ਵਾਲੀ ਖੇਤੀ ਕਾਰਨ ਕਿਸਾਨੀ ਵਿੱਚ ਜੈਵਿਕ ਵਿਭਿੰਨਤਾ ਘਟਣਾ, ਦਾਲਾਂ, ਤੇਲਦਾਨੇ ਅਤੇ ਸਬਜ਼ੀਆਂ ਨਾਲ ਫਸਲ ਵਿਵਿਧਤਾ।"
+  },
+  {
+    "question": "Heavy dependency on chemical fertilizers",
+    "answer_en": "Encourage organic farming, composting, and integrated nutrient management in Punjab.",
+    "answer_hi": "रासायनिक उर्वरकों पर अधिक निर्भरता, जैविक खेती, कम्पोस्टिंग और समेकित पोषण प्रबंधन अपनाएँ।",
+    "answer_pa": "ਰਸਾਇਣਿਕ ਖਾਦਾਂ 'ਤੇ ਭਾਰੀ ਨਿਰਭਰਤਾ, ਜੈਵਿਕ ਖੇਤੀ, ਕੰਪੋਸਟਿੰਗ ਅਤੇ ਇੰਟੀਗ੍ਰੇਟਡ ਨਿਊਟਰੀਅਂਟ ਪ੍ਰਬੰਧਨ।"
+  },
+  {
+    "question": "Financial stress and debt burden among small farmers",
+    "answer_en": "Provide low-interest loans, debt relief schemes, and financial literacy programs in Punjab.",
+    "answer_hi": "छोटे किसानों में वित्तीय तनाव और ऋण का बोझ, कम-ब्याज ऋण, ऋण राहत योजनाएँ और वित्तीय साक्षरता प्रदान करें।",
+    "answer_pa": "ਛੋਟੇ ਕਿਸਾਨਾਂ ਵਿੱਚ ਵਿੱਤੀ ਤਣਾਅ ਅਤੇ ਕਰਜ਼ਾ ਬੋਝ, ਘੱਟ ਸੂਦ ਵਾਲੇ ਕਰਜ਼ੇ, ਕਰਜ਼ਾ ਰਾਹਤ ਯੋਜਨਾਵਾਂ ਅਤੇ ਵਿੱਤੀ ਸाक्षਰਤਾ ਪ੍ਰੋਗਰਾਮ।"
+  },
+  {
+    "question": "Limited cold storage for perishable vegetables and fruits",
+    "answer_en": "Establish more cold storage facilities and improve supply chains in Punjab.",
+    "answer_hi": "नाजुक सब्जियों और फलों के लिए सीमित ठंडा भंडारण, अधिक कोल्ड स्टोरेज और बेहतर आपूर्ति श्रृंखला स्थापित करें।",
+    "answer_pa": "ਨਾਜ਼ੁਕ ਸਬਜ਼ੀਆਂ ਅਤੇ ਫਲਾਂ ਲਈ ਸੀਮਿਤ ਕੋਲਡ ਸਟੋਰੇਜ, ਹੋਰ ਕੋਲਡ ਸਟੋਰੇਜ ਅਤੇ ਸਪਲਾਈ ਚੇਨ ਸੁਧਾਰੋ।"
+  },
+  {
+    "question": "Contamination of groundwater with nitrates",
+    "answer_en": "Monitor water quality, adopt safe fertilizer practices, and promote organic farming in Punjab.",
+    "answer_hi": "जैविक नाइट्रेट प्रदूषण, पानी की गुणवत्ता निगरानी, सुरक्षित उर्वरक उपयोग और जैविक खेती अपनाएँ।",
+    "answer_pa": "ਜ਼ਮੀਨੀ ਪਾਣੀ ਵਿੱਚ ਨਾਈਟਰੇਟ ਪ੍ਰਦੂਸ਼ਣ, ਪਾਣੀ ਦੀ ਗੁਣਵੱਤਾ ਨਿਗਰਾਨੀ, ਸੁਰੱਖਿਅਤ ਖਾਦ ਵਰਤੋਂ ਅਤੇ ਜੈਵਿਕ ਖੇਤੀ।"
+  },
+  {
+    "question": "Lack of awareness about government schemes",
+    "answer_en": "Conduct awareness campaigns and provide farmer help centers in Punjab.",
+    "answer_hi": "सरकारी योजनाओं के बारे में जागरूकता की कमी, जागरूकता अभियान चलाएँ और किसान सहायता केंद्र प्रदान करें।",
+    "answer_pa": "ਸਰਕਾਰੀ ਯੋਜਨਾਵਾਂ ਬਾਰੇ ਘੱਟ ਜਾਣੂਤਾ, ਜਾਗਰੂਕਤਾ ਮੁਹਿੰਮ ਚਲਾਓ ਅਤੇ ਕਿਸਾਨ ਸਹਾਇਤਾ ਕੇਂਦਰ ਪ੍ਰਦਾਨ ਕਰੋ।"
+  },
+  {
+    "question": "Crop insurance claim delays under PMFBY",
+    "answer_en": "Improve claim settlement process and simplify documentation in Punjab.",
+    "answer_hi": "प्रधान मंत्री फसल बीमा योजना में दावा निपटान में देरी, प्रक्रिया में सुधार और दस्तावेज़ीकरण को सरल बनाएं।",
+    "answer_pa": "PMFBY ਦੇ ਤਹਿਤ ਫਸਲ ਬੀਮਾ ਦਾਅਵਾ ਵਿੱਚ ਦੇਰੀ, ਦਾਅਵਾ ਨਿਪਟਾਰਾ ਪ੍ਰਕਿਰਿਆ ਸੁਧਾਰੋ ਅਤੇ ਦਸਤਾਵੇਜ਼ੀ ਕਰਨ ਨੂੰ ਸਧਾਰੋ।"
+  },
+  {
+    "question": "Challenges in organic certification for small farms",
+    "answer_en": "Support certification process, training, and subsidies for organic farmers in Punjab.",
+    "answer_hi": "छोटे खेतों के लिए ऑर्गेनिक प्रमाणन में चुनौतियाँ, प्रमाणन प्रक्रिया, प्रशिक्षण और सब्सिडी का समर्थन करें।",
+    "answer_pa": "ਛੋਟੇ ਖੇਤਾਂ ਲਈ ਆਰਗੈਨਿਕ ਸਰਟੀਫਿਕੇਸ਼ਨ ਵਿੱਚ ਚੁਣੌਤੀਆਂ, ਸਰਟੀਫਿਕੇਸ਼ਨ ਪ੍ਰਕਿਰਿਆ, ਟ੍ਰੇਨਿੰਗ ਅਤੇ ਸਬਸਿਡੀ ਦਾ ਸਮਰਥਨ।"
+  },
+  {
+    "question": "Farmer suicides due to economic stress",
+    "answer_en": "Provide mental health support, financial counseling, and livelihood programs in Punjab.",
+    "answer_hi": "आर्थिक तनाव के कारण किसान आत्महत्याएँ, मानसिक स्वास्थ्य समर्थन, वित्तीय परामर्श और आजीविका कार्यक्रम प्रदान करें।",
+    "answer_pa": "ਆਰਥਿਕ ਤਣਾਅ ਕਾਰਨ ਕਿਸਾਨਾਂ ਦੀਆਂ ਆਤਮਹੱਤਿਆਵਾਂ, ਮਾਨਸਿਕ ਸਿਹਤ ਸਹਾਇਤਾ, ਵਿੱਤੀ ਸਲਾਹ ਅਤੇ ਜੀਵਿਕਾ ਕਾਰਜਕ੍ਰਮ।"
+  },
+  {
+    "question": "Air pollution affecting crop quality (esp. paddy straw burning)",
+    "answer_en": "Promote mechanized residue management, bio-decomposers, and awareness programs in Punjab.",
+    "answer_hi": "हवा प्रदूषण से फसल की गुणवत्ता प्रभावित (विशेष रूप से धान के भूसा जलाने), यंत्रित अवशेष प्रबंधन, जैव अपघटक और जागरूकता कार्यक्रम अपनाएँ।",
+    "answer_pa": "ਹਵਾ ਪ੍ਰਦੂਸ਼ਣ ਕਾਰਨ ਫਸਲ ਦੀ ਗੁਣਵੱਤਾ ਪ੍ਰਭਾਵਿਤ (ਖਾਸ ਕਰਕੇ ਚੌਲ ਦੇ ਭੂਸੇ ਸੜਾਉਣ), ਮਕੈਨਾਈਜ਼ਡ ਬਚਤ ਪ੍ਰਬੰਧਨ, ਬਾਇਓ-ਡੀਕੰਪੋਜ਼ਰ ਅਤੇ ਜਾਗਰੂਕਤਾ ਕਾਰਜਕ੍ਰਮ।"
+  }
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

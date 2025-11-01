@@ -1,0 +1,710 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>Kisaan AI — All-in-One (Updated)</title>
+
+<!-- libs -->
+<script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@4.20.0/dist/tf.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js"></script>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&family=Noto+Sans+Devanagari&family=Noto+Sans+Gujarati&display=swap" rel="stylesheet">
+
+<style>
+:root{
+  --accent:#2f6d31; --muted:#f6faf6; --bg:#f3f7f3; --card:#ffffff;
+  --glass: rgba(255,255,255,0.6);
+}
+*{box-sizing:border-box}
+html,body{height:100%;margin:0;background:var(--bg);font-family:Inter,Arial,sans-serif;color:#0b2b16}
+.app{max-width:1100px;margin:18px auto;border-radius:12px;background:linear-gradient(180deg,#fff,#fbfff8);box-shadow:0 20px 50px rgba(12,34,12,0.08);overflow:hidden;display:grid;grid-template-columns:360px 1fr;min-height:80vh}
+.sidebar{padding:16px;border-right:1px solid #eef7ee;background:linear-gradient(180deg,#f8fff5,#f3fbf7)}
+.brand{display:flex;align-items:center;gap:10px;margin-bottom:12px}
+.brand .logo{width:44px;height:44px;background:var(--accent);border-radius:8px;display:flex;align-items:center;justify-content:center;color:white;font-weight:700}
+h1{font-size:16px;margin:0}
+.p{font-size:12px;color:#3b6f45;margin-top:4px}
+
+.section{margin-top:12px}
+.select{padding:8px;border-radius:8px;border:1px solid #e6efe6;width:100%}
+
+.quick-questions{display:flex;flex-wrap:wrap;gap:8px;margin-top:10px}
+.quick-questions button{background:#eaf6ea;border:1px solid #d6edd4;color:var(--accent);padding:8px 10px;border-radius:8px;cursor:pointer;font-size:13px}
+
+.helper-grid{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin-top:10px}
+.small-btn{padding:8px;border-radius:8px;border:1px solid #e6efe6;background:white;cursor:pointer;font-size:13px}
+
+.center{padding:16px;display:flex;flex-direction:column;gap:8px}
+.header-row{display:flex;justify-content:space-between;align-items:center}
+.controls{display:flex;gap:8px;align-items:center}
+.input-row{display:flex;gap:8px;margin-top:8px}
+input[type="text"]{flex:1;padding:10px;border-radius:8px;border:1px solid #e6efe6}
+.btn{background:var(--accent);color:#fff;padding:10px 12px;border-radius:8px;border:none;cursor:pointer}
+.mic{background:#0b6a3e;padding:8px;border-radius:8px;color:white;border:none}
+.chatbox{flex:1;padding:16px;overflow:auto;background:var(--card);border-radius:8px;margin:8px 0;min-height:360px}
+.msg{margin:8px 0;padding:10px;border-radius:10px;max-width:78%;line-height:1.4;position:relative}
+.msg.user{background:#e6f9e6;margin-left:auto;text-align:right}
+.msg.bot{background:#f7f7f7;margin-right:auto;text-align:left}
+.meta{font-size:11px;color:#666;margin-top:6px}
+.timestamp{font-size:11px;color:#9aa99a;margin-left:8px}
+.controls-bottom{display:flex;gap:8px;align-items:center;margin-top:6px}
+.small-link{font-size:12px;color:#2f6d31;cursor:pointer;text-decoration:underline}
+
+.footer-actions{display:flex;gap:8px;align-items:center;margin-top:10px}
+.card{background:white;padding:10px;border-radius:8px;border:1px solid #eef7ee}
+
+.bottom-sheet{position:fixed;left:50%;transform:translateX(-50%) translateY(120%);bottom:18px;width:min(820px,calc(100% - 32px));background:#fff;border-radius:12px;box-shadow:0 16px 40px rgba(0,0,0,0.12);transition:transform .28s,opacity .28s;opacity:0;z-index:1200;overflow:hidden}
+.bottom-sheet.open{transform:translateX(-50%) translateY(0);opacity:1}
+
+.topbar-actions{display:flex;gap:8px;align-items:center}
+.switch{display:flex;gap:8px;align-items:center}
+.hindi{font-family:'Noto Sans Devanagari',sans-serif}
+.guj{font-family:'Noto Sans Gujarati',sans-serif}
+
+.logo-small{width:28px;height:28px;background:#fff;border-radius:6px;display:flex;align-items:center;justify-content:center;font-weight:700;color:var(--accent)}
+.clear-btn{background:#fff;border:1px solid #e8efe8;padding:8px;border-radius:8px;cursor:pointer}
+
+/* DARK mode */
+.dark{background:#0b1620;color:#d7e9d8}
+.dark .app{background:#07120a}
+@media(max-width:900px){
+  .app{grid-template-columns:1fr;min-height:100vh}
+  .sidebar{order:2}
+}
+</style>
+</head>
+<body>
+
+<div class="app" id="appRoot">
+  <div class="sidebar">
+    <div class="brand">
+      <div class="logo">🌾</div>
+      <div>
+        <h1>Kisaan AI</h1>
+        <div class="p">Hamari Awaaz, Hamara Radio</div>
+      </div>
+    </div>
+
+    <div class="section card">
+      <label>Language</label>
+      <select id="language" class="select" onchange="onLanguageChange()">
+        <option value="hi">Hindi</option>
+        <option value="en">English</option>
+        <option value="pa">Punjabi</option>
+        <option value="gu">Gujarati</option>
+      </select>
+
+      <div style="margin-top:8px;display:flex;gap:8px">
+        <button class="small-btn" onclick="toggleDark()">Toggle Theme</button>
+        <button class="small-btn" onclick="clearChat()">Clear Chat</button>
+      </div>
+
+      <div style="margin-top:10px">
+        <label>Quick Questions</label>
+        <div class="quick-questions" id="quickList"></div>
+      </div>
+
+      <div class="section">
+        <label>Voice</label>
+        <div style="display:flex;gap:8px;margin-top:6px">
+          <select id="voiceGender" class="select" style="flex:1">
+            <option value="female">Female</option>
+            <option value="male">Male</option>
+          </select>
+          <button class="small-btn" onclick="downloadChatPDF()">Export PDF</button>
+        </div>
+      </div>
+
+      <div class="section helper-grid">
+        <button class="small-btn" onclick="showPesticideCalc()">Pesticide Calc</button>
+        <button class="small-btn" onclick="showFertilizerSchedule()">Fertilizer Sch</button>
+        <button class="small-btn" onclick="toggleSave()">Toggle Save</button>
+        <button class="small-btn" onclick="shareWhatsApp()">Share</button>
+      </div>
+
+      <div style="margin-top:10px;font-size:12px;color:#556">
+        <div><strong>Chat saved:</strong> <span id="savedIndicator">No</span></div>
+        <div style="margin-top:6px">Backend: <code>http://localhost:5000</code></div>
+      </div>
+
+    </div>
+  </div>
+
+  <div class="center">
+    <div class="header-row">
+      <div style="display:flex;gap:12px;align-items:center">
+        <div class="logo-small">KI</div>
+        <div>
+          <div style="font-weight:700">Kisaan AI — आपका कृषि सहायक</div>
+          <div style="font-size:12px;color:#6b8f6b">Dataset-first • LLM backend • Disease Detector</div>
+        </div>
+      </div>
+
+      <div class="topbar-actions">
+        <div class="switch">
+          <label style="font-size:13px;color:#4b6f4b">Auto-detect</label>
+          <input type="checkbox" id="autoDetect" checked />
+        </div>
+      </div>
+    </div>
+
+    <div id="chat" class="chatbox"></div>
+
+    <div class="controls">
+      <div style="flex:1;display:flex;gap:8px">
+        <input id="userInput" type="text" placeholder="Type your question..." onkeydown="if(event.key==='Enter') sendMessage()" />
+        <input id="imageInput" type="file" accept="image/*" style="width:180px" />
+      </div>
+      <div style="display:flex;gap:8px;align-items:center;margin-top:8px">
+        <button class="btn" onclick="sendMessage()">Send</button>
+        <button class="mic" onclick="startListening()">🎤</button>
+        <button class="clear-btn" onclick="previewImage()">Preview</button>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<!-- bottom sheet for features -->
+<div id="modal" class="bottom-sheet" aria-hidden="true">
+  <div class="sheet-inner">
+    <div class="sheet-left" id="modalContent"></div>
+    <div class="sheet-right">
+      <div id="detectedMeta" style="font-weight:700">—</div>
+      <button class="download-btn" onclick="closeModal()">Close</button>
+    </div>
+  </div>
+</div>
+
+<script>
+/* ================================ CONFIG / STATE ================================ */
+const BACKEND_BASE = "http://localhost:5000";
+const ASK_ENDPOINT = `${BACKEND_BASE}/api/ask-llm`;
+const CHAT_ENDPOINT = `${BACKEND_BASE}/api/chat`;
+const TM_MODEL_ROOT = 'https://rexsimiloluwah.github.io/PLANT-DISEASE-CLASSIFIER-WEB-APP-TENSORFLOWJS/';
+const MODEL_URL = TM_MODEL_ROOT + 'tensorflowjs-model/model.json';
+const METADATA_URL = TM_MODEL_ROOT + 'metadata.json';
+
+let dataset = [];
+let quickQnA = { hi: [], en: [], pa: [], gu: [] };
+let currentLanguage = 'hi';
+let chatHistory = [];
+let autosave = true;
+let saveKey = 'kisaan_chat_v1';
+let model = null, labels = null, modelLoadingPromise = null;
+let lastDetectedClass = null, lastDetectedConfidence = null, currentSolutionLang = 'hi';
+
+/* ================================ LOCAL DATASETS ================================= */
+// small sample dataset; if dataset.json exists will override
+const builtinDataset = [
+  { question_en:"Best fertilizer for wheat?", answer_en:"Use NPK mix; apply urea at tillering.", question_hi:"गेहूँ के लिए सबसे अच्छा खाद?", answer_hi:"गेहूँ के लिए NPK मिश्रण; टिलरिंग में यूरिया लगाएँ.", question_pa:"ਗੈਂਹੂੰ ਲਈ ਸਭ ਤੋਂ ਵਧੀਆ ਖਾਦ?", answer_pa:"NPK ਮਿਕਸ ਵਰਤੋ; ਟਿਲਰਿੰਗ 'ਤੇ ਯੂਰਿਆ ਲਾਓ.", question_gu:"ગહૂંક માટે શ્રેષ્ઠ ખાતર?", answer_gu:"NPK મિશ્રણ અને યુરિયા શિપ્ત કરો."},
+  { question_en:"How to improve soil health?", answer_en:"Add compost, crop rotation, and organic manures.", question_hi:"मिट्टी की उर्वरता कैसे बढ़ाएँ?", answer_hi:"हरी खाद, फसल चक्र और गोबर खाद डालें.", question_pa:"ਮਿੱਟੀ ਦੀ ਉਰਵਰਤਾ ਕਿਵੇਂ ਵਧਾਈਏ?", answer_pa:"ਕੰਪੋਸਟ ਤੇ ਜੈਵਿਕ ਖਾਦ ਵਰਤੋ.", question_gu:"મિટ્ટીની પદાર્થતા કેવી રીતે વધારવી?", answer_gu:"કોમ્પોસ્ટ અને જૈવિક ખાતર ઉમેરો."},
+  { question_en:"How to treat leaf curl disease?", answer_en:"Prune affected branches, use recommended insecticides.", question_hi:"लीफ कर्ल बीमारी का उपचार कैसे करें?", answer_hi:"प्रभावित शाखाएँ काटें और अनुशंसित कीटनाशक लगाएँ.", question_pa:"ਲੀਫ ਕ੍ਰਲ ਦਾ ਇਲਾਜ?", answer_pa:"ਪ੍ਰਭਾਵਿਤ ਟਹਿਨੀਆਂ ਕਾਟੋ ਅਤੇ ਦਵਾਈ ਲਗਾਓ.", question_gu:"લીફ કર્લ রোগનો ઉપાય?", answer_gu:"ગ્રસરત શાખાઓ દૂર કરો અને કીટનાશકનો ઉપયોગ કરો."}
+];
+
+/* quick questions fallback sets */
+const builtinQuick = {
+  hi: ["गेहूं की पैदावार कैसे बढ़ाएँ?","कपास के लिए सबसे अच्छा खाद कौन सा है?","सरसों की बुवाई कब करें?","लीफ कर्ल बीमारी का उपचार कैसे करें?","मिट्टी की उर्वरता कैसे बढ़ाएँ?"],
+  en: ["How to increase wheat yield?","Best fertilizer for cotton?","When should we sow mustard?","How to treat leaf curl disease?","How to improve soil health?"],
+  pa: ["ਗੈਂਹੂੰ ਦੀ ਪੈਦਾਵਾਰ ਕਿਵੇਂ ਵਧਾਈਏ?","ਕਪਾਹ ਲਈ ਸਭ ਤੋਂ ਵਧੀਆ ਖਾਦ ਕਿਹੜੀ ਹੈ?","ਸਰੋਂ ਦੀ ਬਿਜਾਈ ਕਦੋਂ ਕਰੀਏ?","ਲੀਫ ਕ੍ਰਲ ਬਿਮਾਰੀ ਦਾ ਇਲਾਜ ਕਿਵੇਂ ਕਰੀਏ?","ਮਿੱਟੀ ਦੀ ਉਰਵਰਤਾ ਕਿਵੇਂ ਵਧਾਈਏ?"],
+  gu: ["ગહુ્મ માટે શ્રેષ્ઠ ખાતર શું છે?","માટી કેવી રીતે સુધારવી?","સરસોનું વાવેતર ક્યારે કરવું?","પથારી રોગનું ઉપાય શું છે?","ચારા માટે ખાદર કઈ રીતે વ્યક્ત થાય?" ]
+};
+
+/* ================================ INIT ================================= */
+const chatEl = document.getElementById('chat');
+const quickListEl = document.getElementById('quickList');
+const savedIndicator = document.getElementById('savedIndicator');
+
+function loadDataset(){
+  fetch('dataset.json').then(r=>r.json()).then(data=>{
+    dataset = data;
+    // map quick
+    quickQnA.hi = dataset.slice(0,6).map(d=>({question:d.question_hi||d.question||d.question_en, answer:d.answer_hi||d.answer_en||d.answer}));
+    quickQnA.en = dataset.slice(0,6).map(d=>({question:d.question_en||d.question||d.question_hi, answer:d.answer_en||d.answer_hi||d.answer}));
+    quickQnA.pa = dataset.slice(0,6).map(d=>({question:d.question_pa||d.question||d.question_en, answer:d.answer_pa||d.answer_en||d.answer}));
+    quickQnA.gu = dataset.slice(0,6).map(d=>({question:d.question_gu||d.question||d.question_en, answer:d.answer_gu||d.answer_en||d.answer}));
+    renderQuick();
+  }).catch(e=>{
+    // fallback to builtin
+    quickQnA.hi = builtinQuick.hi.map(q=>({question:q,answer:''}));
+    quickQnA.en = builtinQuick.en.map(q=>({question:q,answer:''}));
+    quickQnA.pa = builtinQuick.pa.map(q=>({question:q,answer:''}));
+    quickQnA.gu = builtinQuick.gu.map(q=>({question:q,answer:''}));
+    // and dataset minimal
+    dataset = builtinDataset;
+    renderQuick();
+  });
+}
+loadDataset();
+
+/* ================================ UI / Quick Questions ================================ */
+function renderQuick(){
+  quickListEl.innerHTML='';
+  const arr = quickQnA[currentLanguage] && quickQnA[currentLanguage].length ? quickQnA[currentLanguage] : (builtinQuick[currentLanguage]||[]);
+  (Array.isArray(arr)?arr:[]).forEach(it=>{
+    const text = typeof it === 'string' ? it : it.question;
+    const btn = document.createElement('button');
+    btn.innerText = text; btn.className='';
+    btn.onclick = ()=> { document.getElementById('userInput').value = text; sendMessage(); };
+    quickListEl.appendChild(btn);
+  });
+}
+
+/* ================================ Helpers: detect scripts & translate ================================ */
+function detectScriptLang(text){
+  if(!text) return 'und';
+  if(/[\u0900-\u097F]/.test(text)) return 'hi';   // Devanagari
+  if(/[\u0A00-\u0A7F]/.test(text)) return 'pa';   // Gurmukhi
+  if(/[\u0A80-\u0AFF]/.test(text)) return 'gu';   // Gujarati range
+  if(/[A-Za-z]/.test(text)) return 'en';
+  return 'und';
+}
+
+async function translateText(text, targetLang){
+  if(!text) return '';
+  // Map gu->gu, pa->pa, hi->hi, en->en
+  try{
+    const sl = 'auto';
+    const tl = targetLang;
+    const url = `https://translate.googleapis.com/translate_a/single?client=gtx&sl=${sl}&tl=${encodeURIComponent(tl)}&dt=t&q=${encodeURIComponent(text)}`;
+    const res = await fetch(url);
+    if(!res.ok) throw new Error('translate failed');
+    const data = await res.json();
+    return data[0].map(p=>p[0]).join('');
+  }catch(e){
+    console.warn('translateText error', e);
+    return text;
+  }
+}
+
+/* ================================ Persistence ================================ */
+function saveChat(){
+  if(!autosave) return;
+  try{
+    localStorage.setItem(saveKey, JSON.stringify(chatHistory));
+    savedIndicator.innerText = 'Yes';
+  }catch(e){ console.warn(e); savedIndicator.innerText='Err'; }
+}
+function loadChat(){
+  const raw = localStorage.getItem(saveKey);
+  if(!raw) return;
+  try{
+    const arr = JSON.parse(raw);
+    chatHistory = arr;
+    chatEl.innerHTML='';
+    arr.forEach(m=>{
+      const el = createMessageEl(m.text, m.role, m.ts);
+      chatEl.appendChild(el);
+    });
+    chatEl.scrollTop = chatEl.scrollHeight;
+    savedIndicator.innerText = 'Yes';
+  }catch(e){ console.warn(e); }
+}
+function toggleSave(){ autosave = !autosave; document.getElementById('savedIndicator').innerText = autosave ? 'Yes' : 'No'; }
+loadChat();
+
+/* ================================ Chat Rendering Helpers ================================ */
+function formatTime(ts = Date.now()){
+  const d = new Date(ts);
+  return d.toLocaleString();
+}
+function createMessageEl(text, role='bot', ts=Date.now()){
+  const div = document.createElement('div');
+  div.className = 'msg ' + (role==='user' ? 'user' : 'bot');
+  div.innerText = text;
+  const meta = document.createElement('div');
+  meta.className = 'meta';
+  meta.innerHTML = `<span class="timestamp">${formatTime(ts)}</span> <button style="margin-left:8px" onclick="speak('${escapeForSpeech(text)}')">🔊</button>`;
+  div.appendChild(meta);
+  return div;
+}
+function appendChat(text, role='bot'){
+  const ts = Date.now();
+  chatHistory.push({ role, text, ts });
+  const el = createMessageEl(text, role, ts);
+  chatEl.appendChild(el);
+  chatEl.scrollTop = chatEl.scrollHeight;
+  saveChat();
+}
+
+/* escape single quotes for inline speak call */
+function escapeForSpeech(s){ return (s||'').replace(/'/g,"\\'").replace(/\n/g,' '); }
+
+/* ================================ Find in dataset (language aware) ================================ */
+function findAnswerRaw(q){
+  const ql = (q||'').toLowerCase().trim();
+  if(!ql) return {answer:null, source:'none'};
+  // check quick dataset for currentLanguage
+  const list = quickQnA[currentLanguage] || [];
+  for(const it of list){
+    const text = (typeof it==='string'?it:it.question||'').toLowerCase();
+    if(text && (text.includes(ql) || ql.includes(text))) return { answer: (it.answer||''), source:'dataset' };
+  }
+  // search full dataset across fields
+  let best=null, max=0;
+  for(const it of dataset){
+    const field = (it['question_' + currentLanguage] || it.question || it['question_en']||'').toLowerCase();
+    const words = ql.split(/\s+/).filter(Boolean);
+    let score=0; words.forEach(w=>{ if(field.includes(w)) score++; });
+    if(score>max){ max=score; best=it; }
+  }
+  if(best && max>=1){
+    const ans = best['answer_'+currentLanguage] || best.answer || best.answer_en || '';
+    return { answer: ans, source:'dataset' };
+  }
+  return { answer:null, source:'none' };
+}
+
+/* ================================ Backend wrapper (translate in/out) ================================ */
+async function askLLMWithTranslate(userText){
+  try{
+    let detected = detectScriptLang(userText);
+    let payload = userText;
+    if(detected==='hi' || detected==='pa' || detected==='gu'){
+      payload = await translateText(userText,'en');
+    }
+    // send to original backend
+    const resp = await fetch(ASK_ENDPOINT, {
+      method:'POST', headers:{'Content-Type':'application/json'}, body: JSON.stringify({ question: payload, language: 'en' })
+    });
+    if(!resp.ok) throw new Error(await resp.text());
+    const j = await resp.json();
+    let answer = j.answer || j.reply || '';
+    // translate back if needed
+    if(currentLanguage !== 'en'){
+      const back = await translateText(answer, currentLanguage);
+      return { text: back, meta: 'From LLM (translated)' };
+    }
+    return { text: answer, meta:'From LLM' };
+  }catch(e){
+    console.warn('askLLMWithTranslate', e);
+    return { text: currentLanguage==='hi' ? '⚠️ सर्वर से उत्तर नहीं मिल पाया।' : currentLanguage==='pa' ? '⚠️ ਸਰਵਰ ਤੋਂ ਜਵਾਬ ਨਹੀਂ ਮਿਲਿਆ।' : currentLanguage==='gu' ? '⚠️ સર્વરથી જવાબ મળ્યો નહીં.' : "⚠️ Couldn't get a response.", meta:'error' };
+  }
+}
+
+/* ================================ sendMessage (main flow) ================================ */
+async function sendMessage(textInput=null){
+  const input = document.getElementById('userInput');
+  const raw = (textInput!==null ? textInput : (input.value||'')).trim();
+  if(!raw) return;
+  // auto-switch language if autoDetect is set
+  if(document.getElementById('autoDetect').checked){
+    const s = detectScriptLang(raw);
+    if(s==='hi' || s==='pa' || s==='gu'){ currentLanguage = s; document.getElementById('language').value = s; renderQuick(); }
+    else { currentLanguage = document.getElementById('language').value; }
+  }
+  appendChat(raw,'user');
+  input.value='';
+
+  // fast dataset match
+  const ds = findAnswerRaw(raw);
+  if(ds.answer){
+    appendChat(ds.answer,'bot');
+    speak(ds.answer);
+    return;
+  }
+
+  // else send to backend with translation wrapper
+  const tid = appendThinking();
+  const res = await askLLMWithTranslate(raw);
+  removeThinking(tid);
+  if(res && res.text){
+    appendChat(res.text,'bot');
+    speak(res.text);
+  } else {
+    appendChat(res.text || 'No response','bot');
+  }
+}
+
+/* ================================ THINKING indicator ================================ */
+function appendThinking(){ const id='t-'+Date.now(); const el=document.createElement('div'); el.id=id; el.className='msg bot'; el.innerText='⏳ Thinking...'; chatEl.appendChild(el); chatEl.scrollTop=chatEl.scrollHeight; return id; }
+function removeThinking(id){ const e=document.getElementById(id); if(e) e.remove(); }
+
+/* ================================ TTS (improved) ================================ */
+function getPreferredVoice(prefLang, gender='female'){
+  const synth = window.speechSynthesis;
+  const voices = synth.getVoices();
+  // prefer exact locale and gender-like names
+  let v = voices.find(v=>v.lang && v.lang.toLowerCase().startsWith(prefLang.toLowerCase()) && new RegExp(gender,'i').test(v.name));
+  if(!v) v = voices.find(v=>v.lang && v.lang.toLowerCase().startsWith(prefLang.toLowerCase()));
+  if(!v) v = voices.find(v=>v.lang && v.lang.startsWith('en'));
+  return v || voices[0] || null;
+}
+function speak(text){
+  try{
+    if(!text) return;
+    const langCode = currentLanguage==='hi' ? 'hi-IN' : currentLanguage==='pa' ? 'pa-IN' : currentLanguage==='gu' ? 'gu-IN' : 'en-US';
+    const gender = document.getElementById('voiceGender').value || 'female';
+    const synth = window.speechSynthesis;
+    const utter = new SpeechSynthesisUtterance(text);
+    utter.lang = langCode;
+    const v = getPreferredVoice(langCode, gender);
+    if(v) utter.voice = v;
+    utter.rate = 0.95; utter.pitch = 1.05;
+    synth.speak(utter);
+  }catch(e){ console.warn('TTS speak error', e); }
+}
+
+/* helper: speak a specific text (button) */
+function speakTextNode(text){
+  const old = currentLanguage;
+  // do not change language permanently
+  speak(text);
+}
+
+/* ================================ Speech recognition (STT) ================================ */
+function startListening(){
+  const R = window.SpeechRecognition || window.webkitSpeechRecognition;
+  if(!R){ alert('SpeechRecognition not supported'); return; }
+  const recog = new R();
+  // for best results set lang to selected
+  recog.lang = currentLanguage==='hi' ? 'hi-IN' : currentLanguage==='pa' ? 'pa-IN' : currentLanguage==='gu' ? 'gu-IN' : 'en-US';
+  recog.onresult = e => {
+    const s = e.results[0][0].transcript;
+    document.getElementById('userInput').value = s;
+    // if backend can't understand Hindi, we translate in askLLMWithTranslate
+    sendMessage(s);
+  };
+  recog.onerror = err => { console.warn('STT err', err); };
+  recog.start();
+}
+
+/* ================================ Additional features (pesticide/fertilizer) ================================ */
+function showPesticideCalc(){
+  const html = `
+    <h3>Pesticide Dosage Calculator</h3>
+    <div>Enter field area (acres): <input id="fldArea" type="number" step="0.1" /></div>
+    <div style="margin-top:8px">Concentration (%): <input id="conc" step="0.1" type="number" value="0.1"/></div>
+    <div style="margin-top:8px"><button onclick="calcPest()">Calculate</button></div>
+    <div id="pRes" style="margin-top:8px"></div>
+  `;
+  openModal(html);
+}
+function calcPest(){
+  const a = parseFloat(document.getElementById('fldArea').value||0);
+  const c = parseFloat(document.getElementById('conc').value||0);
+  if(!a || !c){ document.getElementById('pRes').innerText='Enter valid values'; return; }
+  // simplistic: litres per acre = concentration * 10 (placeholder)
+  const liters = a * c * 10;
+  document.getElementById('pRes').innerText = `Mix ${liters.toFixed(2)} L of spray solution for ${a} acres at ${c}% concentration.`;
+}
+
+function showFertilizerSchedule(){
+  const html = `
+    <h3>Fertilizer Schedule</h3>
+    <div>Crop: <input id="schCrop" /></div>
+    <div style="margin-top:8px">Start Date: <input id="schDate" type="date" /></div>
+    <div style="margin-top:8px"><button onclick="generateFert()">Generate</button></div>
+    <div id="schRes" style="margin-top:8px"></div>
+  `;
+  openModal(html);
+}
+function generateFert(){
+  const crop = document.getElementById('schCrop').value || 'crop';
+  const d = document.getElementById('schDate').value || new Date().toISOString().slice(0,10);
+  document.getElementById('schRes').innerHTML = `<div>Schedule for ${crop} starting ${d}: <ul><li>Baseline NPK at sowing</li><li>Urea at tillering (30-45 days)</li></ul></div>`;
+}
+
+/* ================================ Modal helpers ================================ */
+function openModal(html){
+  const modal = document.getElementById('modal');
+  document.getElementById('modalContent').innerHTML = html;
+  modal.classList.add('open');
+  modal.setAttribute('aria-hidden','false');
+}
+function closeModal(){ const modal=document.getElementById('modal'); modal.classList.remove('open'); modal.setAttribute('aria-hidden','true'); }
+
+/* ================================ Image preview and disease detection integration ================================ */
+document.getElementById('imageInput').addEventListener('change', async (ev)=>{
+  const f = ev.target.files[0];
+  if(!f) return;
+  // preview
+  const reader = new FileReader();
+  reader.onload = e => {
+    openModal(`<h3>Image Preview</h3><img src="${e.target.result}" style="max-width:100%;border-radius:8px"/><div style="margin-top:8px"><button onclick="startPredict()">Diagnose</button></div>`);
+  };
+  reader.readAsDataURL(f);
+  // store file to window for predict
+  window.__uploadedImageFile = f;
+});
+
+async function startPredict(){
+  const f = window.__uploadedImageFile;
+  if(!f){ alert('No image'); return; }
+  await predictDiseaseFromFile(f);
+}
+
+/* MODEL loader & predict (kept from original but optimized minor) */
+async function ensureModelLoaded(){
+  if(model && labels) return;
+  if(modelLoadingPromise) { await modelLoadingPromise; return; }
+  modelLoadingPromise = (async ()=>{
+    appendChat('⏳ Loading disease detection model...','bot');
+    try{
+      const metaResp = await fetch(METADATA_URL).catch(()=>null);
+      if(metaResp && metaResp.ok){
+        const meta = await metaResp.json().catch(()=>null);
+        if(meta && Array.isArray(meta.labels) && meta.labels.length>0) labels = meta.labels;
+      }
+    }catch(e){}
+    try{
+      model = await tf.loadGraphModel(MODEL_URL).catch(()=>null);
+      if(!model) model = await tf.loadLayersModel(MODEL_URL);
+    }catch(err){
+      console.error('Model load failed', err);
+      appendChat('⚠️ Could not load AI model (CORS/network). Host model locally or check URLs.','bot');
+    }
+    if(!labels){
+      try{
+        const idxUrl = MODEL_URL.replace(/model\.json$/,'class_indices.json');
+        const r = await fetch(idxUrl).catch(()=>null);
+        if(r && r.ok){ const idxMap = await r.json(); labels = Object.keys(idxMap).sort((a,b)=>idxMap[a]-idxMap[b]); }
+      }catch(e){}
+    }
+    if(!labels) labels = Array.from({length:10},(_,i)=>`Class_${i}`);
+    appendChat('✅ Model ready. Upload a clear leaf photo.','bot');
+  })();
+  await modelLoadingPromise;
+}
+
+async function predictDiseaseFromFile(file){
+  await ensureModelLoaded();
+  if(!model || !labels){ appendChat('⚠️ Model not ready','bot'); return; }
+  appendChat(`🖼️ Image uploaded: ${file.name}`,'user');
+  try{
+    const imgBitmap = await createImageBitmap(file);
+    const off = new OffscreenCanvas(224,224);
+    const ctx = off.getContext('2d');
+    ctx.drawImage(imgBitmap,0,0,224,224);
+    const imgData = ctx.getImageData(0,0,224,224);
+    const input = tf.tidy(()=> tf.browser.fromPixels(imgData).toFloat().div(255).expandDims(0));
+    let preds = null;
+    try{ preds = model.predict(input); } catch(e){ try{ preds = model.predict({'input_1': input}); }catch(e2){ throw e2; } }
+    let values;
+    if(Array.isArray(preds)){ values = await preds[0].data(); preds.forEach(t=>t.dispose()); } else { values = await preds.data(); preds.dispose(); }
+    tf.dispose(input);
+    let bestIdx=0, bestVal=values[0];
+    for(let i=1;i<values.length;i++){ if(values[i] > bestVal){ bestVal = values[i]; bestIdx = i; } }
+    const className = (labels && labels[bestIdx]) ? labels[bestIdx] : `Class_${bestIdx}`;
+    const confidence = (bestVal*100).toFixed(1);
+    appendChat(`🧪 Detected: ${className}\n📈 Confidence: ${confidence}%`,'bot');
+    populateSheet(className, confidence);
+    speak(`${className}. Confidence ${confidence} percent.`);
+  }catch(err){
+    console.error('prediction error', err);
+    appendChat('⚠️ Could not process image. Try a clear, well-lit leaf photo.','bot');
+  }
+}
+
+/* populate sheet */
+// Expanded solution map: add practical, language-aware solutions and treatment steps. Keep concise and farmer-friendly.
+const solutionMap = {
+  "Tomato___Late_blight": {
+    hi: "लेट ब्लाइट: प्रभावित पत्तियाँ और फलों को हटा दें। मिट्टी में नमी कम करें, ज़रूरत पर कवकनाशी का छिड़काव करें (मांत्रा: मन्ज़ेब 0.2% या मेटालाक्सिल)।",
+    en: "Late blight: remove infected leaves/fruits. Reduce field moisture and apply recommended fungicides when needed (e.g. mancozeb 0.2% or metalaxyl as per label).",
+    pa: "ਲੇਟ ਬਲਾਈਟ: ਪ੍ਰਭਾਵਿਤ ਪੱਤੇ ਅਤੇ ਫਲ ਹਟਾਓ। ਮਿੱਟੀ ਦੀ ਨਮੀ ਘਟਾਓ ਅਤੇ ਜ਼ਰੂਰਤ ਤੇ ਫਂਗਿਸਾਈਡ ਦੀ ਛਿੜਕਾਈ ਕਰੋ (ਉਦਾਹਰਣ: mancozeb 0.2% ).",
+    gu: "લેટે બ્લાઇટ: અસરગ્રસ્ત પાંદડા અને ફળ દૂર કરો. જમીનમાં ભેજ નિયંત્રિત કરો અને જરૂરી હોય તો અનુશંસિત ફંગિસાઇડનો છિડકાવ કરો."
+  },
+  "Tomato___Early_blight": {
+    hi: "अर्ली ब्लाइट: प्रभावित पत्तियाँ निकालें, फसलों के बीच वेंटिलेशन बढ़ाएँ। नियंत्रित पर फंगिसाइड उपयोग करें।",
+    en: "Early blight: remove affected leaves, improve ventilation, and apply registered fungicides if necessary.",
+    pa: "ਅਰਲੀ ਬਲਾਈਟ: ਪ੍ਰਭਾਵਿਤ ਪੱਤੇ ਹਟਾਓ ਅਤੇ ਵੈਂਟਿਲੇਸ਼ਨ ਵਧਾਓ।",
+    gu: "અર્લી બ્લાઇટ: અસરગ્રસ્ત પાંદડા કાપો અને હવાનીબરાબર થવાની વ્યવસ્થા કરો."
+  },
+  "Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
+    hi: "टमाटर येलो लीफ कर्ल वायरस: संक्रमित पौधों को हटाएँ और बीटल-प्रबंधन करें। बीटल नियंत्रण के लिए पत्ती-छिड़काव और बोर्डर क्रॉप का उपयोग करें।",
+    en: "Tomato yellow leaf curl virus: remove infected plants, control whitefly vectors and use resistant varieties if available.",
+    pa: "ਟਮਾਟਰ ਯੈਲੋ ਲੀਫ ਕਰਲ: ਸੰਕ੍ਰਮਿਤ ਬੂਟਿਆਂ ਨੂੰ ਹਟਾਓ ਅਤੇ ਸਫੈਦ ਮੱਖੀ ਨਿਯੰਤ੍ਰਣ ਕਰੋ।",
+    gu: "ટમેટો યેલો લીફ કર્લ વાયરસ: સંક્રમિત છોડ દૂર કરો અને વ્હાઈટફ્લાય નિયંત્રણ કરો."
+  },
+  "Tomato___healthy": {
+    hi: "पौधा स्वस्थ दिखता है — सामान्य निगरानी रखें और आवश्यक पोषण व सिंचाई दें।",
+    en: "Plant looks healthy — continue routine monitoring and provide balanced nutrition and irrigation.",
+    pa: "ਪੌਦਾ ਸਿਹਤਮੰਦ ਲੱਗਦਾ ਹੈ — ਨਿਗਰਾਨੀ ਜਾਰੀ ਰੱਖੋ।",
+    gu: "પૌધો સ્વસ્થ દેખાય છે — નિયમિત નિરીક્ષણ ચાલુ રાખો."
+  }
+};
+
+function parseClassName(name){ if(!name||name==='Unknown') return {crop:'Unknown', disease:'Unknown'}; const parts=name.split('___'); return {crop: parts[0]||'Unknown', disease:(parts[1]||'Unknown').replace(/_/g,' ')} }
+
+function populateSheet(className, confidence){
+  lastDetectedClass = className; lastDetectedConfidence = confidence; const {crop,disease} = parseClassName(className);
+  const entry = solutionMap[className] ? solutionMap[className] : null;
+  // build a helpful, multi-line solution including steps, preventive measures, and safe recommendations
+  const solText = entry ? (entry[currentLanguage] || entry.en) : (currentLanguage==='hi' ? 'कोई समाधान उपलब्ध नहीं। पक्का निदान के लिए स्पष्‍ट तस्वीªर और स्थानीय कृषि परामर्श लें।' : 'No solution available. For accurate diagnosis provide a clearer image and consult local extension services.');
+  const content = `<div style="padding:12px">
+    <h3>${crop} — ${disease}</h3>
+    <p><strong>Confidence:</strong> ${confidence}%</p>
+    <p>${solText}</p>
+    <hr />
+    <div><strong>${ currentLanguage==='hi' ? 'स्टेप्स:' : currentLanguage==='pa' ? 'ਕਦਮ:' : currentLanguage==='gu' ? 'ધીરાં:' : 'Steps:' }</strong></div>
+    <ol>
+      <li>${ currentLanguage==='hi' ? 'प्रभावित हिस्से हटाएँ और सुरक्षित रीति से नष्ट करें।' : currentLanguage==='pa' ? 'ਪ੍ਰਭਾਵਿਤ ਹਿੱਸੇ ਹਟਾਓ।' : currentLanguage==='gu' ? 'અસરગ્રસ્ત ભાગ દૂર કરો.' : 'Remove affected parts and destroy safely.' }</li>
+      <li>${ currentLanguage==='hi' ? 'नियमित निगरानी रखें और पानी का प्रबंधन करें।' : currentLanguage==='pa' ? 'ਨਿਗਰਾਨੀ ਜਾਰੀ ਰੱਖੋ।' : currentLanguage==='gu' ? 'નિયંત્રણ રાખો અને પાણીનું સંચાલન કરો.' : 'Monitor regularly and manage irrigation.' }</li>
+      <li>${ currentLanguage==='hi' ? 'यदि रासायनिक उपचार आवश्यक है तो लोकल निर्देशों के अनुसार ही प्रयोग करें।' : currentLanguage==='pa' ? 'ਦਵਾਈਆਂ ਸਿਰਫ਼ ਹਦਾਇਤ ਅਨੁਸਾਰ ਵਰਤੋਂ।' : currentLanguage==='gu' ? 'કેમીકલ જરૂરિયાત હોઈ ત્યારે સ્થાનિક સુચના મુજબ જ ઉપયોગ કરો.' : 'Use chemicals only as per local recommendations.' }</li>
+    </ol>
+    <div style="margin-top:8px;display:flex;gap:8px">
+      <button onclick="downloadSolutionPDF('${escapeForSpeech(crop)}','${escapeForSpeech(disease)}','${confidence}')">${ currentLanguage==='hi' ? 'सॉल्यूशन PDF' : currentLanguage==='pa' ? 'ਸੋਲਿਊਸ਼ਨ PDF' : currentLanguage==='gu' ? 'સોલ્યુશન PDF' : 'Solution PDF' }</button>
+      <button onclick="closeModal()">${ currentLanguage==='hi' ? 'बंद करें' : currentLanguage==='pa' ? 'ਬੰਦ' : currentLanguage==='gu' ? 'બંધ કરો' : 'Close' }</button>
+    </div>
+  </div>`;
+  openModal(content);
+}
+
+/* ================================ PDF / Export / WhatsApp ================================ */
+function downloadChatPDF(){
+  const { jsPDF } = window.jspdf;
+  const doc = new jsPDF();
+  doc.setFontSize(14); doc.text("Kisaan AI Chat Export", 20, 20);
+  let y = 36;
+  chatHistory.forEach(m=>{
+    const prefix = m.role==='user' ? 'You: ' : 'Kisaan AI: ';
+    const lines = doc.splitTextToSize(prefix + m.text, 160);
+    doc.text(lines, 20, y);
+    y += lines.length*7 + 6;
+    if(y>260){ doc.addPage(); y=20; }
+  });
+  doc.save('kisaan_chat.pdf');
+}
+
+// Download specific solution as PDF
+function downloadSolutionPDF(crop, disease, confidence){
+  const { jsPDF } = window.jspdf;
+  const doc = new jsPDF();
+  doc.setFontSize(16); doc.text(`${crop} — ${disease}`, 14, 20);
+  doc.setFontSize(12);
+  const sol = solutionMap[lastDetectedClass] ? (solutionMap[lastDetectedClass][currentLanguage] || solutionMap[lastDetectedClass].en) : (currentLanguage==='hi' ? 'कोई समाधान उपलब्ध नहीं।' : 'No solution available.');
+  const lines = doc.splitTextToSize(`Confidence: ${confidence}%\n\n${sol}`, 170);
+  doc.text(lines, 14, 36);
+  doc.save(`${crop.replace(/\s+/g,'_')}_solution.pdf`);
+}
+
+function shareWhatsApp(){
+  const txt = chatHistory.map(m=> (m.role==='user'?'You: ':'AI: ') + m.text).join('\n');
+  const url = `https://wa.me/?text=${encodeURIComponent(txt)}`;
+  window.open(url,'_blank');
+}
+
+/* ================================ Helpers: Clear, Preview, UI ================================ */
+function clearChat(){ chatHistory=[]; chatEl.innerHTML=''; localStorage.removeItem(saveKey); savedIndicator.innerText='No'; }
+function previewImage(){ const f = window.__uploadedImageFile; if(!f) return alert('No image selected'); const url = URL.createObjectURL(f); openModal(`<img src="${url}" style="max-width:100%"/>`); }
+
+/* ================================ Misc Helpers ================================ */
+function onLanguageChange(){ currentLanguage = document.getElementById('language').value; currentSolutionLang = currentLanguage; renderQuick(); }
+function toggleDark(){ document.body.classList.toggle('dark'); }
+
+/* ================================ Init small UI & voices ================================ */
+window.speechSynthesis.onvoiceschanged = ()=>{ /* noop */ };
+renderQuick();
+
+/* expose */
+window.sendMessage = sendMessage;
+window.startListening = startListening;
+window.predictDiseaseFromFile = predictDiseaseFromFile;
+window.downloadSolutionPDF = downloadSolutionPDF;
+window.toggleSave = toggleSave;
+</script>
+</body>
+</html>
