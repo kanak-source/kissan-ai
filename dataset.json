@@ -1672,6 +1672,486 @@
     "answer_en": "Promote mechanized residue management, bio-decomposers, and awareness programs in Punjab.",
     "answer_hi": "हवा प्रदूषण से फसल की गुणवत्ता प्रभावित (विशेष रूप से धान के भूसा जलाने), यंत्रित अवशेष प्रबंधन, जैव अपघटक और जागरूकता कार्यक्रम अपनाएँ।",
     "answer_pa": "ਹਵਾ ਪ੍ਰਦੂਸ਼ਣ ਕਾਰਨ ਫਸਲ ਦੀ ਗੁਣਵੱਤਾ ਪ੍ਰਭਾਵਿਤ (ਖਾਸ ਕਰਕੇ ਚੌਲ ਦੇ ਭੂਸੇ ਸੜਾਉਣ), ਮਕੈਨਾਈਜ਼ਡ ਬਚਤ ਪ੍ਰਬੰਧਨ, ਬਾਇਓ-ਡੀਕੰਪੋਜ਼ਰ ਅਤੇ ਜਾਗਰੂਕਤਾ ਕਾਰਜਕ੍ਰਮ।"
+  },
+  {
+    "question_en": "How to improve soil fertility for better crop yield?",
+    "question_hi": "फसल की पैदावार बढ़ाने के लिए मिट्टी की उर्वरता कैसे बढ़ाएँ?",
+    "question_pa": "ਫਸਲ ਦੀ ਪੈਦਾਵਾਰ ਵਧਾਉਣ ਲਈ ਮਿੱਟੀ ਦੀ ਉਰਵਰਤਾ ਕਿਵੇਂ ਸੁਧਾਰੀਏ?",
+    "answer_en": "Get a soil test done every 6 months, apply balanced NPK fertilizers as per the report, mix organic manure/compost, and use crop rotation to maintain soil health.",
+    "answer_hi": "हर 6 महीने मिट्टी की जाँच कराएँ, रिपोर्ट अनुसार संतुलित NPK उर्वरक डालें, जैविक खाद/गोबर की खाद मिलाएँ और फसल चक्र अपनाएँ।",
+    "answer_pa": "ਹਰ 6 ਮਹੀਨੇ ਮਿੱਟੀ ਦੀ ਜਾਂਚ ਕਰਵਾਓ, ਰਿਪੋਰਟ ਅਨੁਸਾਰ ਸੰਤੁਲਿਤ NPK ਖਾਦ ਪਾਓ, ਜੈਵਿਕ ਖਾਦ ਮਿਲਾਓ ਅਤੇ ਫਸਲ ਚੱਕਰ ਅਪਣਾਓ।"
+  },
+  {
+    "question_en": "Best way to prevent pest attacks in vegetables?",
+    "question_hi": "सब्जियों में कीट लगने से बचाने का सबसे अच्छा तरीका क्या है?",
+    "question_pa": "ਸਬਜ਼ੀਆਂ 'ਚ ਕੀੜਿਆਂ ਤੋਂ ਬਚਾਉਣ ਦਾ ਸਭ ਤੋਂ ਵਧੀਆ ਤਰੀਕਾ ਕੀ ਹੈ?",
+    "answer_en": "Use neem-based organic sprays weekly, avoid over-watering, keep field clean, and install yellow sticky traps for early pest control.",
+    "answer_hi": "नीम आधारित जैविक स्प्रे हफ्ते में एक बार करें, ज़्यादा पानी न दें, खेत साफ रखें और कीट पकड़ने वाली पीली स्टिकी ट्रैप लगाएँ।",
+    "answer_pa": "ਨੀਮ ਅਧਾਰਿਤ ਜੈਵਿਕ ਛਿੜਕਾਅ ਹਫ਼ਤੇ ਵਿੱਚ ਇੱਕ ਵਾਰ ਕਰੋ, ਵੱਧ ਪਾਣੀ ਨਾ ਦਿਓ, ਖੇਤ ਸਾਫ਼ ਰੱਖੋ ਅਤੇ ਪੀਲੀ ਸਟਿੱਕੀ ਟ੍ਰੈਪ ਲਗਾਓ।"
+  },
+  {
+    "question_en": "How can farmers save water during irrigation?",
+    "question_hi": "सिचाई करते समय किसान पानी कैसे बचा सकते हैं?",
+    "question_pa": "ਸਿੰਚਾਈ ਦੌਰਾਨ ਕਿਸਾਨ ਪਾਣੀ ਕਿਵੇਂ ਬਚਾ ਸਕਦੇ ਹਨ?",
+    "answer_en": "Use drip or sprinkler irrigation, water crops early morning or evening to reduce evaporation, and mulch the soil to retain moisture.",
+    "answer_hi": "ड्रिप या स्प्रिंकलर सिचाई अपनाएँ, सुबह या शाम पानी दें ताकि पानी कम उड़े और मिट्टी पर मल्चिंग करें ताकि नमी बनी रहे।",
+    "answer_pa": "ਡ੍ਰਿਪ ਜਾਂ ਸਪ੍ਰਿੰਕਲਰ ਸਿੰਚਾਈ ਵਰਤੋ, ਸਵੇਰੇ ਜਾਂ ਸ਼ਾਮ ਨੂੰ ਪਾਣੀ ਦਿਓ, ਮਿੱਟੀ 'ਤੇ ਮਲਚਿੰਗ ਕਰੋ ਤਾਂ ਕਿ ਨਮੀ ਬਣੀ ਰਹੇ।"
+  },
+  {
+    "question_en": "Which government scheme helps farmers buy new machinery?",
+    "question_hi": "कौन सी सरकारी योजना किसान को नई मशीन लेने में मदद करती है?",
+    "question_pa": "ਕਿਹੜੀ ਸਰਕਾਰੀ ਯੋਜਨਾ ਕਿਸਾਨਾਂ ਨੂੰ ਨਵੀਂ ਮਸ਼ੀਨ ਖਰੀਦਣ ਵਿੱਚ ਮਦਦ ਕਰਦੀ ਹੈ?",
+    "answer_en": "PM Kisan Agricultural Machinery Subsidy Scheme provides financial support for tractors, harvesters, and modern equipment at subsidized rates.",
+    "answer_hi": "PM किसान कृषि मशीनरी सब्सिडी योजना ट्रैक्टर, हार्वेस्टर और नई मशीन खरीदने पर आर्थिक सहायता देती है।",
+    "answer_pa": "PM ਕਿਸਾਨ ਖੇਤੀ ਮਸ਼ੀਨਰੀ ਸਬਸਿਡੀ ਯੋਜਨਾ ਤਹਿਤ ਟਰੈਕਟਰ, ਹਾਰਵੇਸਟਰ ਅਤੇ ਨਵੀਂ ਮਸ਼ੀਨ ਖਰੀਦਣ ਲਈ ਸਹਾਇਤਾ ਮਿਲਦੀ ਹੈ।"
+  },
+  {
+    "question_en": "What to do if leaves start turning yellow in crops?",
+    "question_hi": "अगर फसलों में पत्ते पीले होने लगें तो क्या करें?",
+    "question_pa": "ਜੇ ਫਸਲਾਂ ਦੇ ਪੱਤੇ ਪੀਲੇ ਹੋਣ ਲੱਗਣ ਤਾਂ ਕੀ ਕਰੀਏ?",
+    "answer_en": "Yellow leaves usually indicate nutrient deficiency. Spray micronutrients (Zinc + Iron) and apply recommended fertilizer as per soil report.",
+    "answer_hi": "पत्ते पीले होना पोषक तत्वों की कमी है। ज़िंक + आयरन के सूक्ष्म पोषक स्प्रे करें और रिपोर्ट अनुसार उर्वरक डालें।",
+    "answer_pa": "ਪੱਤੇ ਪੀਲੇ ਹੋਣ ਦਾ ਕਾਰਣ ਪੋਸ਼ਕ ਤੱਤਾਂ ਦੀ ਘਾਟ ਹੈ। ਜ਼ਿੰਕ + ਆਇਰਨ ਦਾ ਸਪ੍ਰੇ ਕਰੋ ਅਤੇ ਰਿਪੋਰਟ ਅਨੁਸਾਰ ਖਾਦ ਪਾਓ।"
+  },
+  {
+    "question_en": "How can dairy farmers increase milk production naturally?",
+    "question_hi": "दूध उत्पादन प्राकृतिक तरीके से कैसे बढ़ाएँ?",
+    "question_pa": "ਦੁੱਧ ਦਾ ਉਤਪਾਦਨ ਕੁਦਰਤੀ ਤਰੀਕੇ ਨਾਲ ਕਿਵੇਂ ਵਧਾਈਏ?",
+    "answer_en": "Give mineral mixture daily, provide clean water and green fodder, keep shed hygienic, and follow proper vaccination/deworming schedule.",
+    "answer_hi": "रोज़ खनिज मिश्रण दें, साफ पानी और हरा चारा दें, पशुशाला साफ रखें और टीकाकरण/कीड़ा नाशक समय पर कराएँ।",
+    "answer_pa": "ਰੋਜ਼ ਮਿਨਰਲ ਮਿਕਸ ਦਿਓ, ਸਾਫ਼ ਪਾਣੀ ਤੇ ਹਰਾ ਚਾਰਾ ਦਿਓ, ਸ਼ੈੱਡ ਸਾਫ਼ ਰੱਖੋ ਅਤੇ ਟੀਕਾਕਰਨ/ਕੀੜਾ ਨਾਸ਼ਕ ਸਮੇਂ ਤੇ ਕਰੋ।"
+  },
+  {
+    "question_en": "How to protect crops from unexpected heavy rainfall?",
+    "question_hi": "अचानक भारी बारिश से फसलों को कैसे बचाएँ?",
+    "question_pa": "ਅਚਾਨਕ ਤੇਜ਼ ਮੀਂਹ ਤੋਂ ਫਸਲਾਂ ਨੂੰ ਕਿਵੇਂ ਬਚਾਈਏ?",
+    "answer_en": "Ensure proper drainage system in the field, make raised beds for vegetables, and cover nurseries with temporary polythene sheets during rain.",
+    "answer_hi": "खेत में निकासी का अच्छा इंतज़ाम रखें, सब्जियों के लिए उठी हुई क्यारियाँ बनाएं और बारिश में नर्सरी को पोलिथीन से ढकें।",
+    "answer_pa": "ਖੇਤ ਵਿੱਚ ਨਿਕਾਸੀ ਦਾ ਪ੍ਰਬੰਧ ਰੱਖੋ, ਸਬਜ਼ੀਆਂ ਲਈ ਉੱਚੀਆਂ ਕਿਆਰੀਆਂ ਬਣਾਓ ਅਤੇ ਮੀਂਹ ਦੌਰਾਨ ਨਰਸਰੀ ਨੂੰ ਪੋਲਿਥੀਨ ਨਾਲ ਢੱਕੋ।"
+  },
+  {
+    "question_en": "Benefits of using organic farming?",
+    "question_hi": "जैविक खेती के क्या फायदे हैं?",
+    "question_pa": "ਜੈਵਿਕ ਖੇਤੀ ਦੇ ਕੀ ਫਾਇਦੇ ਹਨ?",
+    "answer_en": "Improves soil fertility, reduces chemical use, increases crop quality, and earns higher market price with long-term soil health.",
+    "answer_hi": "जैविक खेती से मिट्टी उपजाऊ बनती है, रसायनों की जरूरत कम होती है, फसल की गुणवत्ता बढ़ती है और अच्छा दाम मिलता है।",
+    "answer_pa": "ਜੈਵਿਕ ਖੇਤੀ ਨਾਲ ਮਿੱਟੀ ਉਪਜਾਊ ਬਣਦੀ ਹੈ, ਰਸਾਇਣ ਘੱਟ ਲੱਗਦੇ ਹਨ, ਫਸਲ ਦੀ ਗੁਣਵੱਤਾ ਵਧਦੀ ਹੈ ਅਤੇ ਵਧੀਆ ਭਾਅ ਮਿਲਦਾ ਹੈ।"
+  },
+  {
+    "question_en": "How to store grains safely to avoid insects?",
+    "question_hi": "अनाज को कीड़ों से बचाकर सुरक्षित कैसे रखें?",
+    "question_pa": "ਅਨਾਜ ਨੂੰ ਕੀੜਿਆਂ ਤੋਂ ਬਚਾਕੇ ਕਿਵੇਂ ਸੰਭਾਲਕੇ ਰੱਖੀਏ?",
+    "answer_en": "Dry grains properly before storage, use neem leaves or herbal protectants, and store in air-tight containers to avoid insect attack.",
+    "answer_hi": "अनाज स्टोर करने से पहले अच्छी तरह सुखाएँ, नीम पत्ते या हर्बल उपाय रखें और एयरटाइट डिब्बों में रखें।",
+    "answer_pa": "ਅਨਾਜ ਸਟੋਰ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ ਚੰਗੀ ਤਰ੍ਹਾਂ ਸੁਕਾਓ, ਨੀਮ ਪੱਤੇ ਜਾਂ ਜੜੀਬੂਟੀਆਂ ਵਰਤੋ ਅਤੇ ਏਅਰਟਾਇਟ ਡੱਬਿਆਂ ਵਿੱਚ ਰੱਖੋ।"
+  },
+  {
+    "question_en": "What is the use of weather apps for farmers?",
+    "question_hi": "किसानों के लिए मौसम ऐप्स का क्या उपयोग है?",
+    "question_pa": "ਕਿਸਾਨਾਂ ਲਈ ਮੌਸਮ ਐਪਸ ਦਾ ਕੀ ਲਾਭ ਹੈ?",
+    "answer_en": "Weather apps help plan irrigation, spraying, harvesting, and protect crops from climate risks with accurate forecasts.",
+    "answer_hi": "मौसम ऐप से सिंचाई, छिड़काव, कटाई की सही योजना बनती है और मौसम से होने वाले नुकसान से बच सकते हैं।",
+    "answer_pa": "ਮੌਸਮ ਐਪ ਨਾਲ ਸਿੰਚਾਈ, ਛਿੜਕਾਅ, ਕਟਾਈ ਦੀ ਯੋਜਨਾ ਬਣਦੀ ਹੈ ਅਤੇ ਮੌਸਮੀ ਨੁਕਸਾਨ ਤੋਂ ਬਚਾਵ ਹੁੰਦਾ ਹੈ।"
+  },
+  {
+    "question_en": "How to increase wheat production efficiently?",
+    "question_hi": "गेहूँ की पैदावार को प्रभावी तरीके से कैसे बढ़ाएँ?",
+    "question_pa": "ਗੰਹੂ ਦੀ ਪੈਦਾਵਾਰ ਪ੍ਰਭਾਵਸ਼ਾਲੀ ਤਰੀਕੇ ਨਾਲ ਕਿਵੇਂ ਵਧਾਈਏ?",
+    "answer_en": "Use certified seeds, sow at the right time, maintain proper seed spacing, apply balanced fertilizers, and irrigate at critical crop stages.",
+    "answer_hi": "प्रमाणित बीज इस्तेमाल करें, सही समय पर बुवाई करें, बीज की उचित दूरी रखें, संतुलित उर्वरक डालें और ज़रूरी चरणों पर सिंचाई करें।",
+    "answer_pa": "ਪ੍ਰਮਾਣਿਤ ਬੀਜ ਵਰਤੋ, ਸਹੀ ਸਮੇਂ ਬੀਜਾਈ ਕਰੋ, ਬੀਜ ਦੀ ਸਹੀ ਦੂਰੀ ਰੱਖੋ, ਸੰਤੁਲਿਤ ਖਾਦ ਪਾਓ ਅਤੇ ਜ਼ਰੂਰੀ ਮਰਹਲਿਆਂ 'ਤੇ ਸਿੰਚਾਈ ਕਰੋ।"
+  },
+  {
+    "question_en": "What to do if crop is infected with fungal disease?",
+    "question_hi": "यदि फसल में फंगल रोग लग जाए तो क्या करें?",
+    "question_pa": "ਜੇ ਫਸਲ 'ਚ ਫੰਗਸ ਦਾ ਰੋਗ ਲੱਗ ਜਾਵੇ ਤਾਂ ਕੀ ਕਰੀਏ?",
+    "answer_en": "Remove infected leaves, avoid over-irrigation, spray recommended fungicides, and use disease-resistant seeds for next season.",
+    "answer_hi": "संक्रमित पत्तियों को हटाएँ, ज़्यादा पानी न दें, सलाह अनुसार फफूंदनाशक का छिड़काव करें और अगली बार रोग-रोधी बीज लें।",
+    "answer_pa": "ਸੰਕਰਮਿਤ ਪੱਤੇ ਹਟਾਓ, ਵੱਧ ਪਾਣੀ ਨਾ ਦਿਓ, ਸਲਾਹ ਅਨੁਸਾਰ ਫੰਗੀਸਾਈਡ ਛਿੜਕਾਅ ਕਰੋ ਅਤੇ ਅਗਲੀ ਵਾਰੀ ਰੋਗ-ਰੋਧਕ ਬੀਜ ਵਰਤੋ।"
+  },
+  {
+    "question_en": "How to reduce fertilizer cost for farmers?",
+    "question_hi": "किसानों के लिए खाद का खर्च कैसे कम करें?",
+    "question_pa": "ਕਿਸਾਨਾਂ ਲਈ ਖਾਦ ਦਾ ਖਰਚਾ ਕਿਵੇਂ ਘਟਾਈਏ?",
+    "answer_en": "Use soil testing to apply only needed fertilizers, mix organic manure, adopt drip irrigation, and use biofertilizers to reduce chemical use.",
+    "answer_hi": "मिट्टी की जाँच कराकर जरूरत के अनुसार ही खाद डालें, जैविक खाद मिलाएँ, ड्रिप सिंचाई अपनाएँ और रासायनिक खाद कम करने के लिए बायोफर्टिलाइज़र का उपयोग करें।",
+    "answer_pa": "ਮਿੱਟੀ ਦੀ ਜਾਂਚ ਕਰਵਾਕੇ ਲੋੜ ਅਨੁਸਾਰ ਖਾਦ ਪਾਓ, ਜੈਵਿਕ ਖਾਦ ਮਿਲਾਓ, ਡ੍ਰਿਪ ਸਿੰਚਾਈ ਵਰਤੋ ਅਤੇ ਬਾਇਓਫਰਟਿਲਾਈਜ਼ਰ ਨਾਲ ਰਸਾਇਣਕ ਖਾਦ ਘਟਾਓ।"
+  },
+  {
+    "question_en": "How can farmers earn more from kitchen gardening?",
+    "question_hi": "किचन गार्डनिंग से किसान अधिक कमाई कैसे कर सकते हैं?",
+    "question_pa": "ਕਿਚਨ ਗਾਰਡਨਿੰਗ ਨਾਲ ਕਿਸਾਨ ਵਧੀਕ ਕਮਾਈ ਕਿਵੇਂ ਕਰ ਸਕਦੇ ਹਨ?",
+    "answer_en": "Grow seasonal vegetables, sell organic surplus in local markets, and use waste water for home garden to reduce cost.",
+    "answer_hi": "मौसमी सब्जियाँ उगाएँ, बची हुई जैविक सब्जियाँ स्थानीय बाज़ार में बेचें और घर के गार्डन में पानी की बचत करें।",
+    "answer_pa": "ਮੌਸਮੀ ਸਬਜ਼ੀਆਂ ਉਗਾਓ, ਵੱਧ ਜੈਵਿਕ ਸਬਜ਼ੀਆਂ ਸਥਾਨਕ ਬਾਜ਼ਾਰ ਵਿੱਚ ਵੇਚੋ ਅਤੇ ਘਰ ਦੇ ਬਾਗ ਵਿੱਚ ਪਾਣੀ ਦੀ ਬਚਤ ਕਰੋ।"
+  },
+  {
+    "question_en": "Best practices for safe pesticide spraying?",
+    "question_hi": "कीटनाशक का सुरक्षित छिड़काव कैसे करें?",
+    "question_pa": "ਕੀਟਨਾਸ਼ਕ ਦਾ ਸੁਰੱਖਿਅਤ ਛਿੜਕਾਅ ਕਿਵੇਂ ਕਰੀਏ?",
+    "answer_en": "Wear gloves, mask, follow recommended dosage, avoid spraying in wind, and keep children and animals away from field during spray.",
+    "answer_hi": "दस्ताने, मास्क पहनें, सही मात्रा में दवा मिलाएँ, तेज हवा में छिड़काव न करें और छिड़काव के समय बच्चों व पशुओं को दूर रखें।",
+    "answer_pa": "ਦਸਤਾਨੇ, ਮਾਸਕ ਪਹਿਨੋ, ਸਹੀ ਮਾਤਰਾ ਵਰਤੋ, ਤੇਜ਼ ਹਵਾ ਵਿੱਚ ਛਿੜਕਾਅ ਨਾ ਕਰੋ ਅਤੇ ਛਿੜਕਾਅ ਦੌਰਾਨ ਬੱਚਿਆਂ ਤੇ ਪਸ਼ੂਆਂ ਨੂੰ ਦੂਰ ਰੱਖੋ।"
+  },
+  {
+    "question_en": "How to protect livestock during extreme heat?",
+    "question_hi": "तेज़ गर्मी में पशुओं को कैसे सुरक्षित रखें?",
+    "question_pa": "ਤੀਵਰ ਗਰਮੀ ਵਿਚ ਪਸ਼ੂਆਂ ਨੂੰ ਕਿਵੇਂ ਬਚਾਈਏ?",
+    "answer_en": "Provide shade, cool drinking water, avoid overfeeding during daytime, and bathe animals 1–2 times to keep body temperature low.",
+    "answer_hi": "छाया की व्यवस्था करें, ठंडा पानी दें, दिन में ज़्यादा खाना न दें और पशुओं को 1–2 बार नहलाएँ जिससे शरीर ठंडा रहे।",
+    "answer_pa": "ਛਾਂ ਦੀ ਥਾਂ ਦਿਓ, ਠੰਢਾ ਪਾਣੀ ਦਿਓ, ਦਿਨ ਵਿੱਚ ਵੱਧ ਚਾਰਾ ਨਾ ਦਿਓ ਅਤੇ ਪਸ਼ੂਆਂ ਨੂੰ 1–2 ਵਾਰ ਨਹਲਾਓ ਤਾਂ ਕਿ ਸਰੀਰ ਠੰਢਾ ਰਹੇ।"
+  },
+  {
+    "question_en": "How does crop rotation help farmers?",
+    "question_hi": "फसल चक्र किसानों के लिए कैसे फायदेमंद है?",
+    "question_pa": "ਫਸਲ ਚੱਕਰ ਕਿਸਾਨਾਂ ਲਈ ਕਿਵੇਂ ਲਾਭਕਾਰੀ ਹੈ?",
+    "answer_en": "Crop rotation improves soil fertility, controls pests and diseases, reduces fertilizer use, and increases long-term farm productivity.",
+    "answer_hi": "फसल बदल-बदल कर उगाने से मिट्टी उपजाऊ रहती है, कीट और रोग कम होते हैं, खाद की जरूरत घटती है और उत्पादन बढ़ता है।",
+    "answer_pa": "ਫਸਲ ਬਦਲ ਕੇ ਉਗਾਉਣ ਨਾਲ ਮਿੱਟੀ ਉਪਜਾਊ ਰਹਿੰਦੀ ਹੈ, ਕੀੜੇ ਤੇ ਰੋਗ ਘਟਦੇ ਹਨ, ਖਾਦ ਘੱਟ ਲੱਗਦੀ ਹੈ ਤੇ ਪੈਦਾਵਾਰ ਵਧਦੀ ਹੈ।"
+  },
+  {
+    "question_en": "What is the benefit of Farmer Producer Organizations (FPOs)?",
+    "question_hi": "एफपीओ (किसान उत्पादक संगठन) का किसानों को क्या लाभ है?",
+    "question_pa": "ਐਫਪੀਓ ਤੋਂ ਕਿਸਾਨਾਂ ਨੂੰ ਕੀ ਲਾਭ ਹੈ?",
+    "answer_en": "FPOs help farmers sell products at better prices, reduce input costs through bulk buying, and provide training and market linkages.",
+    "answer_hi": "एफपीओ से किसान अपने उत्पाद अच्छे दाम पर बेच सकते हैं, थोक खरीद से लागत घटती है और प्रशिक्षण व बाज़ार की सुविधा मिलती है।",
+    "answer_pa": "ਐਫਪੀਓ ਨਾਲ ਕਿਸਾਨ ਵਧੀਆ ਭਾਅ 'ਤੇ ਉਤਪਾਦ ਵੇਚ ਸਕਦੇ ਹਨ, ਥੋਕ ਖਰੀਦ ਨਾਲ ਖਰਚ ਘਟਦਾ ਹੈ ਅਤੇ ਸਿਖਲਾਈ ਤੇ ਮਾਰਕਿਟ ਦੀ ਸਹਾਇਤਾ ਮਿਲਦੀ ਹੈ।"
+  },
+  {
+    "question_en": "How to reduce electricity cost in farming?",
+    "question_hi": "खेती में बिजली का खर्च कैसे कम करें?",
+    "question_pa": "ਖੇਤੀ 'ਚ ਬਿਜਲੀ ਦਾ ਖਰਚਾ ਕਿਵੇਂ ਘਟਾਈਏ?",
+    "answer_en": "Use solar pumps, maintain motor efficiency, avoid over-irrigation, and run pumps during non-peak hours to save power.",
+    "answer_hi": "सोलर पंप अपनाएँ, मोटर की समय-समय पर सर्विस कराएँ, ज़्यादा सिचाई न करें और पंप को कम भीड़ वाले समय चलाएँ।",
+    "answer_pa": "ਸੋਲਰ ਪੰਪ ਵਰਤੋ, ਮੋਟਰ ਦੀ ਸਮੇਂ-ਸਮੇਂ ਸੇਵਾ ਕਰੋ, ਵੱਧ ਸਿੰਚਾਈ ਨਾ ਕਰੋ ਅਤੇ ਘੱਟ ਭੀੜ ਵੇਲੇ ਪੰਪ ਚਲਾਓ।"
+  },
+  {
+    "question_en": "Why is mulching beneficial for crops?",
+    "question_hi": "मल्चिंग फसलों के लिए क्यों फायदेमंद है?",
+    "question_pa": "ਮਲਚਿੰਗ ਫਸਲਾਂ ਲਈ ਕਿਵੇਂ ਲਾਭਦਾਇਕ ਹੈ?",
+    "answer_en": "Mulching maintains soil moisture, controls weeds, protects roots from heat, and improves soil structure over time.",
+    "answer_hi": "मल्चिंग से मिट्टी में नमी बनी रहती है, खरपतवार कम होते हैं, जड़ों को गर्मी से बचाव मिलता है और मिट्टी बेहतर होती है।",
+    "answer_pa": "ਮਲਚਿੰਗ ਨਾਲ ਮਿੱਟੀ ਦੀ ਨਮੀ ਬਣੀ ਰਹਿੰਦੀ ਹੈ, ਘਾਹ-ਪੱਤਰੀ ਘਟਦੀ ਹੈ, ਜੜਾਂ ਗਰਮੀ ਤੋਂ ਬਚਦੀਆਂ ਹਨ ਅਤੇ ਮਿੱਟੀ ਸੁਧਰਦੀ ਹੈ।"
+  },
+  {
+    "question_en": "How can farmers increase income through beekeeping?",
+    "question_hi": "किसान मधुमक्खी पालन से आय कैसे बढ़ा सकते हैं?",
+    "question_pa": "ਕਿਸਾਨ ਮੱਛੀ-ਪਾਲਣ ਨਾਲ ਆਮਦਨ ਕਿਵੇਂ ਵਧਾ ਸਕਦੇ ਹਨ?",
+    "answer_en": "Start small with 5–10 bee boxes, grow flowering plants nearby, extract and sell pure honey and bee wax, and join training programs for better techniques.",
+    "answer_hi": "5–10 बॉक्स से शुरू करें, पास में फूल वाले पौधे लगाएँ, शुद्ध शहद और मोम बेचें और बेहतर तकनीक के लिए प्रशिक्षण लें।",
+    "answer_pa": "5–10 ਬਾਕਸ ਨਾਲ ਸ਼ੁਰੂ ਕਰੋ, ਨੇੜੇ ਫੁੱਲਦਾਰ ਪੌਦੇ ਲਗਾਓ, ਖਾਲਿਸ ਸ਼ਹਿਦ ਤੇ ਮੋਮ ਵੇਚੋ ਅਤੇ ਵਧੀਆ ਤਰੀਕਿਆਂ ਲਈ ਟ੍ਰੇਨਿੰਗ ਲਵੋ।"
+  },
+  {
+    "question_en": "What to do when crop leaves have white powdery spots?",
+    "question_hi": "फसल के पत्तों पर सफेद पाउडर जैसे दाग दिखें तो क्या करें?",
+    "question_pa": "ਜੇ ਪੱਤਿਆਂ 'ਤੇ ਚਿੱਟਾ ਪਾਊਡਰ ਵਰਗਾ ਦਾਗ਼ ਦਿਸੇ ਤਾਂ ਕੀ ਕਰੀਏ?",
+    "answer_en": "This is powdery mildew. Improve air circulation, avoid overhead watering, and spray recommended sulfur or organic fungicide.",
+    "answer_hi": "यह पाउडरी मिल्ड्यू रोग है। पौधों में हवा का प्रवाह बढ़ाएँ, ऊपर से पानी न दें और सलाह अनुसार सल्फर या जैविक दवा का छिड़काव करें।",
+    "answer_pa": "ਇਹ ਪਾਊਡਰੀ ਮਿਲਡਿਊ ਰੋਗ ਹੈ। ਪੌਧਿਆਂ ਵਿਚ ਹਵਾ ਦਾ ਪ੍ਰਵਾਹ ਵਧਾਓ, ਉੱਪਰੋਂ ਪਾਣੀ ਨਾ ਦਿਓ ਅਤੇ ਸਲਾਹ ਅਨੁਸਾਰ ਸਲਫਰ ਜਾਂ ਜੈਵਿਕ ਦਵਾ ਛਿੜਕਾਓ।"
+  },
+  {
+    "question_en": "How can farmers use mobile phones for farming benefits?",
+    "question_hi": "किसान मोबाइल फोन से खेती में क्या लाभ ले सकते हैं?",
+    "question_pa": "ਕਿਸਾਨ ਮੋਬਾਈਲ ਨਾਲ ਖੇਤੀ ਵਿਚ ਕੀ ਫਾਇਦਾ ਲੈ ਸਕਦੇ ਹਨ?",
+    "answer_en": "Farmers can access weather updates, market rates, govt schemes, expert advice, and buy agri products online through apps.",
+    "answer_hi": "किसान मौसम जानकारी, मंडी भाव, सरकारी योजनाएँ, विशेषज्ञ सलाह और कृषि सामग्री खरीदने के लिए मोबाइल ऐप का उपयोग कर सकते हैं।",
+    "answer_pa": "ਕਿਸਾਨ ਮੌਸਮ, ਮੰਡੀ ਭਾਅ, ਸਰਕਾਰੀ ਯੋਜਨਾਵਾਂ, ਮਾਹਰ ਸਲਾਹ ਅਤੇ ਖੇਤੀ ਸਮੱਗਰੀ ਖਰੀਦਣ ਲਈ ਮੋਬਾਈਲ ਐਪ ਵਰਤ ਸਕਦੇ ਹਨ।"
+  },
+  {
+    "question_en": "Why is drip irrigation better than flood irrigation?",
+    "question_hi": "ड्रिप सिंचाई बाढ़ सिंचाई से बेहतर क्यों है?",
+    "question_pa": "ਡ੍ਰਿਪ ਸਿੰਚਾਈ ਬਾੜ ਸਿੰਚਾਈ ਨਾਲੋਂ ਵਧੀਆ ਕਿਉਂ ਹੈ?",
+    "answer_en": "Drip irrigation saves 40–50% water, reduces weed growth, provides nutrients directly to roots, and increases crop yield.",
+    "answer_hi": "ड्रिप से 40–50% पानी बचता है, खरपतवार कम होते हैं, पौधों की जड़ों को सीधे पोषण मिलता है और उत्पादन बढ़ता है।",
+    "answer_pa": "ਡ੍ਰਿਪ ਨਾਲ 40–50% ਪਾਣੀ ਬਚਦਾ ਹੈ, ਘਾਹ-ਪੱਤਰੀ ਘਟਦੀ ਹੈ, ਜੜਾਂ ਨੂੰ ਸਿੱਧਾ ਪੋਸ਼ਣ ਮਿਲਦਾ ਹੈ ਅਤੇ ਪੈਦਾਵਾਰ ਵਧਦੀ ਹੈ।"
+  },
+  {
+    "question_en": "How to check if soil is suitable for a particular crop?",
+    "question_hi": "किसी फसल के लिए मिट्टी उपयुक्त है या नहीं, कैसे पता करें?",
+    "question_pa": "ਕਿਸੇ ਫਸਲ ਲਈ ਮਿੱਟੀ ਠੀਕ ਹੈ ਜਾਂ ਨਹੀਂ, ਕਿਵੇਂ ਜਾਣੀਏ?",
+    "answer_en": "Do a soil test to check pH, nutrients, and texture. Compare the report with recommended soil conditions for that crop.",
+    "answer_hi": "मिट्टी की जाँच कराएँ, pH, पोषक तत्व और बनावट जाँचें और रिपोर्ट को फसल की जरूरत के अनुसार मिलाएँ।",
+    "answer_pa": "ਮਿੱਟੀ ਦੀ ਜਾਂਚ ਕਰਵਾਓ, pH, ਪੋਸ਼ਕ ਤੱਤ ਤੇ ਬਣਾਵਟ ਵੇਖੋ ਅਤੇ ਰਿਪੋਰਟ ਨੂੰ ਫਸਲ ਦੀ ਲੋੜ ਅਨੁਸਾਰ ਮਿਲਾਓ।"
+  },
+  {
+    "question_en": "How to reduce post-harvest losses?",
+    "question_hi": "कटाई के बाद होने वाले नुकसान को कैसे कम करें?",
+    "question_pa": "ਕਟਾਈ ਤੋਂ ਬਾਅਦ ਵਾਲਾ ਨੁਕਸਾਨ ਕਿਵੇਂ ਘਟਾਈਏ?",
+    "answer_en": "Harvest at the right time, dry produce well, use proper storage bags or containers, and grade/sort before selling for better price.",
+    "answer_hi": "सही समय पर कटाई करें, अनाज को अच्छी तरह सुखाएँ, सही बैग/डिब्बों में रखें और बेचने से पहले ग्रेडिंग करें।",
+    "answer_pa": "ਸਹੀ ਸਮੇਂ ਕਟਾਈ ਕਰੋ, ਅਨਾਜ ਚੰਗੀ ਤਰ੍ਹਾਂ ਸੁਕਾਓ, ਠੀਕ ਬੈਗ/ਡੱਬੇ ਵਰਤੋ ਅਤੇ ਵੇਚਣ ਤੋਂ ਪਹਿਲਾਂ ਗ੍ਰੇਡਿੰਗ ਕਰੋ।"
+  },
+  {
+    "question_en": "What is the benefit of intercropping?",
+    "question_hi": "मिश्रित खेती (इंटरक्रॉपिंग) का क्या लाभ है?",
+    "question_pa": "ਇੰਟਰਕ੍ਰਾਪਿੰਗ ਦਾ ਕੀ ਫਾਇਦਾ ਹੈ?",
+    "answer_en": "Intercropping increases income, improves soil health, reduces pest attack, and makes better use of land and resources.",
+    "answer_hi": "इंटरक्रॉपिंग से आय बढ़ती है, मिट्टी स्वस्थ रहती है, कीट कम लगते हैं और जमीन व संसाधनों का अच्छा उपयोग होता है।",
+    "answer_pa": "ਇੰਟਰਕ੍ਰਾਪਿੰਗ ਨਾਲ ਆਮਦਨ ਵਧਦੀ ਹੈ, ਮਿੱਟੀ ਸੁੱਖੀ ਰਹਿੰਦੀ ਹੈ, ਕੀੜੇ ਘਟਦੇ ਹਨ ਅਤੇ ਜ਼ਮੀਨ ਤੇ ਸਰੋਤਾਂ ਦੀ ਵਧੀਆ ਵਰਤੋਂ ਹੁੰਦੀ ਹੈ।"
+  },
+  {
+    "question_en": "How can farmers earn from organic manure preparation?",
+    "question_hi": "किसान जैविक खाद बनाकर कैसे कमा सकते हैं?",
+    "question_pa": "ਕਿਸਾਨ ਜੈਵਿਕ ਖਾਦ ਬਣਾਕੇ ਕਿਵੇਂ ਕਮਾਈ ਕਰ ਸਕਦੇ ਹਨ?",
+    "answer_en": "Prepare compost/vermicompost from cow dung and crop waste, use for fields, and sell extra organic manure to nearby farmers.",
+    "answer_hi": "गोबर और फसल के कचरे से कम्पोस्ट/वर्मीकम्पोस्ट बनाकर अपने खेत में उपयोग करें और बची खाद पास के किसानों को बेचें।",
+    "answer_pa": "ਗੋਬਰ ਅਤੇ ਫਸਲ ਬਚਤ ਤੋਂ ਕੰਪੋਸਟ/ਵਰਮੀਕੰਪੋਸਟ ਬਣਾਓ, ਆਪਣੇ ਖੇਤ ਵਿੱਚ ਵਰਤੋ ਅਤੇ ਵੱਧ ਖਾਦ ਨੇੜਲੇ ਕਿਸਾਨਾਂ ਨੂੰ ਵੇਚੋ।"
+  },
+  {
+    "question_en": "What is the advantage of using solar dryers for crops?",
+    "question_hi": "फसलों के लिए सोलर ड्रायर का उपयोग करने का क्या फायदा है?",
+    "question_pa": "ਫਸਲਾਂ ਲਈ ਸੌਰ ਡ੍ਰਾਇਰ ਵਰਤਣ ਦਾ ਕੀ ਲਾਭ ਹੈ?",
+    "answer_en": "Solar dryers dry crops faster, keep them safe from dust and insects, maintain quality, and increase shelf life of produce.",
+    "answer_hi": "सोलर ड्रायर से फसल जल्दी सूखती है, गंदगी और कीड़ों से बचती है, गुणवत्ता बनी रहती है और सामान ज़्यादा समय तक सुरक्षित रहता है।",
+    "answer_pa": "ਸੌਰ ਡ੍ਰਾਇਰ ਨਾਲ ਫਸਲ ਜਲਦੀ ਸੁੱਕਦੀ ਹੈ, ਗੰਦਗੀ ਤੇ ਕੀੜਿਆਂ ਤੋਂ ਬਚਦੀ ਹੈ, ਗੁਣਵੱਤਾ ਬਣੀ ਰਹਿੰਦੀ ਹੈ ਅਤੇ ਸਮਾਨ ਲੰਮਾ ਚੱਲਦਾ ਹੈ।"
+  },
+  {
+    "question_en": "How can farmers benefit from contract farming?",
+    "question_hi": "कॉन्ट्रैक्ट फार्मिंग से किसानों को क्या लाभ मिलता है?",
+    "question_pa": "ਕਾਂਟ੍ਰੈਕਟ ਫਾਰਮਿੰਗ ਨਾਲ ਕਿਸਾਨਾਂ ਨੂੰ ਕੀ ਲਾਭ ਹੁੰਦਾ ਹੈ?",
+    "answer_en": "Contract farming ensures fixed buyers, reduces market risk, provides advance price assurance, and sometimes provides inputs & technical support.",
+    "answer_hi": "कॉन्ट्रैक्ट फार्मिंग में खरीदार पक्का मिलता है, बाज़ार का जोखिम कम होता है, पहले से दाम तय मिलते हैं और कई बार बीज व मार्गदर्शन भी मिलता है।",
+    "answer_pa": "ਕਾਂਟ੍ਰੈਕਟ ਫਾਰਮਿੰਗ ਨਾਲ ਪੱਕਾ ਖਰੀਦਾਰ ਮਿਲਦਾ ਹੈ, ਮਾਰਕਿਟ ਦਾ ਜੋਖਮ ਘਟਦਾ ਹੈ, ਪਹਿਲਾਂ ਹੀ ਰੇਟ ਤੈਅ ਮਿਲਦੇ ਹਨ ਅਤੇ ਕਈ ਵਾਰੀ ਬੀਜ ਤੇ ਸਲਾਹ ਵੀ ਮਿਲਦੀ ਹੈ।"
+  },
+  {
+    "question_en": "How to protect crops from frost during winter?",
+    "question_hi": "सर्दियों में पाला पड़ने से फसल को कैसे बचाएँ?",
+    "question_pa": "ਸਰਦੀਆਂ ਵਿੱਚ ਪਾਲੇ ਤੋਂ ਫਸਲ ਨੂੰ ਕਿਵੇਂ ਬਚਾਇਆ ਜਾਏ?",
+    "answer_en": "To protect crops from frost, irrigate fields in the evening to maintain warmth, use light irrigation or sprinklers, cover young plants with straw or plastic sheets, and burn organic waste at field corners to raise temperature. Prefer frost-resistant crop varieties during peak winter.",
+    "answer_hi": "पाला से बचाव के लिए शाम को हल्की सिंचाई करें ताकि गर्मी बनी रहे, स्प्रिंकलर का उपयोग करें, पौधों को पुआल या प्लास्टिक से ढकें, और खेत के कोनों पर जैविक अवशेष जलाकर तापमान थोड़ा बढ़ाएँ। ज्यादा ठंड वाले समय में पाला-रोधी किस्में लगाएँ।",
+    "answer_pa": "ਪਾਲੇ ਤੋਂ ਬਚਾਅ ਲਈ ਸ਼ਾਮ ਨੂੰ ਹਲਕੀ ਸਿੰਚਾਈ ਕਰੋ ताकि ਗਰਮੀ ਬਣੀ ਰਹੇ, ਸਪ੍ਰਿੰਕਲਰ ਵਰਤੋਂ, ਨਵੇਂ ਪੌਧਿਆਂ ਨੂੰ ਪੂਆਲ ਜਾਂ ਪਲਾਸਟਿਕ ਨਾਲ ਢੱਕੋ, ਅਤੇ ਖੇਤ ਦੇ ਕੰਨਿਆਂ 'ਤੇ ਜੈਵਿਕ ਬਚਤ ਸਾੜਕੇ ਤਾਪਮਾਨ ਵਧਾਓ। ਵੱਧ ਸਰਦੀ ਸਮੇਂ ਪਾਲਾ-ਰੋਧਕ ਕਿਸਮਾਂ ਬੀਜੋ।"
+  },
+  {
+    "question_en": "How to increase milk production in cows?",
+    "question_hi": "गायों में दूध उत्पादन कैसे बढ़ाएँ?",
+    "question_pa": "ਗਾਂਵਾਂ ਵਿੱਚ ਦੁੱਧ ਦਾ ਉਤਪਾਦਨ ਕਿਵੇਂ ਵਧਾਇਆ ਜਾਵੇ?",
+    "answer_en": "Increase milk production by providing balanced feed with green fodder, dry fodder, and mineral mixture. Ensure clean drinking water, regular deworming, proper milking routine, and comfortable shed conditions. Provide 30–45 minutes daily exercise.",
+    "answer_hi": "दूध बढ़ाने के लिए हरा चारा, सूखा चारा और मिनरल मिक्सचर के साथ संतुलित आहार दें। साफ पानी, नियमित कीड़ानाशक दवाई, सही समय पर दुहाई और आरामदायक शेड बनाए रखें। रोज़ 30–45 मिनट व्यायाम करवाएँ।",
+    "answer_pa": "ਦੁੱਧ ਵਧਾਉਣ ਲਈ ਹਰਾ ਚਾਰਾ, ਸੁੱਕਾ ਚਾਰਾ ਅਤੇ ਮਿਨਰਲ ਮਿਕਸਚਰ ਨਾਲ ਸੰਤੁਲਿਤ ਆਹਾਰ ਦਿਓ। ਸਾਫ਼ ਪਾਣੀ, ਨਿਯਮਿਤ ਕੀੜੀ ਦਵਾਈ, ਸਮੇਂ 'ਤੇ ਦੁਹਾਈ ਅਤੇ ਆਰਾਮਦಾಯಕ ਸ਼ੈਡ ਰੱਖੋ। ਰੋਜ਼ਾਨਾ 30–45 ਮਿੰਟ ਕਸਰਤ ਕਰਵਾਓ।"
+  },
+  {
+    "question_en": "What is the best way to control weeds without chemical sprays?",
+    "question_hi": "बिना रासायनिक स्प्रे के खरपतवार कैसे नियंत्रित करें?",
+    "question_pa": "ਰਸਾਇਣਕ ਸਪਰੇ ਬਿਨਾ ਘਾਹ-ਫੂਸ ਨੂੰ ਕਿਵੇਂ ਕਾਬੂ ਕੀਤਾ ਜਾਵੇ?",
+    "answer_en": "Control weeds naturally through mulching, crop rotation, timely hand weeding, and using organic weed suppressants like cow dung-based solutions. Intercropping and maintaining proper plant spacing also reduce weed growth.",
+    "answer_hi": "खरपतवार को प्राकृतिक रूप से नियंत्रित करने के लिए मल्चिंग, फसल चक्र, समय पर हाथ से निराई-गुड़ाई और गोबर आधारित जैविक घोल का उपयोग करें। मिश्रित खेती और उचित दूरी पर पौधे लगाने से भी खरपतवार कम होते हैं।",
+    "answer_pa": "ਘਾਹ-ਫੂਸ ਨੂੰ ਕੁਦਰਤੀ ਤਰੀਕੇ ਨਾਲ ਕਾਬੂ ਕਰਨ ਲਈ ਮਲਚਿੰਗ ਕਰੋ, ਫਸਲ ਚੱਕਰ ਅਪਣਾਓ, ਸਮੇਂ 'ਤੇ ਨਿਰਾਈ-ਗੁੜਾਈ ਕਰੋ ਅਤੇ ਗੋਬਰ ਆਧਾਰਿਤ ਜੈਵਿਕ ਘੋਲ ਵਰਤੋਂ। ਮਿਲੀ-ਝੁਲੀ ਖੇਤੀ ਅਤੇ ਸਹੀ ਦੂਰੀ 'ਤੇ ਰੋਪਣ ਨਾਲ ਵੀ ਘਾਹ-ਫੂਸ ਘਟਦਾ ਹੈ।"
+  },
+  {
+    "question_en": "How can farmers use AI for crop disease detection?",
+    "question_hi": "किसान फसल रोग पहचानने के लिए AI का उपयोग कैसे कर सकते हैं?",
+    "question_pa": "ਕਿਸਾਨ ਫਸਲ ਬਿਮਾਰੀਆਂ ਦੀ ਪਛਾਣ ਲਈ AI ਦਾ ਕਿਵੇਂ ਵਰਤੋਂ ਕਰ ਸਕਦੇ ਹਨ?",
+    "answer_en": "Farmers can use AI-based mobile apps to scan crop leaves and detect diseases instantly through images. AI provides disease name, cause, and treatment guidance. It helps reduce crop loss and ensures timely actions with accurate solutions.",
+    "answer_hi": "किसान AI मोबाइल ऐप से पत्तों की फोटो स्कैन करके तुरंत रोग पहचान सकते हैं। AI रोग का नाम, कारण और उपचार बताता है। इससे फसल नुकसान कम होता है और समय पर सही कदम उठाने में मदद मिलती है।",
+    "answer_pa": "ਕਿਸਾਨ AI ਮੋਬਾਈਲ ਐਪ ਨਾਲ ਪੱਤਿਆਂ ਦੀ ਤਸਵੀਰ ਸਕੈਨ ਕਰਕੇ ਤੁਰੰਤ ਬਿਮਾਰੀ ਪਛਾਣ ਸਕਦੇ ਹਨ। AI ਬਿਮਾਰੀ ਦਾ ਨਾਮ, ਕਾਰਣ ਅਤੇ ਇਲਾਜ ਦਿਖਾਉਂਦਾ ਹੈ। ਇਸ ਨਾਲ ਨੁਕਸਾਨ ਘਟਦਾ ਹੈ ਅਤੇ ਸਮੇਂ 'ਤੇ ਸਹੀ ਕਦਮ ਚੁੱਕਣ ਵਿੱਚ ਮਦਦ ਮਿਲਦੀ ਹੈ।"
+  },
+  {
+    "question_en": "How to improve soil fertility naturally?",
+    "question_hi": "मिट्टी की उर्वरता प्राकृतिक तरीके से कैसे बढ़ाएँ?",
+    "question_pa": "ਮਿੱਟੀ ਦੀ ਉਪਜਾਊ ਤਾਕਤ ਕੁਦਰਤੀ ਤਰੀਕੇ ਨਾਲ ਕਿਵੇਂ ਵਧਾਈ ਜਾਵੇ?",
+    "answer_en": "Improve soil fertility using compost, vermicompost, green manure crops, and crop rotation. Add cow dung manure, biofertilizers, and keep soil covered with crop residues to maintain moisture and microbes.",
+    "answer_hi": "मिट्टी की उर्वरता बढ़ाने के लिए कम्पोस्ट, वर्मीकम्पोस्ट, हरी खाद, और फसल चक्र अपनाएँ। गोबर की खाद, जैव उर्वरक उपयोग करें और मिट्टी को फसल अवशेष से ढककर रखें ताकि नमी और सूक्ष्म जीव सुरक्षित रहें।",
+    "answer_pa": "ਮਿੱਟੀ ਦੀ ਉਪਜਾਊ ਤਾਕਤ ਵਧਾਉਣ ਲਈ ਕੰਪੋਸਟ, ਵਰਮੀਕੰਪੋਸਟ, ਹਰੀ ਖਾਦ ਅਤੇ ਫਸਲ ਚੱਕਰ ਅਪਣਾਓ। ਗੋਬਰ ਦੀ ਖਾਦ, ਜੈਵਿਕ ਖਾਦ ਵਰਤੋਂ ਅਤੇ ਖੇਤ ਨੂੰ ਫਸਲ ਬਚਤ ਨਾਲ ਢੱਕੇ ਰੱਖੋ ਤਾਂ ਜੋ ਨਮੀ ਅਤੇ ਜੀਵਾਣੂ ਬਣੇ ਰਹਿਣ।"
+  },
+  {
+    "question_en": "How to reduce electricity bill in agriculture?",
+    "question_hi": "खेती में बिजली बिल कैसे कम करें?",
+    "question_pa": "ਖੇਤੀ ਵਿੱਚ ਬਿਜਲੀ ਬਿੱਲ ਕਿਵੇਂ ਘਟਾਇਆ ਜਾਵੇ?",
+    "answer_en": "Use energy-efficient motors, solar pumps, and irrigate during off-peak hours. Maintain motors and wiring regularly, avoid water wastage, and adopt drip or sprinkler systems to reduce energy consumption.",
+    "answer_hi": "ऊर्जा कुशल मोटर, सोलर पंप का उपयोग करें और सिंचाई ऑफ-पीक समय में करें। मोटर और तारों की नियमित देखभाल करें, पानी की बर्बादी रोकें और ड्रिप या स्प्रिंकलर अपनाकर बिजली बचाएँ।",
+    "answer_pa": "ਊਰਜਾ-ਕੁਸ਼ਲ ਮੋਟਰਾਂ, ਸੋਲਰ ਪੰਪ ਵਰਤੋਂ ਅਤੇ ਸਿੰਚਾਈ ਆਫ-ਪੀਕ ਸਮੇਂ ਕਰੋ। ਮੋਟਰ ਅਤੇ ਤਾਰਾਂ ਦੀ ਨਿਯਮਿਤ ਦੇਖਭਾਲ ਕਰੋ, ਪਾਣੀ ਦੀ ਬਰਬਾਦੀ ਰੋਕੋ ਅਤੇ ਡ੍ਰਿਪ ਜਾਂ ਸਪ੍ਰਿੰਕਲਰ ਨਾਲ ਬਿਜਲੀ ਬਚਾਓ।"
+  },
+  {
+    "question_en": "What are the benefits of mixed farming?",
+    "question_hi": "मिश्रित कृषि के क्या लाभ हैं?",
+    "question_pa": "ਮਿਸ਼ਰਤ ਖੇਤੀ ਦੇ ਕੀ ਲਾਭ ਹਨ?",
+    "answer_en": "Mixed farming improves income stability by combining crop cultivation with livestock, poultry, or fisheries. It reduces risk, enhances soil fertility, increases farm productivity, and provides continuous income throughout the year.",
+    "answer_hi": "मिश्रित खेती में फसल के साथ पशुपालन, पोल्ट्री या मछली पालन जोड़ने से आय स्थिर होती है। इससे जोखिम कम होता है, मिट्टी की उर्वरता बढ़ती है, उत्पादन बढ़ता है और सालभर आय मिलती है।",
+    "answer_pa": "ਮਿਸ਼ਰਤ ਖੇਤੀ ਵਿੱਚ ਫਸਲਾਂ ਨਾਲ ਪਸ਼ੂਪਾਲਨ, ਪੋਲਟਰੀ ਜਾਂ ਮੱਛੀ ਪਾਲਣ ਜੋੜਨ ਨਾਲ ਆਮਦਨ ਸਥਿਰ ਹੁੰਦੀ ਹੈ। ਇਸ ਨਾਲ ਖਤਰਾ ਘਟਦਾ ਹੈ, ਮਿੱਟੀ ਦੀ ਉਪਜਾਊ ਤਾਕਤ ਵਧਦੀ ਹੈ, ਉਤਪਾਦਨ ਵਧਦਾ ਹੈ ਅਤੇ ਸਾਲ ਭਰ ਆਮਦਨ ਰਹਿੰਦੀ ਹੈ।"
+  },
+  {
+    "question_en": "How to store harvested grains safely?",
+    "question_hi": "कटाई के बाद अनाज को सुरक्षित कैसे रखें?",
+    "question_pa": "ਕਟਾਈ ਤੋਂ ਬਾਅਦ ਅਨਾਜ ਨੂੰ ਸੁਰੱਖਿਅਤ ਕਿਵੇਂ ਰੱਖਿਆ ਜਾਵੇ?",
+    "answer_en": "Dry grains properly before storage, use airtight containers or gunny bags with neem leaves, and keep storage area clean and moisture-free. Fumigate storage area if needed to protect against insects and rodents.",
+    "answer_hi": "भंडारण से पहले अनाज को अच्छी तरह सुखाएँ, एयरटाइट डिब्बों या बोरों में नीम पत्तों के साथ रखें, और भंडारण स्थान को साफ व सूखा रखें। कीड़ों और चूहों से बचाव के लिए जरूरत पड़ने पर धूम्रीकरण करें।",
+    "answer_pa": "ਸਟੋਰ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ ਅਨਾਜ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਸੁਕਾਓ, ਏਅਰਟਾਈਟ ਡੱਬਿਆਂ ਜਾਂ ਬੋਰਿਆਂ 'ਚ ਨੀਮ ਪੱਤਿਆਂ ਨਾਲ ਰੱਖੋ ਅਤੇ ਸਟੋਰ ਨੁੰ ਸਾਫ਼ ਤੇ ਸੁੱਕਾ ਰੱਖੋ। ਕੀੜਿਆਂ ਅਤੇ ਚੂਹਿਆਂ ਤੋਂ ਬਚਾਅ ਲਈ ਲੋੜ ਪਏ ਤਾਂ ਧੂੰਆਂ ਕਰੋ।"
+  },
+  {
+    "question_en": "How to prevent waterlogging in fields?",
+    "question_hi": "खेत में जलभराव कैसे रोकें?",
+    "question_pa": "ਖੇਤਾਂ ਵਿੱਚ ਪਾਣੀ ਖੜ੍ਹਾ ਹੋਣ ਤੋਂ ਕਿਵੇਂ ਰੋਕਿਆ ਜਾਵੇ?",
+    "answer_en": "Prevent waterlogging by creating proper drainage channels, raised beds, and leveling fields. Use organic matter to improve soil structure and adopt crop varieties that tolerate excess moisture when needed.",
+    "answer_hi": "जलभराव रोकने के लिए सही निकासी नालियाँ बनाएं, उभरी हुई क्यारियाँ बनाएं और खेत को समतल रखें। मिट्टी की संरचना सुधारने के लिए जैविक पदार्थ मिलाएँ और जरूरत हो तो नमी सहनशील किस्में लगाएँ।",
+    "answer_pa": "ਪਾਣੀ ਖੜ੍ਹਾ ਹੋਣ ਤੋਂ ਬਚਣ ਲਈ ਠੀਕ ਡਰੇਨੇਜ ਨਾਲੀਆਂ ਬਣਾਓ, ਉੱਪਰਲੀ ਕਿਆਰੀਆਂ ਬਣਾਓ ਅਤੇ ਖੇਤ ਸਮਤਲ ਰੱਖੋ। ਮਿੱਟੀ ਵਿੱਚ ਜੈਵਿਕ ਪਦਾਰਥ ਮਿਲਾਓ ਅਤੇ ਲੋੜ ਹੋਣ 'ਤੇ ਨਮੀ-ਸਹਿਨਸ਼ੀਲ ਕਿਸਮਾਂ ਬੀਜੋ।"
+  },
+  {
+    "question_en": "What is crop rotation and why is it useful?",
+    "question_hi": "फसल चक्र क्या है और यह क्यों लाभदायक है?",
+    "question_pa": "ਫਸਲ ਚੱਕਰ ਕੀ ਹੈ ਅਤੇ ਇਹ ਕਿਉਂ ਲਾਭਦਾਇਕ ਹੈ?",
+    "answer_en": "Crop rotation means growing different crops in the same field season-wise. It helps maintain soil nutrients, breaks pest and disease cycles, improves soil health, and increases crop yield with reduced fertilizer usage.",
+    "answer_hi": "फसल चक्र का मतलब एक ही खेत में मौसम के अनुसार अलग-अलग फसलें उगाना है। इससे मिट्टी के पोषक तत्व बने रहते हैं, रोग और कीट चक्र टूटता है, मिट्टी की सेहत सुधरती है और कम खाद में ज्यादा पैदावार मिलती है।",
+    "answer_pa": "ਫਸਲ ਚੱਕਰ ਦਾ ਮਤਲਬ ਇੱਕੋ ਖੇਤ ਵਿੱਚ ਰੁੱਤ ਅਨੁਸਾਰ ਵੱਖ-ਵੱਖ ਫਸਲਾਂ ਬੀਜਣਾ ਹੈ। ਇਸ ਨਾਲ ਮਿੱਟੀ ਦੇ ਪੋਸ਼ਕ ਤੱਤ ਬਣੇ ਰਹਿੰਦੇ ਹਨ, ਬਿਮਾਰੀ ਅਤੇ ਕੀੜੇ ਦਾ ਚੱਕਰ ਟੁੱਟਦਾ ਹੈ, ਮਿੱਟੀ ਸਿਹਤਮੰਦ ਰਹਿੰਦੀ ਹੈ ਅਤੇ ਘੱਟ ਖਾਦ ਨਾਲ ਵੱਧ ਉਪਜ ਮਿਲਦੀ ਹੈ।"
+  },
+  {
+    "question_en": "How can farmers reduce fertilizer cost?",
+    "question_hi": "किसान खाद का खर्च कैसे कम करें?",
+    "question_pa": "ਕਿਸਾਨ ਖਾਦ ਦਾ ਖਰਚਾ ਕਿਵੇਂ ਘਟਾ ਸਕਦੇ ਹਨ?",
+    "answer_en": "Reduce fertilizer cost by using soil testing, applying fertilizers as per nutrient requirement, mixing organic manure, using biofertilizers, and adopting drip irrigation for efficient nutrient use. Composting farm waste also reduces dependency on chemical fertilizers.",
+    "answer_hi": "खाद का खर्च कम करने के लिए मिट्टी की जाँच कराएँ, जरूरत के अनुसार ही उर्वरक डालें, जैविक खाद मिलाएँ, जैव उर्वरकों का उपयोग करें और ड्रिप सिंचाई अपनाएँ ताकि पोषक तत्वों का सही उपयोग हो। खेत के अवशेष से कम्पोस्ट बनाकर रासायनिक खाद पर निर्भरता कम करें।",
+    "answer_pa": "ਖਾਦ ਦਾ ਖਰਚਾ ਘਟਾਉਣ ਲਈ ਮਿੱਟੀ ਦੀ ਜਾਂਚ ਕਰੋ, ਲੋੜ ਅਨੁਸਾਰ ਹੀ ਖਾਦ ਪਾਓ, ਜੈਵਿਕ ਖਾਦ ਮਿਲਾਓ, ਜੈਵਿਕ ਖਾਦ ਵਰਤੋਂ ਅਤੇ ਡ੍ਰਿਪ ਸਿੰਚਾਈ ਨਾਲ ਪੋਸ਼ਕ ਤੱਤਾਂ ਦਾ ਸਹੀ ਵਰਤੋਂ ਕਰੋ। ਖੇਤ ਦੀ ਬਚਤ ਨਾਲ ਕੰਪੋਸਟ ਬਣਾਕੇ ਰਸਾਇਣਕ ਖਾਦ ਤੇ ਨਿਰਭਰਤਾ ਘਟਾਓ।"
+  },
+  {
+    "question_en": "Why is organic farming beneficial?",
+    "question_hi": "जैविक खेती लाभदायक क्यों है?",
+    "question_pa": "ਜੈਵਿਕ ਖੇਤੀ ਲਾਭਦਾਇਕ ਕਿਉਂ ਹੈ?",
+    "answer_en": "Organic farming improves soil health, reduces chemical residue in crops, enhances crop quality, and ensures long-term sustainability. It also gives better market prices and promotes eco-friendly agriculture.",
+    "answer_hi": "जैविक खेती मिट्टी की सेहत को बेहतर बनाती है, फसलों में रासायनिक अवशेष कम करती है, गुणवत्ता बढ़ाती है और खेती को लंबे समय तक टिकाऊ बनाती है। जैविक उत्पादों को बाज़ार में अच्छा दाम मिलता है और पर्यावरण भी सुरक्षित रहता है।",
+    "answer_pa": "ਜੈਵਿਕ ਖੇਤੀ ਮਿੱਟੀ ਦੀ ਸਿਹਤ ਸੁਧਾਰਦੀ ਹੈ, ਫਸਲਾਂ ਵਿੱਚ ਰਸਾਇਣਕ ਅਵਸ਼ੇਸ਼ ਘਟਾਉਂਦੀ ਹੈ, ਗੁਣਵੱਤਾ ਵਧਾਉਂਦੀ ਹੈ ਅਤੇ ਖੇਤੀ ਨੂੰ ਲੰਮੇ ਸਮੇਂ ਲਈ ਟਿਕਾਊ ਬਣਾਉਂਦੀ ਹੈ। ਜੈਵਿਕ ਉਤਪਾਦਾਂ ਨੂੰ ਬਾਜ਼ਾਰ ਵਿੱਚ ਵਧੀਆ ਭਾਅ ਮਿਲਦਾ ਹੈ ਅਤੇ ਪਰਿਆਵਰਣ ਸੁਰੱਖਿਅਤ ਰਹਿੰਦਾ ਹੈ।"
+  },
+  {
+    "question_en": "How to control termites in crops?",
+    "question_hi": "फसलों में दीमक को कैसे नियंत्रित करें?",
+    "question_pa": "ਫਸਲਾਂ ਵਿੱਚ ਦੀਮਕ ਨੂੰ ਕਿਵੇਂ ਕਾਬੂ ਕੀਤਾ ਜਾਵੇ?",
+    "answer_en": "To control termites, treat seeds before sowing, apply neem cake or cow dung-based solutions in soil, and keep the field free from leftover roots and stalks. Maintain proper field moisture and avoid over-irrigation to prevent termite spread.",
+    "answer_hi": "दीमक नियंत्रण के लिए बीज बोने से पहले उपचार करें, मिट्टी में नीम खली या गोबर आधारित घोल मिलाएँ, और खेत में जड़ों व ठूँठ को न छोड़े। खेत में नमी संतुलित रखें और अत्यधिक सिंचाई से बचें ताकि दीमक न बढ़े।",
+    "answer_pa": "ਦੀਮਕ ਕਾਬੂ ਲਈ ਬੀਜ ਬੀਜਣ ਤੋਂ ਪਹਿਲਾਂ ਇਲਾਜ ਕਰੋ, ਮਿੱਟੀ ਵਿੱਚ ਨੀਮ ਖਲੀ ਜਾਂ ਗੋਬਰ ਆਧਾਰਿਤ ਘੋਲ ਮਿਲਾਓ ਅਤੇ ਖੇਤ ਵਿੱਚ ਜੜਾਂ ਅਤੇ ਠੂਠ ਨਾ ਛੱਡੋ। ਖੇਤ ਦੀ ਨਮੀ ਸੰਤੁਲਿਤ ਰੱਖੋ ਅਤੇ ਵੱਧ ਸਿੰਚਾਈ ਤੋਂ ਬਚੋ ਤਾਂ ਕਿ ਦੀਮਕ ਨਾ ਵਧੇ।"
+  },
+  {
+    "question_en": "How can farmers benefit from PM Kisan Yojana?",
+    "question_hi": "किसान PM किसान योजना से कैसे लाभ लें?",
+    "question_pa": "ਕਿਸਾਨ PM ਕਿਸਾਨ ਯੋਜਨਾ ਤੋਂ ਕਿਵੇਂ ਲਾਭ ਲੈ ਸਕਦੇ ਹਨ?",
+    "answer_en": "Under PM Kisan, farmers receive ₹6,000 annually in three installments. To benefit, ensure e-KYC completion, link Aadhaar with bank account, and keep land records updated. Regularly check status on the PM Kisan portal.",
+    "answer_hi": "PM किसान योजना के तहत किसानों को साल में ₹6,000 तीन किस्तों में मिलते हैं। लाभ पाने के लिए e-KYC पूरी करें, आधार को बैंक खाते से लिंक रखें और भूमि रिकॉर्ड अपडेट रखें। PM किसान पोर्टल पर स्थिति नियमित जाँचें।",
+    "answer_pa": "PM ਕਿਸਾਨ ਯੋਜਨਾ ਤਹਿਤ ਕਿਸਾਨਾਂ ਨੂੰ ਸਾਲ ਵਿੱਚ ₹6,000 ਤਿੰਨ ਕਿਸਤਾਂ ਵਿੱਚ ਮਿਲਦੇ ਹਨ। ਲਾਭ ਲਈ e-KYC ਪੂਰੀ ਕਰੋ, ਆਧਾਰ ਨੂੰ ਬੈਂਕ ਨਾਲ ਲਿੰਕ ਰੱਖੋ ਅਤੇ ਜ਼ਮੀਨੀ ਰਿਕਾਰਡ ਅੱਪਡੇਟ ਰੱਖੋ। PM ਕਿਸਾਨ ਪੋਰਟਲ 'ਤੇ ਸਥਿਤੀ ਨਿਯਮਿਤ ਤੌਰ 'ਤੇ ਜਾਂਚੋ।"
+  },
+  {
+    "question_en": "How to protect crops from heat waves?",
+    "question_hi": "लू की लहर से फसल को कैसे बचाएँ?",
+    "question_pa": "ਲੂ ਦੀ ਲਹਿਰ ਤੋਂ ਫਸਲ ਨੂੰ ਕਿਵੇਂ ਬਚਾਇਆ ਜਾਏ?",
+    "answer_en": "Protect crops from heat waves by providing evening irrigation, using mulching to retain moisture, and installing shade nets for nurseries. Use heat-tolerant crop varieties and avoid applying fertilizers during peak heat.",
+    "answer_hi": "लू से बचाव के लिए शाम को सिंचाई करें, नमी बनाए रखने के लिए मल्चिंग करें और नर्सरी में शेड नेट लगाएँ। गर्मी सहनशील किस्में लगाएँ और तेज गर्मी में खाद डालने से बचें।",
+    "answer_pa": "ਲੂ ਤੋਂ ਬਚਾਅ ਲਈ ਸ਼ਾਮ ਨੂੰ ਸਿੰਚਾਈ ਕਰੋ, ਨਮੀ ਬਣਾਈ ਰੱਖਣ ਲਈ ਮਲਚਿੰਗ ਕਰੋ ਅਤੇ ਨਰਸਰੀ ਵਿੱਚ ਸ਼ੇਡ ਨੈੱਟ ਲਗਾਓ। ਗਰਮੀ-ਸਹਿਨਸ਼ੀਲ ਕਿਸਮਾਂ ਬੀਜੋ ਅਤੇ ਤੇਜ਼ ਗਰਮੀ ਵਿੱਚ ਖਾਦ ਪਾਉਣ ਤੋਂ ਬਚੋ।"
+  },
+  {
+    "question_en": "How to identify nutrient deficiency in plants?",
+    "question_hi": "पौधों में पोषक तत्वों की कमी कैसे पहचानें?",
+    "question_pa": "ਪੌਧਿਆਂ ਵਿੱਚ ਪੋਸ਼ਕ ਤੱਤਾਂ ਦੀ ਘਾਟ ਕਿਵੇਂ ਪਛਾਣੀ ਜਾਵੇ?",
+    "answer_en": "Observe leaf color, size, and patterns: yellowing indicates nitrogen deficiency, purple color shows phosphorus deficiency, and burnt leaf edges show potassium deficiency. Soil testing helps confirm nutrient imbalance.",
+    "answer_hi": "पत्तों का रंग, आकार और निशान देखें—पीले पत्ते नाइट्रोजन की कमी, बैंगनी रंग फॉस्फोरस की कमी, और जले किनारे पोटाश की कमी बताते हैं। मिट्टी परीक्षण से पोषक असंतुलन की पुष्टि होती है।",
+    "answer_pa": "ਪੱਤਿਆਂ ਦਾ ਰੰਗ, ਆਕਾਰ ਅਤੇ ਨਿਸ਼ਾਨ ਦੇਖੋ—ਪੀਲੇ ਪੱਤੇ ਨਾਈਟ੍ਰੋਜਨ ਦੀ ਘਾਟ, ਜਾਮਨੀ ਰੰਗ ਫਾਸਫੋਰਸ ਦੀ ਘਾਟ ਅਤੇ ਸੜੇ ਕਿਨਾਰੇ ਪੋਟਾਸ਼ ਦੀ ਘਾਟ ਦੱਸਦੇ ਹਨ। ਮਿੱਟੀ ਦੀ ਜਾਂਚ ਨਾਲ ਇਸ ਦੀ ਪੁਸ਼ਟੀ ਹੁੰਦੀ ਹੈ।"
+  },
+  {
+    "question_en": "What is drip irrigation and why is it useful?",
+    "question_hi": "ड्रिप सिंचाई क्या है और यह क्यों उपयोगी है?",
+    "question_pa": "ਡ੍ਰਿਪ ਸਿੰਚਾਈ ਕੀ ਹੈ ਅਤੇ ਇਹ ਕਿਉਂ ਲਾਭਦਾਇਕ ਹੈ?",
+    "answer_en": "Drip irrigation delivers water directly to plant roots, saving 40–60% water and improving fertilizer use. It reduces weed growth, prevents fungal diseases, and increases yield, especially in fruits and vegetables.",
+    "answer_hi": "ड्रिप सिंचाई में पानी सीधे पौधों की जड़ों तक पहुँचता है, जिससे 40–60% पानी बचता है और खाद का बेहतर उपयोग होता है। इससे खरपतवार कम होते हैं, फफूँदी रोग कम लगते हैं और खासकर फल-सब्जियों में पैदावार बढ़ती है।",
+    "answer_pa": "ਡ੍ਰਿਪ ਸਿੰਚਾਈ ਵਿੱਚ ਪਾਣੀ ਸਿੱਧਾ ਪੌਧਿਆਂ ਦੀਆਂ ਜੜ੍ਹਾਂ ਤੱਕ ਪਹੁੰਚਦਾ ਹੈ, ਜਿਸ ਨਾਲ 40–60% ਪਾਣੀ ਬਚਦਾ ਹੈ ਅਤੇ ਖਾਦ ਦਾ ਵਧੀਆ ਵਰਤੋਂ ਹੁੰਦੀ ਹੈ। ਇਸ ਨਾਲ ਘਾਹ-ਫੂਸ ਘਟਦਾ ਹੈ, ਫਫੂੰਦ ਬਿਮਾਰੀਆਂ ਘਟਦੀਆਂ ਹਨ ਅਤੇ ਫਲ-ਸਬਜ਼ੀਆਂ ਵਿੱਚ ਉਪਜ ਵਧਦੀ ਹੈ।"
+  },
+  {
+    "question_en": "How to control fruit flies in orchards?",
+    "question_hi": "बागों में फल मक्खी को कैसे नियंत्रित करें?",
+    "question_pa": "ਬਾਗਾਂ ਵਿੱਚ ਫਲ ਮੱਖੀ ਨੂੰ ਕਿਵੇਂ ਕਾਬੂ ਕੀਤਾ ਜਾਵੇ?",
+    "answer_en": "Use pheromone traps, remove damaged fruits, spray neem-based solutions, and keep orchards clean. Irrigate in the evening to avoid excess humidity during the day and promote proper pruning for air circulation.",
+    "answer_hi": "फल मक्खी नियंत्रण के लिए फेरोमोन ट्रैप लगाएँ, सड़े-गले फल हटाएँ, नीम आधारित स्प्रे करें और बगीचे को साफ रखें। दिन में नमी अधिक न बढ़े, इसके लिए शाम को सिंचाई करें और हवा के प्रवाह के लिए छँटाई करें।",
+    "answer_pa": "ਫਲ ਮੱਖੀ ਕਾਬੂ ਲਈ ਫੈਰੋਮੋਨ ਟ੍ਰੈਪ ਲਗਾਓ, ਸੜੇ-ਗਲੇ ਫਲ ਹਟਾਓ, ਨੀਮ ਆਧਾਰਿਤ ਸਪਰੇ ਕਰੋ ਅਤੇ ਬਾਗ ਨੂੰ ਸਾਫ਼ ਰੱਖੋ। ਦਿਨ ਵਿੱਚ ਨਮੀ ਵੱਧ ਨਾ ਹੋਵੇ, ਇਸ ਲਈ ਸ਼ਾਮ ਨੂੰ ਸਿੰਚਾਈ ਕਰੋ ਅਤੇ ਹਵਾ ਦੇ ਪ੍ਰਵਾਹ ਲਈ ਛੰਟਾਈ ਕਰੋ।"
+  },
+  {
+    "question_en": "How to start beekeeping for extra income?",
+    "question_hi": "अतिरिक्त आमदनी के लिए मधुमक्खी पालन कैसे शुरू करें?",
+    "question_pa": "ਵਾਧੂ ਆਮਦਨ ਲਈ ਮੱਧੁਮੱਖੀ ਪਾਲਣ ਕਿਵੇਂ ਸ਼ੁਰੂ ਕੀਤਾ ਜਾਵੇ?",
+    "answer_en": "Start beekeeping by purchasing 2–5 bee boxes, placing them near crops like mustard or sunflower, and providing sugar syrup in early stages. Attend basic training and maintain hygiene to avoid infections in bee colonies.",
+    "answer_hi": "मधुमक्खी पालन शुरू करने के लिए 2–5 बॉक्स लें और सरसों, सूरजमुखी जैसी फसलों के पास रखें। शुरुआत में शुगर सिरप दें, बुनियादी प्रशिक्षण लें और स्वच्छता रखें ताकि मधुमक्खियों में संक्रमण न फैले।",
+    "answer_pa": "ਮੱਧੁਮੱਖੀ ਪਾਲਣ ਸ਼ੁਰੂ ਕਰਨ ਲਈ 2–5 ਬਾਕਸ ਲਓ ਅਤੇ ਇਹਨਾਂ ਨੂੰ ਸਰੋਂ, ਸੂਰਜਮੁਖੀ ਵਰਗੀਆਂ ਫਸਲਾਂ ਦੇ ਨੇੜੇ ਰੱਖੋ। ਸ਼ੁਰੂ ਵਿੱਚ ਸ਼ੁਗਰ ਸਿਰਪ ਦਿਓ, ਬੇਸਿਕ ਟ੍ਰੇਨਿੰਗ ਲਵੋ ਅਤੇ ਸਫਾਈ ਰੱਖੋ ਤਾਂ ਕਿ ਮੱਖੀਆਂ ਵਿੱਚ ਸੰਕਰਮਣ ਨਾ ਫੈਲੇ।"
+  },
+  {
+    "question_en": "How to increase income through mushroom cultivation?",
+    "question_hi": "मशरूम की खेती से आमदनी कैसे बढ़ाएँ?",
+    "question_pa": "ਖੁੰਭ ਦੀ ਖੇਤੀ ਨਾਲ ਆਮਦਨ ਕਿਵੇਂ ਵਧਾਈ ਜਾਵੇ?",
+    "answer_en": "Grow mushrooms in a room or shed with controlled temperature and humidity using straw or compost. Start with oyster or button mushrooms. Sell fresh locally and process surplus into pickles or dried powder to increase profits.",
+    "answer_hi": "मशरूम उगाने के लिए कमरे या शेड में नियंत्रित तापमान और नमी रखें और पुआल या कम्पोस्ट पर उगाएँ। शुरुआत ऑयस्टर या बटन मशरूम से करें। ताज़ा स्थानीय बेचें और बचा हुआ अचार या पाउडर बनाकर बेचें ताकि मुनाफा बढ़े।",
+    "answer_pa": "ਖੁੰਭ ਉਗਾਉਣ ਲਈ ਕਮਰੇ ਜਾਂ ਸ਼ੈਡ ਵਿੱਚ ਤਾਪਮਾਨ ਅਤੇ ਨਮੀ ਨਿਯੰਤਰਿਤ ਰੱਖੋ ਅਤੇ ਪੂਆਲ ਜਾਂ ਕੰਪੋਸਟ 'ਤੇ ਉਗਾਓ। ਸ਼ੁਰੂਆਤ ਓਇਸਟਰ ਜਾਂ ਬਟਨ ਖੁੰਭ ਨਾਲ ਕਰੋ। ਤਾਜ਼ੇ ਸਥਾਨਕ ਤੌਰ 'ਤੇ ਵੇਚੋ ਅਤੇ ਬਚਿਆ ਹੋਇਆ ਅਚਾਰ ਜਾਂ ਪਾਊਡਰ ਬਣਾਕੇ ਵੇਚੋ ਤਾਂ ਕਿ ਮਾਫ਼ਾ ਵਧੇ।"
+  },
+  {
+    "question_en": "How can farmers reduce irrigation costs using low-cost methods?",
+    "question_hi": "किसान कम लागत वाले तरीकों से सिंचाई खर्च कैसे कम कर सकते हैं?",
+    "question_pa": "ਕਿਸਾਨ ਘੱਟ ਖਰਚ ਵਾਲੇ ਤਰੀਕਿਆਂ ਨਾਲ ਸਿੰਚਾਈ ਖਰਚ ਕਿਵੇਂ ਘਟਾ ਸਕਦੇ ਹਨ?",
+    "answer_en": "Farmers can reduce irrigation costs by using mulching, drip irrigation, rainwater harvesting, and scheduling irrigation during early morning or late evening to reduce evaporation.",
+    "answer_hi": "किसान मल्चिंग, ड्रिप सिंचाई, वर्षा जल संग्रहण और सुबह जल्दी या शाम को सिंचाई करके पानी के वाष्पीकरण को कम कर खर्च घटा सकते हैं।",
+    "answer_pa": "ਕਿਸਾਨ ਮਲਚਿੰਗ, ਡ੍ਰਿਪ ਸਿੰਚਾਈ, ਵਰਖਾ ਪਾਣੀ ਸਟੋਰ ਕਰਨ ਅਤੇ ਸਵੇਰੇ ਜ ਲੇਟ ਸ਼ਾਮ ਨੂੰ ਸਿੰਚਾਈ ਕਰਕੇ ਵਾਸ਼ਪੀਕਰਨ ਘਟਾ ਸਕਦੇ ਹਨ।"
+  },
+  {
+    "question_en": "What are the benefits of intercropping for small farmers?",
+    "question_hi": "छोटे किसानों के लिए अंतरफसली खेती के क्या लाभ हैं?",
+    "question_pa": "ਛੋਟੇ ਕਿਸਾਨਾਂ ਲਈ ਮਿਲੀ-ਜੁਲੀ ਫਸਲ ਕਾਸ਼ਤ ਦੇ ਕੀ ਫਾਇਦੇ ਹਨ?",
+    "answer_en": "Intercropping increases income, improves soil fertility, reduces pest attack risk, and allows small farmers to harvest multiple crops from the same land.",
+    "answer_hi": "अंतरफसली खेती से आय बढ़ती है, मिट्टी की उर्वरता सुधरती है, कीट हमलों का खतरा कम होता है और छोटे किसान एक ही खेत से कई फसलें ले सकते हैं।",
+    "answer_pa": "ਇੰਟਰਕ੍ਰਾਪਿੰਗ ਨਾਲ ਆਮਦਨ ਵਧਦੀ ਹੈ, ਮਿੱਟੀ ਦੀ ਉਪਜਾਊਸ਼ਕਤੀ ਸੁਧਰਦੀ ਹੈ, ਕੀੜਿਆਂ ਦਾ ਖਤਰਾ ਘਟਦਾ ਹੈ ਅਤੇ ਛੋਟੇ ਕਿਸਾਨ ਇੱਕੋ ਖੇਤ ਤੋਂ ਕਈ ਫਸਲਾਂ ਲੈ ਸਕਦੇ ਹਨ।"
+  },
+  {
+    "question_en": "How to prevent fungal diseases during winter crops?",
+    "question_hi": "सर्दियों की फसलों में फफूंदी रोगों से कैसे बचें?",
+    "question_pa": "ਸਰਦੀਆਂ ਦੀਆਂ ਫਸਲਾਂ ਵਿੱਚ ਫਫੂੰਦੀ ਬਿਮਾਰੀਆਂ ਤੋਂ ਕਿਵੇਂ ਬਚਿਆ ਜਾਵੇ?",
+    "answer_en": "Avoid excess irrigation, ensure proper spacing, use resistant varieties, and spray Trichoderma or organic fungicide at early signs of fungal infection.",
+    "answer_hi": "अधिक सिंचाई न करें, उचित दूरी रखें, रोग प्रतिरोधक किस्में अपनाएँ और फफूंदी के शुरुआती लक्षणों पर ट्राइकोडर्मा या जैविक फफूंदनाशी छिड़कें।",
+    "answer_pa": "ਵੱਧ ਸਿੰਚਾਈ ਤੋਂ ਬਚੋ, ਸਹੀ ਦੂਰੀ ਰੱਖੋ, ਰੋਗ-ਰੋਧੀ ਕਿਸਮਾਂ ਲਗਾਓ ਅਤੇ ਸ਼ੁਰੂਆਤੀ ਲੱਛਣ ਤੇ ਟ੍ਰਾਈਕੋਡਰਮਾ ਜਾਂ ਆਰਗੈਨਿਕ ਫਫੂੰਦਨਾਸ਼ਕ ਛਿੜਕਾਓ।"
+  },
+  {
+    "question_en": "What is the best nutrient schedule for sugarcane?",
+    "question_hi": "गन्ने के लिए सर्वोत्तम पोषक तत्व अनुसूची क्या है?",
+    "question_pa": "ਗੰਨੇ ਲਈ ਸਭ ਤੋਂ ਵਧੀਆ ਪੋਸ਼ਕ ਤੱਤ ਸ਼ਡਿਊਲ ਕੀ ਹੈ?",
+    "answer_en": "Apply 25–30 tons FYM before planting, followed by NPK in three splits at 30, 60, and 90 days, and add micronutrients like zinc and magnesium for higher yield.",
+    "answer_hi": "गन्ना बोने से पहले 25–30 टन गोबर खाद डालें, फिर NPK तीन बार 30, 60 और 90 दिन पर दें तथा अधिक उत्पादन के लिए जिंक और मैग्नीशियम जैसे सूक्ष्म पोषक दें।",
+    "answer_pa": "ਰੋਪਾਈ ਤੋਂ ਪਹਿਲਾਂ 25–30 ਟਨ ਗੋਬਰ ਖਾਦ ਦਿਓ, ਫਿਰ NPK ਤਿੰਨ ਹਿੱਸਿਆਂ ਵਿੱਚ 30, 60, 90 ਦਿਨ 'ਤੇ ਦਿਓ ਅਤੇ ਵੱਧ ਉਪਜ ਲਈ ਜ਼ਿੰਕ ਤੇ ਮੈਗਨੀਸ਼ੀਅਮ ਵੀ ਜੋੜੋ।"
+  },
+  {
+    "question_en": "How can farmers protect crops from frost damage?",
+    "question_hi": "किसान पाले से फसलों को कैसे बचा सकते हैं?",
+    "question_pa": "ਕਿਸਾਨ ਪਾਲੇ ਤੋਂ ਫਸਲਾਂ ਨੂੰ ਕਿਵੇਂ ਬਚਾ ਸਕਦੇ ਹਨ?",
+    "answer_en": "Irrigate fields lightly at night, cover plants with straw or low-cost sheets, and spray potassium fertilizer to improve crop resistance to frost.",
+    "answer_hi": "रात में हल्की सिंचाई करें, पौधों को भूसे या सस्ती चादरों से ढकें और पोटाश का छिड़काव करें जिससे फसल की पाले से लड़ने की क्षमता बढ़े।",
+    "answer_pa": "ਰਾਤ ਸਮੇਂ ਹਲਕੀ ਸਿੰਚਾਈ ਕਰੋ, ਪੌਦਿਆਂ ਨੂੰ ਭੂਸੇ ਜਾਂ ਸਸਤੇ ਸ਼ੀਟ ਨਾਲ ਢੱਕੋ ਅਤੇ ਪਾਲੇ ਤੋਂ ਬਚਾਅ ਲਈ ਪੋਟਾਸ਼ ਦਾਖ਼ਲਾ ਕਰੋ।"
+  },
+  {
+    "question_en": "How to increase milk yield in buffaloes naturally?",
+    "question_hi": "भैंसों में दूध उत्पादन प्राकृतिक रूप से कैसे बढ़ाएँ?",
+    "question_pa": "ਮਹੀਂਸਾਂ ਵਿੱਚ ਦੁੱਧ ਉਤਪਾਦਨ ਕੁਦਰਤੀ ਤਰੀਕੇ ਨਾਲ ਕਿਵੇਂ ਵਧਾਇਆ ਜਾਵੇ?",
+    "answer_en": "Provide clean water, give mineral mixture daily, feed green fodder + dry fodder balance, keep shed clean, and massage udder to improve milk flow.",
+    "answer_hi": "स्वच्छ पानी दें, रोज़ मिनरल मिक्सचर खिलाएँ, हरा और सूखा चारा संतुलित रूप से दें, बाड़े की सफाई रखें और दूध ग्रंथि की हल्की मालिश करें।",
+    "answer_pa": "ਸਾਫ਼ ਪਾਣੀ ਦਿਓ, ਰੋਜ਼ ਮਿਨਰਲ ਮਿਕਸਚਰ ਦਿਓ, ਹਰਾ ਅਤੇ ਸੁੱਕਾ ਚਾਰਾ ਸੰਤੁਲਿਤ ਦਿਓ, ਸ਼ੈਡ ਸਾਫ਼ ਰੱਖੋ ਅਤੇ ਥਨ ਦੀ ਹਲਕੀ ਮਾਲਿਸ ਕਰੋ।"
+  },
+  {
+    "question_en": "Which mobile apps are useful for daily mandi price updates?",
+    "question_hi": "दैनिक मंडी भाव अपडेट के लिए कौन-से मोबाइल ऐप उपयोगी हैं?",
+    "question_pa": "ਰੋਜ਼ਾਨਾ ਮੰਡੀ ਭਾਅ ਲਈ ਕਿਹੜੇ ਮੋਬਾਈਲ ਐਪ ਫਾਇਦੇਮੰਦ ਹਨ?",
+    "answer_en": "Useful apps include Agmarknet, Kisan Suvidha, eNAM, and local mandi apps that provide daily crop prices, arrivals, and market trends.",
+    "answer_hi": "Agmarknet, किसान सुविधा, eNAM और स्थानीय मंडी ऐप रोज़ाना फसल भाव, आवक और बाजार रुझान की जानकारी देते हैं।",
+    "answer_pa": "Agmarknet, Kisan Suvidha, eNAM ਅਤੇ ਸਥਾਨਕ ਮੰਡੀ ਐਪ ਰੋਜ਼ਾਨਾ ਫਸਲ ਭਾਅ, ਆਮਦ ਅਤੇ ਮਾਰਕੀਟ ਰੁਝਾਨ ਦਿੰਦੇ ਹਨ।"
+  },
+  {
+    "question_en": "How can farmers improve soil organic carbon naturally?",
+    "question_hi": "किसान मिट्टी में जैविक कार्बन स्वाभाविक रूप से कैसे बढ़ा सकते हैं?",
+    "question_pa": "ਕਿਸਾਨ ਮਿੱਟੀ ਵਿੱਚ ਜੈਵਿਕ ਕਾਰਬਨ ਕੁਦਰਤੀ ਤੌਰ 'ਤੇ ਕਿਵੇਂ ਵਧਾ ਸਕਦੇ ਹਨ?",
+    "answer_en": "Add compost, crop residue, green manure, and practice crop rotation to increase soil organic carbon and improve soil health.",
+    "answer_hi": "कम्पोस्ट, फसल अवशेष, हरी खाद जोड़ें और फसल चक्र अपनाएँ जिससे जैविक कार्बन और मिट्टी स्वास्थ्य में सुधार होता है।",
+    "answer_pa": "ਕੰਪੋਸਟ, ਫਸਲ ਬਚਤ, ਹਰੀ ਖਾਦ ਸ਼ਾਮਲ ਕਰੋ ਅਤੇ ਫਸਲ ਚੱਕਰ ਅਪਣਾਓ, ਜਿਸ ਨਾਲ ਜੈਵਿਕ ਕਾਰਬਨ ਅਤੇ ਮਿੱਟੀ ਦੀ ਸਿਹਤ ਸੁਧਰਦੀ ਹੈ।"
+  },
+  {
+    "question_en": "Why is crop rotation important for long-term soil health?",
+    "question_hi": "लंबे समय तक मिट्टी की सेहत के लिए फसल चक्र क्यों जरूरी है?",
+    "question_pa": "ਲੰਮੇ ਸਮੇਂ ਲਈ ਮਿੱਟੀ ਦੀ ਸਿਹਤ ਵਾਸਤੇ ਫਸਲ ਚੱਕਰ ਕਿਉਂ ਜ਼ਰੂਰੀ ਹੈ?",
+    "answer_en": "Crop rotation prevents nutrient depletion, breaks pest and disease cycles, improves soil structure, and increases biodiversity for long-term soil health.",
+    "answer_hi": "फसल चक्र पोषक तत्वों की कमी को रोकता है, कीट–रोग चक्र तोड़ता है, मिट्टी की संरचना सुधारता है और जैव विविधता बढ़ाता है।",
+    "answer_pa": "ਫਸਲ ਚੱਕਰ ਪੋਸ਼ਕ ਤੱਤਾਂ ਦੀ ਘਾਟ ਰੋਕਦਾ ਹੈ, ਕੀੜਾ–ਰੋਗ ਚੱਕਰ ਤੋੜਦਾ ਹੈ, ਮਿੱਟੀ ਦੀ ਬਣਤਰ ਸੁਧਾਰਦਾ ਹੈ ਅਤੇ ਜੈਵਿਕ ਵਿਭਿੰਨਤਾ ਵਧਾਉਂਦਾ ਹੈ।"
+  },
+  {
+    "question_en": "How can farmers use AI-based tools in agriculture?",
+    "question_hi": "किसान कृषि में AI आधारित उपकरणों का उपयोग कैसे कर सकते हैं?",
+    "question_pa": "ਕਿਸਾਨ ਖੇਤੀ ਵਿੱਚ AI ਅਧਾਰਿਤ ਉਪਕਰਣਾਂ ਦਾ ਇਸਤੇਮਾਲ ਕਿਵੇਂ ਕਰ ਸਕਦੇ ਹਨ?",
+    "answer_en": "Farmers can use AI tools for crop disease detection, weather prediction, soil analysis, yield forecast, and smart irrigation to reduce losses and increase productivity.",
+    "answer_hi": "किसान AI उपकरणों का उपयोग फसल रोग पहचान, मौसम पूर्वानुमान, मिट्टी विश्लेषण, पैदावार अनुमान और स्मार्ट सिंचाई के लिए कर सकते हैं, जिससे नुकसान कम और उत्पादन बढ़ता है।",
+    "answer_pa": "ਕਿਸਾਨ AI ਟੂਲ ਫਸਲ ਰੋਗ ਪਛਾਣ, ਮੌਸਮ ਭਵਿੱਖਬਾਣੀ, ਮਿੱਟੀ ਵਿਸ਼ਲੇਸ਼ਣ, ਪੈਦਾਵਾਰ ਅਨੁਮਾਨ ਅਤੇ ਸਮਾਰਟ ਸਿੰਚਾਈ ਲਈ ਵਰਤ ਸਕਦੇ ਹਨ, ਜਿਸ ਨਾਲ ਨੁਕਸਾਨ ਘਟਦਾ ਹੈ ਅਤੇ ਉਤਪਾਦਕਤਾ ਵਧਦੀ ਹੈ।"
   }
 ]
 
